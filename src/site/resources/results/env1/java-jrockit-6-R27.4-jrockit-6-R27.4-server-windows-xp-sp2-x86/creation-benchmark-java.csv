@@ -1,0 +1,66 @@
+[CreationTest], Creation of 50000000 new ClassWith1String(),, snapshot time,16
+[CreationTest], Creation of 50000000 new ClassWith1String(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith1String(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith1String(),, snapshot time,47
+[CreationTest], Creation of 50000000 new ClassWith1String(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith1String(),, snapshot time,32
+[CreationTest], Creation of 50000000 new ClassWith1String(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith1String(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith1String(),, snapshot time,16
+[CreationTest], Creation of 50000000 new ClassWith1String(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith1String(),, average time,29, min time,16, max time,47, relative deviation time,28.64
+[CreationTest], Creation of 50000000 new ClassWith10String(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith10String(),, snapshot time,16
+[CreationTest], Creation of 50000000 new ClassWith10String(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith10String(),, snapshot time,16
+[CreationTest], Creation of 50000000 new ClassWith10String(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith10String(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith10String(),, snapshot time,16
+[CreationTest], Creation of 50000000 new ClassWith10String(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith10String(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith10String(),, snapshot time,16
+[CreationTest], Creation of 50000000 new ClassWith10String(),, average time,25, min time,16, max time,31, relative deviation time,29.39
+[CreationTest], Creation of 50000000 new ClassWith1int(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith1int(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith1int(),, snapshot time,16
+[CreationTest], Creation of 50000000 new ClassWith1int(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith1int(),, snapshot time,32
+[CreationTest], Creation of 50000000 new ClassWith1int(),, snapshot time,15
+[CreationTest], Creation of 50000000 new ClassWith1int(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith1int(),, snapshot time,32
+[CreationTest], Creation of 50000000 new ClassWith1int(),, snapshot time,15
+[CreationTest], Creation of 50000000 new ClassWith1int(),, snapshot time,32
+[CreationTest], Creation of 50000000 new ClassWith1int(),, average time,26, min time,15, max time,32, relative deviation time,28.52
+[CreationTest], Creation of 50000000 new ClassWith10int(),, snapshot time,15
+[CreationTest], Creation of 50000000 new ClassWith10int(),, snapshot time,15
+[CreationTest], Creation of 50000000 new ClassWith10int(),, snapshot time,47
+[CreationTest], Creation of 50000000 new ClassWith10int(),, snapshot time,16
+[CreationTest], Creation of 50000000 new ClassWith10int(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith10int(),, snapshot time,16
+[CreationTest], Creation of 50000000 new ClassWith10int(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith10int(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith10int(),, snapshot time,16
+[CreationTest], Creation of 50000000 new ClassWith10int(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith10int(),, average time,24, min time,15, max time,47, relative deviation time,43.1
+[CreationTest], Creation of 50000000 new ClassWith1ClassWith10String(),, snapshot time,16
+[CreationTest], Creation of 50000000 new ClassWith1ClassWith10String(),, snapshot time,47
+[CreationTest], Creation of 50000000 new ClassWith1ClassWith10String(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith1ClassWith10String(),, snapshot time,15
+[CreationTest], Creation of 50000000 new ClassWith1ClassWith10String(),, snapshot time,32
+[CreationTest], Creation of 50000000 new ClassWith1ClassWith10String(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith1ClassWith10String(),, snapshot time,16
+[CreationTest], Creation of 50000000 new ClassWith1ClassWith10String(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith1ClassWith10String(),, snapshot time,31
+[CreationTest], Creation of 50000000 new ClassWith1ClassWith10String(),, snapshot time,16
+[CreationTest], Creation of 50000000 new ClassWith1ClassWith10String(),, average time,26, min time,15, max time,47, relative deviation time,38.26
+[CreationGetterSetterTest], Creation of 50000000 new ClassWith10ClassWith10String(),, snapshot time,31
+[CreationGetterSetterTest], Creation of 50000000 new ClassWith10ClassWith10String(),, snapshot time,16
+[CreationGetterSetterTest], Creation of 50000000 new ClassWith10ClassWith10String(),, snapshot time,31
+[CreationGetterSetterTest], Creation of 50000000 new ClassWith10ClassWith10String(),, snapshot time,31
+[CreationGetterSetterTest], Creation of 50000000 new ClassWith10ClassWith10String(),, snapshot time,16
+[CreationGetterSetterTest], Creation of 50000000 new ClassWith10ClassWith10String(),, snapshot time,31
+[CreationGetterSetterTest], Creation of 50000000 new ClassWith10ClassWith10String(),, snapshot time,16
+[CreationGetterSetterTest], Creation of 50000000 new ClassWith10ClassWith10String(),, snapshot time,31
+[CreationGetterSetterTest], Creation of 50000000 new ClassWith10ClassWith10String(),, snapshot time,31
+[CreationGetterSetterTest], Creation of 50000000 new ClassWith10ClassWith10String(),, snapshot time,16
+[CreationTest], Creation of 50000000 new ClassWith10ClassWith10String((),, average time,25, min time,16, max time,31, relative deviation time,29.39

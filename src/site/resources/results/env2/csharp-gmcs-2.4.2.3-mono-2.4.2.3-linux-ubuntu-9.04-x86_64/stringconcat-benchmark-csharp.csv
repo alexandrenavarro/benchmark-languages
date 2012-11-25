@@ -1,0 +1,44 @@
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,392764.808
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,404193.262
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,390327.806
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,397680.46
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,388852.796
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,392457.198
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,388605.578
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,388273.95
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,388541.508
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,390158.522
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,, average time,392185, min time,388273, max time,404193, relative deviation time,1.23
+[StringConcatTest], Concatenation of 100000 String With 1000 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,2562.333
+[StringConcatTest], Concatenation of 100000 String With 1000 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,2564.928
+[StringConcatTest], Concatenation of 100000 String With 1000 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,2564.883
+[StringConcatTest], Concatenation of 100000 String With 1000 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,2564.997
+[StringConcatTest], Concatenation of 100000 String With 1000 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,2565.358
+[StringConcatTest], Concatenation of 100000 String With 1000 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,2565.272
+[StringConcatTest], Concatenation of 100000 String With 1000 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,2564.846
+[StringConcatTest], Concatenation of 100000 String With 1000 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,2564.988
+[StringConcatTest], Concatenation of 100000 String With 1000 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,2564.734
+[StringConcatTest], Concatenation of 100000 String With 1000 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=200000000, snapshot time,2565.09
+[StringConcatTest], Concatenation of 100000 String With 1000 StringBuilder  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,, average time,2564, min time,2562, max time,2565, relative deviation time,0
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,1666.265
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,1675.377
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,1683.962
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,1680.093
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,1680.084
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,1680.883
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,1682.795
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,1680.275
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,1683.225
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,1972.085
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,, average time,1708, min time,1666, max time,1972, relative deviation time,5.15
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,28500
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,29701.294
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,26063.483
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,26031.647
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,27671.854
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,26033.879
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,28935.909
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,26259.133
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,26025.451
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,count=60000000, snapshot time,28114.384
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.Length   ,, average time,27333, min time,26025, max time,29701, relative deviation time,4.92

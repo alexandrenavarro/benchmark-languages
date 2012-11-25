@@ -1,0 +1,132 @@
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 1 Consumer,, snapshot time,2579
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 1 Consumer,, snapshot time,2548
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 1 Consumer,, snapshot time,2567
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 1 Consumer,, snapshot time,2561
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 1 Consumer,, snapshot time,2554
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 1 Consumer,, snapshot time,2556
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 1 Consumer,, snapshot time,2754
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 1 Consumer,, snapshot time,2555
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 1 Consumer,, snapshot time,2551
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 1 Consumer,, snapshot time,2541
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 1 Consumer,, average time,2576, min time,2541, max time,2754, relative deviation time,2.32
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 5 Consumers,, snapshot time,1543
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 5 Consumers,, snapshot time,1255
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 5 Consumers,, snapshot time,1477
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 5 Consumers,, snapshot time,1245
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 5 Consumers,, snapshot time,1242
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 5 Consumers,, snapshot time,1381
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 5 Consumers,, snapshot time,1159
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 5 Consumers,, snapshot time,1318
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 5 Consumers,, snapshot time,1211
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 5 Consumers,, snapshot time,1318
+[ThreadingTest], Add 1000000 object in a queue with 1 Producer and Poll with 5 Consumers,, average time,1314, min time,1159, max time,1543, relative deviation time,8.73
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 1 Consumer,, snapshot time,2605
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 1 Consumer,, snapshot time,2589
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 1 Consumer,, snapshot time,2618
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 1 Consumer,, snapshot time,2608
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 1 Consumer,, snapshot time,2587
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 1 Consumer,, snapshot time,2594
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 1 Consumer,, snapshot time,2605
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 1 Consumer,, snapshot time,2792
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 1 Consumer,, snapshot time,2609
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 1 Consumer,, snapshot time,2597
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 1 Consumer,, average time,2620, min time,2587, max time,2792, relative deviation time,2.21
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 5 Consumers,, snapshot time,1305
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 5 Consumers,, snapshot time,1124
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 5 Consumers,, snapshot time,1426
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 5 Consumers,, snapshot time,1238
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 5 Consumers,, snapshot time,1171
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 5 Consumers,, snapshot time,1301
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 5 Consumers,, snapshot time,1167
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 5 Consumers,, snapshot time,1253
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 5 Consumers,, snapshot time,1178
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 5 Consumers,, snapshot time,1031
+[ThreadingTest], Add 1000000 object in a queue with 5 Producers and Poll with 5 Consumers,, average time,1219, min time,1031, max time,1426, relative deviation time,8.58
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 1 Producer and Poll with 5 Consumers,, snapshot time,6268
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 1 Producer and Poll with 5 Consumers,, snapshot time,7694
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 1 Producer and Poll with 5 Consumers,, snapshot time,6912
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 1 Producer and Poll with 5 Consumers,, snapshot time,7515
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 1 Producer and Poll with 5 Consumers,, snapshot time,6979
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 1 Producer and Poll with 5 Consumers,, snapshot time,7391
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 1 Producer and Poll with 5 Consumers,, snapshot time,7521
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 1 Producer and Poll with 5 Consumers,, snapshot time,7378
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 1 Producer and Poll with 5 Consumers,, snapshot time,7134
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 1 Producer and Poll with 5 Consumers,, snapshot time,7635
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 1 Producer and Poll with 5 Consumers,, average time,7242, min time,6268, max time,7694, relative deviation time,5.67
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 1 Consumers,, snapshot time,8699
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 1 Consumers,, snapshot time,8347
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 1 Consumers,, snapshot time,7550
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 1 Consumers,, snapshot time,7479
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 1 Consumers,, snapshot time,6848
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 1 Consumers,, snapshot time,8027
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 1 Consumers,, snapshot time,7437
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 1 Consumers,, snapshot time,8334
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 1 Consumers,, snapshot time,8061
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 1 Consumers,, snapshot time,7813
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 1 Consumer,, average time,7859, min time,6848, max time,8699, relative deviation time,6.58
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 5 Consumers,, snapshot time,5719
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 5 Consumers,, snapshot time,6087
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 5 Consumers,, snapshot time,5547
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 5 Consumers,, snapshot time,5528
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 5 Consumers,, snapshot time,5864
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 5 Consumers,, snapshot time,5112
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 5 Consumers,, snapshot time,5461
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 5 Consumers,, snapshot time,5507
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 5 Consumers,, snapshot time,5487
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 5 Consumers,, snapshot time,7026
+[ThreadingTest], Add 1000000 object in a SyncCacheWithSyncMap with 5 Producers and Poll with 5 Consumers,, average time,5733, min time,5112, max time,7026, relative deviation time,8.65
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,3476
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,3597
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,4120
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,3620
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,3980
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,4134
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,3976
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,4482
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,3457
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,3964
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 1 Producer and Poll with 5 Consumers,, average time,3880, min time,3457, max time,4482, relative deviation time,8.15
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,3708
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,3649
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,3838
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,4185
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,3875
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,4199
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,4444
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,3847
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,4168
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumers,, snapshot time,3693
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 1 Consumer,, average time,3960, min time,3649, max time,4444, relative deviation time,6.44
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 5 Consumers,, snapshot time,3972
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 5 Consumers,, snapshot time,5329
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 5 Consumers,, snapshot time,4422
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 5 Consumers,, snapshot time,3907
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 5 Consumers,, snapshot time,3835
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 5 Consumers,, snapshot time,4628
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 5 Consumers,, snapshot time,4749
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 5 Consumers,, snapshot time,3838
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 5 Consumers,, snapshot time,4078
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 5 Consumers,, snapshot time,4227
+[ThreadingTest], Add 1000000 object in a SyncCacheWithLock with 5 Producers and Poll with 5 Consumers,, average time,4298, min time,3835, max time,5329, relative deviation time,10.73
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fib(41),, snapshot time,1567
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fib(41),, snapshot time,1568
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fib(41),, snapshot time,1566
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fib(41),, snapshot time,1565
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fib(41),, snapshot time,1566
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fib(41),, snapshot time,1565
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fib(41),, snapshot time,1566
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fib(41),, snapshot time,1566
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fib(41),, snapshot time,1566
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fib(41),, snapshot time,1567
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fib2(41),, average time,1566, min time,1565, max time,1568, relative deviation time,0.0
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fibWith2Threads(41),, snapshot time,971
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fibWith2Threads(41),, snapshot time,969
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fibWith2Threads(41),, snapshot time,970
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fibWith2Threads(41),, snapshot time,970
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fibWith2Threads(41),, snapshot time,971
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fibWith2Threads(41),, snapshot time,972
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fibWith2Threads(41),, snapshot time,971
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fibWith2Threads(41),, snapshot time,973
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fibWith2Threads(41),, snapshot time,968
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fibWith2Threads(41),, snapshot time,972
+[ThreadingTest], Invoke of 1 int fibo = ThreadFibo.fibWith2Threads(41),, average time,970, min time,968, max time,973, relative deviation time,0.14

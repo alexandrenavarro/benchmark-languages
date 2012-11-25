@@ -1,0 +1,121 @@
+[InvokeTest], Invoke Of A Static Method String 2000000000 InvokeImpl.echoStatic("").length(), count=2000000000, snapshot time,3500
+[InvokeTest], Invoke Of A Static Method String 2000000000 InvokeImpl.echoStatic("").length(), count=2000000000, snapshot time,4109
+[InvokeTest], Invoke Of A Static Method String 2000000000 InvokeImpl.echoStatic("").length(), count=2000000000, snapshot time,3219
+[InvokeTest], Invoke Of A Static Method String 2000000000 InvokeImpl.echoStatic("").length(), count=2000000000, snapshot time,3250
+[InvokeTest], Invoke Of A Static Method String 2000000000 InvokeImpl.echoStatic("").length(), count=2000000000, snapshot time,3234
+[InvokeTest], Invoke Of A Static Method String 2000000000 InvokeImpl.echoStatic("").length(), count=2000000000, snapshot time,3250
+[InvokeTest], Invoke Of A Static Method String 2000000000 InvokeImpl.echoStatic("").length(), count=2000000000, snapshot time,3250
+[InvokeTest], Invoke Of A Static Method String 2000000000 InvokeImpl.echoStatic("").length(), count=2000000000, snapshot time,3234
+[InvokeTest], Invoke Of A Static Method String 2000000000 InvokeImpl.echoStatic("").length(), count=2000000000, snapshot time,3250
+[InvokeTest], Invoke Of A Static Method String 2000000000 InvokeImpl.echoStatic("").length(), count=2000000000, snapshot time,3235
+[InvokeTest], Invoke Of A Static Method String 2000000000 InvokeImpl.echoStatic("").length(),, average time,3353, min time,3219, max time,4109, relative deviation time,7.86
+[InvokeTest], Invoke Of A Static Method Int 2000000000 InvokeImpl.echoStatic(i), count=-1973237248, snapshot time,718
+[InvokeTest], Invoke Of A Static Method Int 2000000000 InvokeImpl.echoStatic(i), count=-1973237248, snapshot time,719
+[InvokeTest], Invoke Of A Static Method Int 2000000000 InvokeImpl.echoStatic(i), count=-1973237248, snapshot time,703
+[InvokeTest], Invoke Of A Static Method Int 2000000000 InvokeImpl.echoStatic(i), count=-1973237248, snapshot time,719
+[InvokeTest], Invoke Of A Static Method Int 2000000000 InvokeImpl.echoStatic(i), count=-1973237248, snapshot time,719
+[InvokeTest], Invoke Of A Static Method Int 2000000000 InvokeImpl.echoStatic(i), count=-1973237248, snapshot time,703
+[InvokeTest], Invoke Of A Static Method Int 2000000000 InvokeImpl.echoStatic(i), count=-1973237248, snapshot time,719
+[InvokeTest], Invoke Of A Static Method Int 2000000000 InvokeImpl.echoStatic(i), count=-1973237248, snapshot time,703
+[InvokeTest], Invoke Of A Static Method Int 2000000000 InvokeImpl.echoStatic(i), count=-1973237248, snapshot time,718
+[InvokeTest], Invoke Of A Static Method Int 2000000000 InvokeImpl.echoStatic(i), count=-1973237248, snapshot time,719
+[InvokeTest], Invoke Of A Static Method Int 2000000000 InvokeImpl.echoStatic("").length(),, average time,714, min time,703, max time,719, relative deviation time,1.0
+[InvokeTest], Invoke Of An Instance Method With Interface 2000000000 invoke.echo("1").length(), count=2000000000, snapshot time,3688
+[InvokeTest], Invoke Of An Instance Method With Interface 2000000000 invoke.echo("1").length(), count=2000000000, snapshot time,3765
+[InvokeTest], Invoke Of An Instance Method With Interface 2000000000 invoke.echo("1").length(), count=2000000000, snapshot time,3250
+[InvokeTest], Invoke Of An Instance Method With Interface 2000000000 invoke.echo("1").length(), count=2000000000, snapshot time,3266
+[InvokeTest], Invoke Of An Instance Method With Interface 2000000000 invoke.echo("1").length(), count=2000000000, snapshot time,3234
+[InvokeTest], Invoke Of An Instance Method With Interface 2000000000 invoke.echo("1").length(), count=2000000000, snapshot time,3281
+[InvokeTest], Invoke Of An Instance Method With Interface 2000000000 invoke.echo("1").length(), count=2000000000, snapshot time,3266
+[InvokeTest], Invoke Of An Instance Method With Interface 2000000000 invoke.echo("1").length(), count=2000000000, snapshot time,3266
+[InvokeTest], Invoke Of An Instance Method With Interface 2000000000 invoke.echo("1").length(), count=2000000000, snapshot time,3265
+[InvokeTest], Invoke Of An Instance Method With Interface 2000000000 invoke.echo("1").length(), count=2000000000, snapshot time,3250
+[InvokeTest], Invoke Of An Instance Method With Interface 2000000000 invoke.echo("1").length(),, average time,3353, min time,3234, max time,3765, relative deviation time,5.6
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable With Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,688
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable With Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable With Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,671
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable With Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable With Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable With Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,656
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable With Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable With Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable With Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable With Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable With Interface 2000000000 invoke.echoWithGetVariable("1").length(),, average time,671, min time,656, max time,688, relative deviation time,1.07
+[InvokeTest], Invoke Of An Instance Method With Set Instance Variable With Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,5469
+[InvokeTest], Invoke Of An Instance Method With Set Instance Variable With Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,5578
+[InvokeTest], Invoke Of An Instance Method With Set Instance Variable With Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4062
+[InvokeTest], Invoke Of An Instance Method With Set Instance Variable With Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4078
+[InvokeTest], Invoke Of An Instance Method With Set Instance Variable With Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4203
+[InvokeTest], Invoke Of An Instance Method With Set Instance Variable With Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4047
+[InvokeTest], Invoke Of An Instance Method With Set Instance Variable With Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4078
+[InvokeTest], Invoke Of An Instance Method With Set Instance Variable With Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4063
+[InvokeTest], Invoke Of An Instance Method With Set Instance Variable With Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4047
+[InvokeTest], Invoke Of An Instance Method With Set Instance Variable With Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4093
+[InvokeTest], Invoke Of An Instance Method  With Get Instance Variable With Interface 2000000000 invoke.echoWithSetVariable("1").length(),, average time,4371, min time,4047, max time,5578, relative deviation time,13.22
+[InvokeTest], Invoke Of An Instance Method Without Interface 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,5844
+[InvokeTest], Invoke Of An Instance Method Without Interface 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,5828
+[InvokeTest], Invoke Of An Instance Method Without Interface 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,3063
+[InvokeTest], Invoke Of An Instance Method Without Interface 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,3062
+[InvokeTest], Invoke Of An Instance Method Without Interface 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,3063
+[InvokeTest], Invoke Of An Instance Method Without Interface 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,3062
+[InvokeTest], Invoke Of An Instance Method Without Interface 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,3063
+[InvokeTest], Invoke Of An Instance Method Without Interface 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,3031
+[InvokeTest], Invoke Of An Instance Method Without Interface 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,3062
+[InvokeTest], Invoke Of An Instance Method Without Interface 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,3063
+[InvokeTest], Invoke Of An Instance Method Without Interface 2000000000 invoke.echo("1").length(),, average time,3614, min time,3031, max time,5844, relative deviation time,30.74
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,656
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,671
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithGetVariable().length(),, average time,670, min time,656, max time,672, relative deviation time,0.7
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,5672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,5610
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4047
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4031
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4062
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4063
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4047
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4093
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4047
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4063
+[InvokeTest], Invoke Of An Instance Method With Set Instance Variable Without Interface 2000000000 invoke.echoWithSetVariable("1").length(),, average time,4373, min time,4031, max time,5672, relative deviation time,14.5
+[InvokeTest], Invoke Of An Instance Method 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,5515
+[InvokeTest], Invoke Of An Instance Method 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,5485
+[InvokeTest], Invoke Of An Instance Method 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,3046
+[InvokeTest], Invoke Of An Instance Method 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,3109
+[InvokeTest], Invoke Of An Instance Method 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,3078
+[InvokeTest], Invoke Of An Instance Method 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,3079
+[InvokeTest], Invoke Of An Instance Method 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,3093
+[InvokeTest], Invoke Of An Instance Method 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,3094
+[InvokeTest], Invoke Of An Instance Method 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,3094
+[InvokeTest], Invoke Of An Instance Method 2000000000 invoke.echo("").length(), count=2000000000, snapshot time,3078
+[InvokeTest], Invoke Of An Instance Method 2000000000 invoke.echo("1").length(),, average time,3567, min time,3046, max time,5515, relative deviation time,27.09
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,687
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,671
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithGetVariable().length(), count=1410065408, snapshot time,672
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithGetVariable().length(),, average time,673, min time,671, max time,687, relative deviation time,0.66
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,6406
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,6407
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4156
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4094
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4125
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4093
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4110
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4125
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4046
+[InvokeTest], Invoke Of An Instance Method With Get Instance Variable 2000000000 invoke.echoWithSetVariable("1").length(), count=2000000000, snapshot time,4094
+[InvokeTest], Invoke Of An Instance Method With Set Instance Variable 2000000000 invoke.echoWithSetVariable("1").length(),, average time,4565, min time,4046, max time,6407, relative deviation time,20.17

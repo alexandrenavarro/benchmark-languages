@@ -1,0 +1,66 @@
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,126807
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,125464
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,125479
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,126604
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,125557
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,125917
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,125448
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,125463
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,125698
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,125448
+[StringConcatTest], Concatenation of 100000 String With 1000 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,, average time,125788, min time,125448, max time,126807, relative deviation time,0.38
+[StringConcatTest], Concatenation of 100000 String With 1000StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1406
+[StringConcatTest], Concatenation of 100000 String With 1000StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1406
+[StringConcatTest], Concatenation of 100000 String With 1000StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1406
+[StringConcatTest], Concatenation of 100000 String With 1000StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1390
+[StringConcatTest], Concatenation of 100000 String With 1000StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1406
+[StringConcatTest], Concatenation of 100000 String With 1000StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1406
+[StringConcatTest], Concatenation of 100000 String With 1000StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1406
+[StringConcatTest], Concatenation of 100000 String With 1000StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1406
+[StringConcatTest], Concatenation of 100000 String With 1000StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1406
+[StringConcatTest], Concatenation of 100000 String With 1000StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1406
+[StringConcatTest], Concatenation of 100000 String With 1000 StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,, average time,1404, min time,1390, max time,1406, relative deviation time,0.34
+[StringConcatTest], Concatenation of 100000 String With 10000StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1360
+[StringConcatTest], Concatenation of 100000 String With 10000StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1359
+[StringConcatTest], Concatenation of 100000 String With 10000StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1374
+[StringConcatTest], Concatenation of 100000 String With 10000StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1360
+[StringConcatTest], Concatenation of 100000 String With 10000StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1374
+[StringConcatTest], Concatenation of 100000 String With 10000StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1360
+[StringConcatTest], Concatenation of 100000 String With 10000StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1359
+[StringConcatTest], Concatenation of 100000 String With 10000StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1374
+[StringConcatTest], Concatenation of 100000 String With 10000StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1360
+[StringConcatTest], Concatenation of 100000 String With 10000StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=100000000, snapshot time,1374
+[StringConcatTest], Concatenation of 100000 String With 1000 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,, snapshot time,1365, min time,1359, max time,1374, relative deviation time,0.51
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,2859
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,2859
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,2875
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,2859
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,2859
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,2874
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,2859
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,2843
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,2937
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,2937
+[StringConcatTest], Concatenation of 10000000 String With 3 Add  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,, average time,2876, min time,2843, max time,2937, relative deviation time,1.09
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,672
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,687
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,672
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,750
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,672
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,687
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,672
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,687
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,672
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,672
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuffer  for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,, average time,684, min time,672, max time,750, relative deviation time,3.34
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,687
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,688
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,671
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,688
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,672
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,687
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,687
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,672
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,687
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,count=30000000, snapshot time,672
+[StringConcatTest], Concatenation of 10000000 String With 3 StringBuilder for (int j = SIZE   j != 0   j--) {s = s + A  } count += s.length()   ,, snapshot time,681, min time,671, max time,688, relative deviation time,1.11

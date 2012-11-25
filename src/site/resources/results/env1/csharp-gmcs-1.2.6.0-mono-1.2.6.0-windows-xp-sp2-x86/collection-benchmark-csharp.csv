@@ -1,0 +1,363 @@
+[CollectionTest], Creation of 1000000 ClassWith1intArray[1000] ClassWith1intb[] list = new ClassWith1intb[SIZE]  ,, snapshot time,796.8801
+[CollectionTest], Creation of 1000000 ClassWith1intArray[1000] ClassWith1intb[] list = new ClassWith1intb[SIZE]  ,, snapshot time,859.3805
+[CollectionTest], Creation of 1000000 ClassWith1intArray[1000] ClassWith1intb[] list = new ClassWith1intb[SIZE]  ,, snapshot time,843.7554
+[CollectionTest], Creation of 1000000 ClassWith1intArray[1000] ClassWith1intb[] list = new ClassWith1intb[SIZE]  ,, snapshot time,843.7554
+[CollectionTest], Creation of 1000000 ClassWith1intArray[1000] ClassWith1intb[] list = new ClassWith1intb[SIZE]  ,, snapshot time,828.1303
+[CollectionTest], Creation of 1000000 ClassWith1intArray[1000] ClassWith1intb[] list = new ClassWith1intb[SIZE]  ,, snapshot time,828.1303
+[CollectionTest], Creation of 1000000 ClassWith1intArray[1000] ClassWith1intb[] list = new ClassWith1intb[SIZE]  ,, snapshot time,828.1303
+[CollectionTest], Creation of 1000000 ClassWith1intArray[1000] ClassWith1intb[] list = new ClassWith1intb[SIZE]  ,, snapshot time,828.1303
+[CollectionTest], Creation of 1000000 ClassWith1intArray[1000] ClassWith1intb[] list = new ClassWith1intb[SIZE]  ,, snapshot time,1046.8817
+[CollectionTest], Creation of 1000000 ClassWith1intArray[1000] ClassWith1intb[] list = new ClassWith1intb[SIZE]  ,, snapshot time,953.1311
+[CollectionTest], Creation of 1000000 ClassWith1intArray[1000] ClassWith1intb[] list = new ClassWith1intb[SIZE]  ,, average time,865, min time,796, max time,1046, relative deviation time,8.31
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--) list[j] = classWith1int  ,, snapshot time,8093.8018
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--) list[j] = classWith1int  ,, snapshot time,8062.5516
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--) list[j] = classWith1int  ,, snapshot time,8062.5516
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--) list[j] = classWith1int  ,, snapshot time,8078.1767
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--) list[j] = classWith1int  ,, snapshot time,8046.9265
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--) list[j] = classWith1int  ,, snapshot time,8062.5516
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--) list[j] = classWith1int  ,, snapshot time,8062.5516
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--) list[j] = classWith1int  ,, snapshot time,8062.5516
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--) list[j] = classWith1int  ,, snapshot time,8078.1767
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--) list[j] = classWith1int  ,, snapshot time,8046.9265
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--) list[j] = classWith1int  ,, average time,8065, min time,8046, max time,8093, relative deviation time,0.17
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--)  ClassWith1intb[] list = new ClassWith1intb[SIZE]  list[j] = classWith1int  ,, snapshot time,9812.5628
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--)  ClassWith1intb[] list = new ClassWith1intb[SIZE]  list[j] = classWith1int  ,, snapshot time,8968.8074
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--)  ClassWith1intb[] list = new ClassWith1intb[SIZE]  list[j] = classWith1int  ,, snapshot time,9062.558
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--)  ClassWith1intb[] list = new ClassWith1intb[SIZE]  list[j] = classWith1int  ,, snapshot time,9609.4365
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--)  ClassWith1intb[] list = new ClassWith1intb[SIZE]  list[j] = classWith1int  ,, snapshot time,9671.9369
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--)  ClassWith1intb[] list = new ClassWith1intb[SIZE]  list[j] = classWith1int  ,, snapshot time,9609.4365
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--)  ClassWith1intb[] list = new ClassWith1intb[SIZE]  list[j] = classWith1int  ,, snapshot time,9609.4365
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--)  ClassWith1intb[] list = new ClassWith1intb[SIZE]  list[j] = classWith1int  ,, snapshot time,9500.0608
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--)  ClassWith1intb[] list = new ClassWith1intb[SIZE]  list[j] = classWith1int  ,, snapshot time,9531.311
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--)  ClassWith1intb[] list = new ClassWith1intb[SIZE]  list[j] = classWith1int  ,, snapshot time,9484.4357
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1intArray[1000]  for (int j = SIZE   j != 0   j--)  ClassWith1intb[] list = new ClassWith1intb[SIZE]  list[j] = classWith1int  ,, average time,9485, min time,8968, max time,9812, relative deviation time,2.65
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With For Generic   for (final ClassWith1int s : list) count += s.Int1  , count=1000000000, snapshot time,2015.6379
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With For Generic   for (final ClassWith1int s : list) count += s.Int1  , count=1000000000, snapshot time,2046.8881
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With For Generic   for (final ClassWith1int s : list) count += s.Int1  , count=1000000000, snapshot time,2031.263
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With For Generic   for (final ClassWith1int s : list) count += s.Int1  , count=1000000000, snapshot time,2031.263
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With For Generic   for (final ClassWith1int s : list) count += s.Int1  , count=1000000000, snapshot time,2031.263
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With For Generic   for (final ClassWith1int s : list) count += s.Int1  , count=1000000000, snapshot time,2015.6379
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With For Generic   for (final ClassWith1int s : list) count += s.Int1  , count=1000000000, snapshot time,2031.263
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With For Generic   for (final ClassWith1int s : list) count += s.Int1  , count=1000000000, snapshot time,2031.263
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With For Generic   for (final ClassWith1int s : list) count += s.Int1  , count=1000000000, snapshot time,2031.263
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With For Generic   for (final ClassWith1int s : list) count += s.Int1  , count=1000000000, snapshot time,2750.0176
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With For Generic   for (final ClassWith1int s : list) count += s.Int1  ,, average time,2101, min time,2015, max time,2750, relative deviation time,10.3
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++)  count += list[k].Int1, count=1000000000, snapshot time,2031.263
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++)  count += list[k].Int1, count=1000000000, snapshot time,2015.6379
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++)  count += list[k].Int1, count=1000000000, snapshot time,2046.8881
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++)  count += list[k].Int1, count=1000000000, snapshot time,2015.6379
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++)  count += list[k].Int1, count=1000000000, snapshot time,2031.263
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++)  count += list[k].Int1, count=1000000000, snapshot time,2031.263
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++)  count += list[k].Int1, count=1000000000, snapshot time,2015.6379
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++)  count += list[k].Int1, count=1000000000, snapshot time,2031.263
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++)  count += list[k].Int1, count=1000000000, snapshot time,2031.263
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++)  count += list[k].Int1, count=1000000000, snapshot time,2031.263
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++)  count += list[k].Int1,, average time,2027, min time,2015, max time,2046, relative deviation time,0.46
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = count += list[k - 1].Int1  ,, snapshot time,2203.1391
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = count += list[k - 1].Int1  ,, snapshot time,2093.7634
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = count += list[k - 1].Int1  ,, snapshot time,2093.7634
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = count += list[k - 1].Int1  ,, snapshot time,2062.5132
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = count += list[k - 1].Int1  ,, snapshot time,2078.1383
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = count += list[k - 1].Int1  ,, snapshot time,2093.7634
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = count += list[k - 1].Int1  ,, snapshot time,2109.3885
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = count += list[k - 1].Int1  ,, snapshot time,2062.5132
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = count += list[k - 1].Int1  ,, snapshot time,2093.7634
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = count += list[k - 1].Int1  ,, snapshot time,2093.7634
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length; k != 0  k--) count = count + list[k - 1].Int1  ,, average time,2097, min time,2062, max time,2203, relative deviation time,1.8
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2187.514
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2156.2638
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2187.514
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2187.514
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2140.6387
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2218.7642
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2125.0136
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2125.0136
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2140.6387
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2078.1383
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].Int1  ,, average time,2154, min time,2078, max time,2218, relative deviation time,1.81
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,8937.5572
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,8984.4325
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,9187.5588
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,8937.5572
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,9218.809
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,8875.0568
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,8937.5572
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,9203.1839
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,8953.1823
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,9000.0576
+[CollectionTest], Copy data from an array to an array 1000,, average time,9023, min time,8875, max time,9218, relative deviation time,1.34
+[CollectionTest], Copy data Optimized from an array to an array 1000,, snapshot time,765.6299
+[CollectionTest], Copy data Optimized from an array to an array 1000,, snapshot time,781.255
+[CollectionTest], Copy data Optimized from an array to an array 1000,, snapshot time,765.6299
+[CollectionTest], Copy data Optimized from an array to an array 1000,, snapshot time,765.6299
+[CollectionTest], Copy data Optimized from an array to an array 1000,, snapshot time,781.255
+[CollectionTest], Copy data Optimized from an array to an array 1000,, snapshot time,796.8801
+[CollectionTest], Copy data Optimized from an array to an array 1000,, snapshot time,765.6299
+[CollectionTest], Copy data Optimized from an array to an array 1000,, snapshot time,781.255
+[CollectionTest], Copy data Optimized from an array to an array 1000,, snapshot time,765.6299
+[CollectionTest], Copy data Optimized from an array to an array 1000,, snapshot time,781.255
+[CollectionTest], Copy data Optimized from an array to an array 1000,, average time,774, min time,765, max time,796, relative deviation time,1.34
+[CollectionTest], Creation of 1000000 List<ClassWith1int>(1000) final List<ClassWith1int> list = new ArrayList<ClassWith1int>(SIZE)     for (int j = SIZE   j != 0   j--) list.add(classWith1int)  ,, snapshot time,15187.5972
+[CollectionTest], Creation of 1000000 List<ClassWith1int>(1000) final List<ClassWith1int> list = new ArrayList<ClassWith1int>(SIZE)     for (int j = SIZE   j != 0   j--) list.add(classWith1int)  ,, snapshot time,14718.8442
+[CollectionTest], Creation of 1000000 List<ClassWith1int>(1000) final List<ClassWith1int> list = new ArrayList<ClassWith1int>(SIZE)     for (int j = SIZE   j != 0   j--) list.add(classWith1int)  ,, snapshot time,15078.2215
+[CollectionTest], Creation of 1000000 List<ClassWith1int>(1000) final List<ClassWith1int> list = new ArrayList<ClassWith1int>(SIZE)     for (int j = SIZE   j != 0   j--) list.add(classWith1int)  ,, snapshot time,14781.3446
+[CollectionTest], Creation of 1000000 List<ClassWith1int>(1000) final List<ClassWith1int> list = new ArrayList<ClassWith1int>(SIZE)     for (int j = SIZE   j != 0   j--) list.add(classWith1int)  ,, snapshot time,15140.7219
+[CollectionTest], Creation of 1000000 List<ClassWith1int>(1000) final List<ClassWith1int> list = new ArrayList<ClassWith1int>(SIZE)     for (int j = SIZE   j != 0   j--) list.add(classWith1int)  ,, snapshot time,14656.3438
+[CollectionTest], Creation of 1000000 List<ClassWith1int>(1000) final List<ClassWith1int> list = new ArrayList<ClassWith1int>(SIZE)     for (int j = SIZE   j != 0   j--) list.add(classWith1int)  ,, snapshot time,15062.5964
+[CollectionTest], Creation of 1000000 List<ClassWith1int>(1000) final List<ClassWith1int> list = new ArrayList<ClassWith1int>(SIZE)     for (int j = SIZE   j != 0   j--) list.add(classWith1int)  ,, snapshot time,14640.7187
+[CollectionTest], Creation of 1000000 List<ClassWith1int>(1000) final List<ClassWith1int> list = new ArrayList<ClassWith1int>(SIZE)     for (int j = SIZE   j != 0   j--) list.add(classWith1int)  ,, snapshot time,15937.602
+[CollectionTest], Creation of 1000000 List<ClassWith1int>(1000) final List<ClassWith1int> list = new ArrayList<ClassWith1int>(SIZE)     for (int j = SIZE   j != 0   j--) list.add(classWith1int)  ,, snapshot time,14703.2191
+[CollectionTest], Creation of 1000000 List<ClassWith1int>(1000) final List<ClassWith1int> list = new ArrayList<ClassWith1int>(SIZE)     for (int j = SIZE   j != 0   j--) list.add(classWith1int)  ,, average time,14990, min time,14640, max time,15937, relative deviation time,2.5
+[CollectionTest], 1000000 Tests of Add 1000 Elements to List<ClassWith1int>[1000]  for (int j = SIZE   j-- != 0  ) list.Add(classWith1int)  ,, snapshot time,14140.7155
+[CollectionTest], 1000000 Tests of Add 1000 Elements to List<ClassWith1int>[1000]  for (int j = SIZE   j-- != 0  ) list.Add(classWith1int)  ,, snapshot time,14140.7155
+[CollectionTest], 1000000 Tests of Add 1000 Elements to List<ClassWith1int>[1000]  for (int j = SIZE   j-- != 0  ) list.Add(classWith1int)  ,, snapshot time,14140.7155
+[CollectionTest], 1000000 Tests of Add 1000 Elements to List<ClassWith1int>[1000]  for (int j = SIZE   j-- != 0  ) list.Add(classWith1int)  ,, snapshot time,14109.4653
+[CollectionTest], 1000000 Tests of Add 1000 Elements to List<ClassWith1int>[1000]  for (int j = SIZE   j-- != 0  ) list.Add(classWith1int)  ,, snapshot time,14125.0904
+[CollectionTest], 1000000 Tests of Add 1000 Elements to List<ClassWith1int>[1000]  for (int j = SIZE   j-- != 0  ) list.Add(classWith1int)  ,, snapshot time,14125.0904
+[CollectionTest], 1000000 Tests of Add 1000 Elements to List<ClassWith1int>[1000]  for (int j = SIZE   j-- != 0  ) list.Add(classWith1int)  ,, snapshot time,14140.7155
+[CollectionTest], 1000000 Tests of Add 1000 Elements to List<ClassWith1int>[1000]  for (int j = SIZE   j-- != 0  ) list.Add(classWith1int)  ,, snapshot time,14125.0904
+[CollectionTest], 1000000 Tests of Add 1000 Elements to List<ClassWith1int>[1000]  for (int j = SIZE   j-- != 0  ) list.Add(classWith1int)  ,, snapshot time,14140.7155
+[CollectionTest], 1000000 Tests of Add 1000 Elements to List<ClassWith1int>[1000]  for (int j = SIZE   j-- != 0  ) list.Add(classWith1int)  ,, snapshot time,14156.3406
+[CollectionTest], 1000000 Tests of Add 1000 Elements to List<ClassWith1int>[1000]  for (int j = SIZE   j-- != 0  ) list.Add(classWith1int)  ,, average time,14134, min time,14109, max time,14156, relative deviation time,0.08
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to List<ClassWith1intb>[1000]  for (int j = SIZE   j-- != 0  ) List<ClassWith1intb> list = new List<ClassWith1intb>(SIZE)  list.Add(classWith1int)  ,, snapshot time,14843.845
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to List<ClassWith1intb>[1000]  for (int j = SIZE   j-- != 0  ) List<ClassWith1intb> list = new List<ClassWith1intb>(SIZE)  list.Add(classWith1int)  ,, snapshot time,14937.5956
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to List<ClassWith1intb>[1000]  for (int j = SIZE   j-- != 0  ) List<ClassWith1intb> list = new List<ClassWith1intb>(SIZE)  list.Add(classWith1int)  ,, snapshot time,15359.4733
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to List<ClassWith1intb>[1000]  for (int j = SIZE   j-- != 0  ) List<ClassWith1intb> list = new List<ClassWith1intb>(SIZE)  list.Add(classWith1int)  ,, snapshot time,14859.4701
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to List<ClassWith1intb>[1000]  for (int j = SIZE   j-- != 0  ) List<ClassWith1intb> list = new List<ClassWith1intb>(SIZE)  list.Add(classWith1int)  ,, snapshot time,14843.845
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to List<ClassWith1intb>[1000]  for (int j = SIZE   j-- != 0  ) List<ClassWith1intb> list = new List<ClassWith1intb>(SIZE)  list.Add(classWith1int)  ,, snapshot time,14828.2199
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to List<ClassWith1intb>[1000]  for (int j = SIZE   j-- != 0  ) List<ClassWith1intb> list = new List<ClassWith1intb>(SIZE)  list.Add(classWith1int)  ,, snapshot time,14859.4701
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to List<ClassWith1intb>[1000]  for (int j = SIZE   j-- != 0  ) List<ClassWith1intb> list = new List<ClassWith1intb>(SIZE)  list.Add(classWith1int)  ,, snapshot time,14812.5948
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to List<ClassWith1intb>[1000]  for (int j = SIZE   j-- != 0  ) List<ClassWith1intb> list = new List<ClassWith1intb>(SIZE)  list.Add(classWith1int)  ,, snapshot time,14843.845
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to List<ClassWith1intb>[1000]  for (int j = SIZE   j-- != 0  ) List<ClassWith1intb> list = new List<ClassWith1intb>(SIZE)  list.Add(classWith1int)  ,, snapshot time,15062.5964
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to List<ClassWith1intb>[1000]  for (int j = SIZE   j-- != 0  ) List<ClassWith1intb> list = new List<ClassWith1intb>(SIZE)  list.Add(classWith1int)  ,, average time,14924, min time,14812, max time,15359, relative deviation time,1.07
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With For Generic foreach (ClassWith1int s in list) count += s.Int1 , count=1000000000, snapshot time,10812.5692
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With For Generic foreach (ClassWith1int s in list) count += s.Int1 , count=1000000000, snapshot time,10796.9441
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With For Generic foreach (ClassWith1int s in list) count += s.Int1 , count=1000000000, snapshot time,10781.319
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With For Generic foreach (ClassWith1int s in list) count += s.Int1 , count=1000000000, snapshot time,10796.9441
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With For Generic foreach (ClassWith1int s in list) count += s.Int1 , count=1000000000, snapshot time,10796.9441
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With For Generic foreach (ClassWith1int s in list) count += s.Int1 , count=1000000000, snapshot time,10796.9441
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With For Generic foreach (ClassWith1int s in list) count += s.Int1 , count=1000000000, snapshot time,10796.9441
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With For Generic foreach (ClassWith1int s in list) count += s.Int1 , count=1000000000, snapshot time,10781.319
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With For Generic foreach (ClassWith1int s in list) count += s.Int1 , count=1000000000, snapshot time,10812.5692
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With For Generic foreach (ClassWith1int s in list) count += s.Int1 , count=1000000000, snapshot time,10781.319
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With For Generic foreach (ClassWith1int s in list) count += s.Int1 ,, average time,10794, min time,10781, max time,10812, relative deviation time,0.1
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Forward Loop  for (int k = 0; k < list.Count   k++) count += list[k].Int1 , count=1000000000, snapshot time,2375.0152
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Forward Loop  for (int k = 0; k < list.Count   k++) count += list[k].Int1 , count=1000000000, snapshot time,2359.3901
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Forward Loop  for (int k = 0; k < list.Count   k++) count += list[k].Int1 , count=1000000000, snapshot time,2359.3901
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Forward Loop  for (int k = 0; k < list.Count   k++) count += list[k].Int1 , count=1000000000, snapshot time,2359.3901
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Forward Loop  for (int k = 0; k < list.Count   k++) count += list[k].Int1 , count=1000000000, snapshot time,2359.3901
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Forward Loop  for (int k = 0; k < list.Count   k++) count += list[k].Int1 , count=1000000000, snapshot time,2359.3901
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Forward Loop  for (int k = 0; k < list.Count   k++) count += list[k].Int1 , count=1000000000, snapshot time,2375.0152
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Forward Loop  for (int k = 0; k < list.Count   k++) count += list[k].Int1 , count=1000000000, snapshot time,2359.3901
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Forward Loop  for (int k = 0; k < list.Count   k++) count += list[k].Int1 , count=1000000000, snapshot time,2375.0152
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Forward Loop  for (int k = 0; k < list.Count   k++) count += list[k].Int1 , count=1000000000, snapshot time,2359.3901
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Forward Loop  for (int k = 0; k < list.Count   k++) count += list[k].Int1 ,, average time,2363, min time,2359, max time,2375, relative deviation time,0.31
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With Reverse Loop Different Zero   for (int k = list.Count   k != 0   k--) count += list[k - 1].Int1  , count=1000000000, snapshot time,2968.769
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With Reverse Loop Different Zero   for (int k = list.Count   k != 0   k--) count += list[k - 1].Int1  , count=1000000000, snapshot time,2937.5188
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With Reverse Loop Different Zero   for (int k = list.Count   k != 0   k--) count += list[k - 1].Int1  , count=1000000000, snapshot time,2984.3941
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With Reverse Loop Different Zero   for (int k = list.Count   k != 0   k--) count += list[k - 1].Int1  , count=1000000000, snapshot time,3109.3949
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With Reverse Loop Different Zero   for (int k = list.Count   k != 0   k--) count += list[k - 1].Int1  , count=1000000000, snapshot time,3156.2702
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With Reverse Loop Different Zero   for (int k = list.Count   k != 0   k--) count += list[k - 1].Int1  , count=1000000000, snapshot time,3078.1447
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With Reverse Loop Different Zero   for (int k = list.Count   k != 0   k--) count += list[k - 1].Int1  , count=1000000000, snapshot time,3046.8945
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With Reverse Loop Different Zero   for (int k = list.Count   k != 0   k--) count += list[k - 1].Int1  , count=1000000000, snapshot time,3171.8953
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With Reverse Loop Different Zero   for (int k = list.Count   k != 0   k--) count += list[k - 1].Int1  , count=1000000000, snapshot time,3046.8945
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With Reverse Loop Different Zero   for (int k = list.Count   k != 0   k--) count += list[k - 1].Int1  , count=1000000000, snapshot time,2984.3941
+[CollectionTest], Iteration of 1000000 List<ClassWith1int>(1000) With Reverse Loop Different Zero   for (int k = list.Count   k != 0   k--) count += list[k - 1].Int1  ,, average time,3047, min time,2937, max time,3171, relative deviation time,2.5
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2796.8929
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2750.0176
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2718.7674
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2765.6427
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2796.8929
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2750.0176
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2750.0176
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2703.1423
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2781.2678
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += list[k].Int1  , count=1000000000, snapshot time,2750.0176
+[CollectionTest], Iteration of 1000000 List<ClassWith1intb>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += list[k].Int1  ,, average time,2755, min time,2703, max time,2796, relative deviation time,1.04
+[CollectionTest], Creation of 1000000 ArrayList(1000) IList list = new ArrayList(SIZE) ,, snapshot time,1500.0096
+[CollectionTest], Creation of 1000000 ArrayList(1000) IList list = new ArrayList(SIZE) ,, snapshot time,1484.3845
+[CollectionTest], Creation of 1000000 ArrayList(1000) IList list = new ArrayList(SIZE) ,, snapshot time,1484.3845
+[CollectionTest], Creation of 1000000 ArrayList(1000) IList list = new ArrayList(SIZE) ,, snapshot time,1484.3845
+[CollectionTest], Creation of 1000000 ArrayList(1000) IList list = new ArrayList(SIZE) ,, snapshot time,1484.3845
+[CollectionTest], Creation of 1000000 ArrayList(1000) IList list = new ArrayList(SIZE) ,, snapshot time,1484.3845
+[CollectionTest], Creation of 1000000 ArrayList(1000) IList list = new ArrayList(SIZE) ,, snapshot time,1484.3845
+[CollectionTest], Creation of 1000000 ArrayList(1000) IList list = new ArrayList(SIZE) ,, snapshot time,1484.3845
+[CollectionTest], Creation of 1000000 ArrayList(1000) IList list = new ArrayList(SIZE) ,, snapshot time,1500.0096
+[CollectionTest], Creation of 1000000 ArrayList(1000) IList list = new ArrayList(SIZE) ,, snapshot time,1484.3845
+[CollectionTest], Creation of 1000000 ArrayList(1000) IList list = new ArrayList(SIZE) ,, average time,1487, min time,1484, max time,1500, relative deviation time,0.43
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ArrayList[1000    for (int j = SIZE   j != 0   j--) list.Add(classWith1int) list.Clear() ,, snapshot time,17453.2367
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ArrayList[1000    for (int j = SIZE   j != 0   j--) list.Add(classWith1int) list.Clear() ,, snapshot time,17453.2367
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ArrayList[1000    for (int j = SIZE   j != 0   j--) list.Add(classWith1int) list.Clear() ,, snapshot time,17437.6116
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ArrayList[1000    for (int j = SIZE   j != 0   j--) list.Add(classWith1int) list.Clear() ,, snapshot time,17453.2367
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ArrayList[1000    for (int j = SIZE   j != 0   j--) list.Add(classWith1int) list.Clear() ,, snapshot time,17453.2367
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ArrayList[1000    for (int j = SIZE   j != 0   j--) list.Add(classWith1int) list.Clear() ,, snapshot time,17421.9865
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ArrayList[1000    for (int j = SIZE   j != 0   j--) list.Add(classWith1int) list.Clear() ,, snapshot time,17468.8618
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ArrayList[1000    for (int j = SIZE   j != 0   j--) list.Add(classWith1int) list.Clear() ,, snapshot time,17437.6116
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ArrayList[1000    for (int j = SIZE   j != 0   j--) list.Add(classWith1int) list.Clear() ,, snapshot time,17453.2367
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ArrayList[1000    for (int j = SIZE   j != 0   j--) list.Add(classWith1int) list.Clear() ,, snapshot time,17437.6116
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ArrayList[1000    for (int j = SIZE   j != 0   j--) list.Add(classWith1int) list.Clear() ,, average time,17446, min time,17421, max time,17468, relative deviation time,0.07
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList[1000) IList list = new ArrayList(SIZE)     for (int j = SIZE   j != 0   j--) list.Add(classWith1int)  ,, snapshot time,18281.367
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList[1000) IList list = new ArrayList(SIZE)     for (int j = SIZE   j != 0   j--) list.Add(classWith1int)  ,, snapshot time,18312.6172
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList[1000) IList list = new ArrayList(SIZE)     for (int j = SIZE   j != 0   j--) list.Add(classWith1int)  ,, snapshot time,18312.6172
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList[1000) IList list = new ArrayList(SIZE)     for (int j = SIZE   j != 0   j--) list.Add(classWith1int)  ,, snapshot time,18296.9921
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList[1000) IList list = new ArrayList(SIZE)     for (int j = SIZE   j != 0   j--) list.Add(classWith1int)  ,, snapshot time,18281.367
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList[1000) IList list = new ArrayList(SIZE)     for (int j = SIZE   j != 0   j--) list.Add(classWith1int)  ,, snapshot time,18265.7419
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList[1000) IList list = new ArrayList(SIZE)     for (int j = SIZE   j != 0   j--) list.Add(classWith1int)  ,, snapshot time,18296.9921
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList[1000) IList list = new ArrayList(SIZE)     for (int j = SIZE   j != 0   j--) list.Add(classWith1int)  ,, snapshot time,18296.9921
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList[1000) IList list = new ArrayList(SIZE)     for (int j = SIZE   j != 0   j--) list.Add(classWith1int)  ,, snapshot time,18296.9921
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList[1000) IList list = new ArrayList(SIZE)     for (int j = SIZE   j != 0   j--) list.Add(classWith1int)  ,, snapshot time,18296.9921
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList[1000) IList list = new ArrayList(SIZE)     for (int j = SIZE   j != 0   j--) list.Add(classWith1int)  ,, average time,18293, min time,18265, max time,18312, relative deviation time,0.07
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Iterator  for (IEnumerator enumerator = list.GetEnumerator()  enumerator.MoveNext()   )   iterator.hasNext()  ) count += ((ClassWith1intb)enumerator.Current).Int1  , count=1000000000, snapshot time,27031.423
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Iterator  for (IEnumerator enumerator = list.GetEnumerator()  enumerator.MoveNext()   )   iterator.hasNext()  ) count += ((ClassWith1intb)enumerator.Current).Int1  , count=1000000000, snapshot time,27140.7987
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Iterator  for (IEnumerator enumerator = list.GetEnumerator()  enumerator.MoveNext()   )   iterator.hasNext()  ) count += ((ClassWith1intb)enumerator.Current).Int1  , count=1000000000, snapshot time,26843.9218
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Iterator  for (IEnumerator enumerator = list.GetEnumerator()  enumerator.MoveNext()   )   iterator.hasNext()  ) count += ((ClassWith1intb)enumerator.Current).Int1  , count=1000000000, snapshot time,27000.1728
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Iterator  for (IEnumerator enumerator = list.GetEnumerator()  enumerator.MoveNext()   )   iterator.hasNext()  ) count += ((ClassWith1intb)enumerator.Current).Int1  , count=1000000000, snapshot time,27062.6732
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Iterator  for (IEnumerator enumerator = list.GetEnumerator()  enumerator.MoveNext()   )   iterator.hasNext()  ) count += ((ClassWith1intb)enumerator.Current).Int1  , count=1000000000, snapshot time,26953.2975
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Iterator  for (IEnumerator enumerator = list.GetEnumerator()  enumerator.MoveNext()   )   iterator.hasNext()  ) count += ((ClassWith1intb)enumerator.Current).Int1  , count=1000000000, snapshot time,27047.0481
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Iterator  for (IEnumerator enumerator = list.GetEnumerator()  enumerator.MoveNext()   )   iterator.hasNext()  ) count += ((ClassWith1intb)enumerator.Current).Int1  , count=1000000000, snapshot time,27172.0489
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Iterator  for (IEnumerator enumerator = list.GetEnumerator()  enumerator.MoveNext()   )   iterator.hasNext()  ) count += ((ClassWith1intb)enumerator.Current).Int1  , count=1000000000, snapshot time,27672.0521
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Iterator  for (IEnumerator enumerator = list.GetEnumerator()  enumerator.MoveNext()   )   iterator.hasNext()  ) count += ((ClassWith1intb)enumerator.Current).Int1  , count=1000000000, snapshot time,27172.0489
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Iterator  for (IEnumerator enumerator = list.GetEnumerator()  enumerator.MoveNext()   )   iterator.hasNext()  ) count += ((ClassWith1intb)enumerator.Current).Int1  ,, average time,27109, min time,26843, max time,27672, relative deviation time,0.77
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With For Generic foreach (ClassWith1intb s in list) count += s.Int1  , count=1000000000, snapshot time,26984.5477
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With For Generic foreach (ClassWith1intb s in list) count += s.Int1  , count=1000000000, snapshot time,26797.0052
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With For Generic foreach (ClassWith1intb s in list) count += s.Int1  , count=1000000000, snapshot time,27125
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With For Generic foreach (ClassWith1intb s in list) count += s.Int1  , count=1000000000, snapshot time,26765.625
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With For Generic foreach (ClassWith1intb s in list) count += s.Int1  , count=1000000000, snapshot time,26828.125
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With For Generic foreach (ClassWith1intb s in list) count += s.Int1  , count=1000000000, snapshot time,26937.5
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With For Generic foreach (ClassWith1intb s in list) count += s.Int1  , count=1000000000, snapshot time,26765.625
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With For Generic foreach (ClassWith1intb s in list) count += s.Int1  , count=1000000000, snapshot time,26812.5
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With For Generic foreach (ClassWith1intb s in list) count += s.Int1  , count=1000000000, snapshot time,26875
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With For Generic foreach (ClassWith1intb s in list) count += s.Int1  , count=1000000000, snapshot time,26984.375
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With For Generic foreach (ClassWith1intb s in list) count += s.Int1  ,, average time,26887, min time,26765, max time,27125, relative deviation time,0.41
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Forward Loop  for (int k = 0   k < list.Count   k++) count += list.get(k).Length  , count=1000000000, snapshot time,14734.375
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Forward Loop  for (int k = 0   k < list.Count   k++) count += list.get(k).Length  , count=1000000000, snapshot time,14828.125
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Forward Loop  for (int k = 0   k < list.Count   k++) count += list.get(k).Length  , count=1000000000, snapshot time,14750
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Forward Loop  for (int k = 0   k < list.Count   k++) count += list.get(k).Length  , count=1000000000, snapshot time,14750
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Forward Loop  for (int k = 0   k < list.Count   k++) count += list.get(k).Length  , count=1000000000, snapshot time,14703.125
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Forward Loop  for (int k = 0   k < list.Count   k++) count += list.get(k).Length  , count=1000000000, snapshot time,14765.625
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Forward Loop  for (int k = 0   k < list.Count   k++) count += list.get(k).Length  , count=1000000000, snapshot time,14812.5
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Forward Loop  for (int k = 0   k < list.Count   k++) count += list.get(k).Length  , count=1000000000, snapshot time,14765.625
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Forward Loop  for (int k = 0   k < list.Count   k++) count += list.get(k).Length  , count=1000000000, snapshot time,14765.625
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Forward Loop  for (int k = 0   k < list.Count   k++) count += list.get(k).Length  , count=1000000000, snapshot time,14765.625
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Forward Loop  for (int k = 0   k < list.Count   k++) count += list.get(k).Length  ,, average time,14763, min time,14703, max time,14828, relative deviation time,0.22
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += ((ClassWith1intb)list[k - 1]).Int1  , count=1000000000, snapshot time,9859.375
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += ((ClassWith1intb)list[k - 1]).Int1  , count=1000000000, snapshot time,9859.375
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += ((ClassWith1intb)list[k - 1]).Int1  , count=1000000000, snapshot time,9796.875
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += ((ClassWith1intb)list[k - 1]).Int1  , count=1000000000, snapshot time,9906.25
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += ((ClassWith1intb)list[k - 1]).Int1  , count=1000000000, snapshot time,9796.875
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += ((ClassWith1intb)list[k - 1]).Int1  , count=1000000000, snapshot time,9812.5
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += ((ClassWith1intb)list[k - 1]).Int1  , count=1000000000, snapshot time,9750
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += ((ClassWith1intb)list[k - 1]).Int1  , count=1000000000, snapshot time,9875
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += ((ClassWith1intb)list[k - 1]).Int1  , count=1000000000, snapshot time,9843.75
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += ((ClassWith1intb)list[k - 1]).Int1  , count=1000000000, snapshot time,9859.375
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero   for (int k = list.size()    k != 0   k--) count = count + list.get(k - 1).Length  ,, average time,9835, min time,9750, max time,9906, relative deviation time,0.44
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += ((ClassWith1intb)list[k]).Int1  ,count=1000000000, snapshot time,10250
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += ((ClassWith1intb)list[k]).Int1  ,count=1000000000, snapshot time,10203.125
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += ((ClassWith1intb)list[k]).Int1  ,count=1000000000, snapshot time,10234.375
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += ((ClassWith1intb)list[k]).Int1  ,count=1000000000, snapshot time,10281.25
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += ((ClassWith1intb)list[k]).Int1  ,count=1000000000, snapshot time,10250
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += ((ClassWith1intb)list[k]).Int1  ,count=1000000000, snapshot time,10203.125
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += ((ClassWith1intb)list[k]).Int1  ,count=1000000000, snapshot time,10265.625
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += ((ClassWith1intb)list[k]).Int1  ,count=1000000000, snapshot time,10234.375
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += ((ClassWith1intb)list[k]).Int1  ,count=1000000000, snapshot time,10218.75
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += ((ClassWith1intb)list[k]).Int1  ,count=1000000000, snapshot time,10281.25
+[CollectionTest], Iteration of 1000000 ArrayList(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.Count   k-- != 0  ) count += ((ClassWith1intb)list[k]).Int1  ,, average time,10241, min time,10203, max time,10281, relative deviation time,0.26
+[CollectionTest], 100000 Tests of Put 1000 Elements  Hashtable(1000)  Hashtable map = new Hashtable(SIZE)  ,, snapshot time,750
+[CollectionTest], 100000 Tests of Put 1000 Elements  Hashtable(1000)  Hashtable map = new Hashtable(SIZE)  ,, snapshot time,750
+[CollectionTest], 100000 Tests of Put 1000 Elements  Hashtable(1000)  Hashtable map = new Hashtable(SIZE)  ,, snapshot time,765.625
+[CollectionTest], 100000 Tests of Put 1000 Elements  Hashtable(1000)  Hashtable map = new Hashtable(SIZE)  ,, snapshot time,750
+[CollectionTest], 100000 Tests of Put 1000 Elements  Hashtable(1000)  Hashtable map = new Hashtable(SIZE)  ,, snapshot time,765.625
+[CollectionTest], 100000 Tests of Put 1000 Elements  Hashtable(1000)  Hashtable map = new Hashtable(SIZE)  ,, snapshot time,750
+[CollectionTest], 100000 Tests of Put 1000 Elements  Hashtable(1000)  Hashtable map = new Hashtable(SIZE)  ,, snapshot time,765.625
+[CollectionTest], 100000 Tests of Put 1000 Elements  Hashtable(1000)  Hashtable map = new Hashtable(SIZE)  ,, snapshot time,750
+[CollectionTest], 100000 Tests of Put 1000 Elements  Hashtable(1000)  Hashtable map = new Hashtable(SIZE)  ,, snapshot time,765.625
+[CollectionTest], 100000 Tests of Put 1000 Elements  Hashtable(1000)  Hashtable map = new Hashtable(SIZE)  ,, snapshot time,765.625
+[CollectionTest], 100000 Tests of Put 1000 Elements  Hashtable(1000)  Hashtable map = new Hashtable(SIZE)  ,, average time,757, min time,750, max time,765, relative deviation time,0.98
+[CollectionTest], Creation of 1000000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) map.Add(j, classWith1int)  map.Clear()  ,, snapshot time,11125
+[CollectionTest], Creation of 1000000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) map.Add(j, classWith1int)  map.Clear()  ,, snapshot time,11125
+[CollectionTest], Creation of 1000000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) map.Add(j, classWith1int)  map.Clear()  ,, snapshot time,11078.1946
+[CollectionTest], Creation of 1000000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) map.Add(j, classWith1int)  map.Clear()  ,, snapshot time,11109.4461
+[CollectionTest], Creation of 1000000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) map.Add(j, classWith1int)  map.Clear()  ,, snapshot time,11125.0712
+[CollectionTest], Creation of 1000000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) map.Add(j, classWith1int)  map.Clear()  ,, snapshot time,11171.9465
+[CollectionTest], Creation of 1000000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) map.Add(j, classWith1int)  map.Clear()  ,, snapshot time,11187.5716
+[CollectionTest], Creation of 1000000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) map.Add(j, classWith1int)  map.Clear()  ,, snapshot time,11250.072
+[CollectionTest], Creation of 1000000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) map.Add(j, classWith1int)  map.Clear()  ,, snapshot time,11140.6963
+[CollectionTest], Creation of 1000000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) map.Add(j, classWith1int)  map.Clear()  ,, snapshot time,11125.0712
+[CollectionTest], Creation of 1000000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) map.Add(j, classWith1int)  map.Clear()  ,, average time,11143, min time,11078, max time,11250, relative deviation time,0.4
+[CollectionTest], Creation of 100000 And Put 1000 Elements   for (int j = SIZE   j != 0   j--) Hashtable map = new Hashtable(SIZE) map.Add(j   classWith1int)  ,, snapshot time,10890.6947
+[CollectionTest], Creation of 100000 And Put 1000 Elements   for (int j = SIZE   j != 0   j--) Hashtable map = new Hashtable(SIZE) map.Add(j   classWith1int)  ,, snapshot time,10687.5684
+[CollectionTest], Creation of 100000 And Put 1000 Elements   for (int j = SIZE   j != 0   j--) Hashtable map = new Hashtable(SIZE) map.Add(j   classWith1int)  ,, snapshot time,10953.1951
+[CollectionTest], Creation of 100000 And Put 1000 Elements   for (int j = SIZE   j != 0   j--) Hashtable map = new Hashtable(SIZE) map.Add(j   classWith1int)  ,, snapshot time,10875.0696
+[CollectionTest], Creation of 100000 And Put 1000 Elements   for (int j = SIZE   j != 0   j--) Hashtable map = new Hashtable(SIZE) map.Add(j   classWith1int)  ,, snapshot time,10906.3198
+[CollectionTest], Creation of 100000 And Put 1000 Elements   for (int j = SIZE   j != 0   j--) Hashtable map = new Hashtable(SIZE) map.Add(j   classWith1int)  ,, snapshot time,10828.1943
+[CollectionTest], Creation of 100000 And Put 1000 Elements   for (int j = SIZE   j != 0   j--) Hashtable map = new Hashtable(SIZE) map.Add(j   classWith1int)  ,, snapshot time,10812.5692
+[CollectionTest], Creation of 100000 And Put 1000 Elements   for (int j = SIZE   j != 0   j--) Hashtable map = new Hashtable(SIZE) map.Add(j   classWith1int)  ,, snapshot time,10781.319
+[CollectionTest], Creation of 100000 And Put 1000 Elements   for (int j = SIZE   j != 0   j--) Hashtable map = new Hashtable(SIZE) map.Add(j   classWith1int)  ,, snapshot time,10796.9441
+[CollectionTest], Creation of 100000 And Put 1000 Elements   for (int j = SIZE   j != 0   j--) Hashtable map = new Hashtable(SIZE) map.Add(j   classWith1int)  ,, snapshot time,10890.6947
+[CollectionTest], Creation of 100000 And Put 1000 Elements   for (int j = SIZE   j != 0   j--) Hashtable map = new Hashtable(SIZE) map.Add(j   classWith1int)  ,, average time,10841, min time,10687, max time,10953, relative deviation time,0.67
+[CollectionTest], Iteration of 100000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) ClassWith1intb s = (ClassWith1intb) map[j]  ,, snapshot time,12718.8314
+[CollectionTest], Iteration of 100000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) ClassWith1intb s = (ClassWith1intb) map[j]  ,, snapshot time,13031.3334
+[CollectionTest], Iteration of 100000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) ClassWith1intb s = (ClassWith1intb) map[j]  ,, snapshot time,12703.2063
+[CollectionTest], Iteration of 100000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) ClassWith1intb s = (ClassWith1intb) map[j]  ,, snapshot time,12703.2063
+[CollectionTest], Iteration of 100000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) ClassWith1intb s = (ClassWith1intb) map[j]  ,, snapshot time,12718.8314
+[CollectionTest], Iteration of 100000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) ClassWith1intb s = (ClassWith1intb) map[j]  ,, snapshot time,12687.5812
+[CollectionTest], Iteration of 100000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) ClassWith1intb s = (ClassWith1intb) map[j]  ,, snapshot time,12703.2063
+[CollectionTest], Iteration of 100000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) ClassWith1intb s = (ClassWith1intb) map[j]  ,, snapshot time,12687.5812
+[CollectionTest], Iteration of 100000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) ClassWith1intb s = (ClassWith1intb) map[j]  ,, snapshot time,12703.2063
+[CollectionTest], Iteration of 100000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) ClassWith1intb s = (ClassWith1intb) map[j]  ,, snapshot time,12875.0824
+[CollectionTest], Iteration of 100000 Hashtable(1000)  for (int j = SIZE   j != 0   j--) ClassWith1intb s = (ClassWith1intb) map[j]  ,, average time,12752, min time,12687, max time,13031, relative deviation time,0.83
+[CollectionTest], Creation of 100000 Dictionary<int  ClassWith1int>(1000)   for (int j = SIZE   j != 0   j--) Dictionary map = new Dictionary<int ClassWith1int>(SIZE) ,, snapshot time,1046.8817
+[CollectionTest], Creation of 100000 Dictionary<int  ClassWith1int>(1000)   for (int j = SIZE   j != 0   j--) Dictionary map = new Dictionary<int ClassWith1int>(SIZE) ,, snapshot time,1062.5068
+[CollectionTest], Creation of 100000 Dictionary<int  ClassWith1int>(1000)   for (int j = SIZE   j != 0   j--) Dictionary map = new Dictionary<int ClassWith1int>(SIZE) ,, snapshot time,1046.8817
+[CollectionTest], Creation of 100000 Dictionary<int  ClassWith1int>(1000)   for (int j = SIZE   j != 0   j--) Dictionary map = new Dictionary<int ClassWith1int>(SIZE) ,, snapshot time,1062.5068
+[CollectionTest], Creation of 100000 Dictionary<int  ClassWith1int>(1000)   for (int j = SIZE   j != 0   j--) Dictionary map = new Dictionary<int ClassWith1int>(SIZE) ,, snapshot time,1046.8817
+[CollectionTest], Creation of 100000 Dictionary<int  ClassWith1int>(1000)   for (int j = SIZE   j != 0   j--) Dictionary map = new Dictionary<int ClassWith1int>(SIZE) ,, snapshot time,1062.5068
+[CollectionTest], Creation of 100000 Dictionary<int  ClassWith1int>(1000)   for (int j = SIZE   j != 0   j--) Dictionary map = new Dictionary<int ClassWith1int>(SIZE) ,, snapshot time,1046.8817
+[CollectionTest], Creation of 100000 Dictionary<int  ClassWith1int>(1000)   for (int j = SIZE   j != 0   j--) Dictionary map = new Dictionary<int ClassWith1int>(SIZE) ,, snapshot time,1062.5068
+[CollectionTest], Creation of 100000 Dictionary<int  ClassWith1int>(1000)   for (int j = SIZE   j != 0   j--) Dictionary map = new Dictionary<int ClassWith1int>(SIZE) ,, snapshot time,1046.8817
+[CollectionTest], Creation of 100000 Dictionary<int  ClassWith1int>(1000)   for (int j = SIZE   j != 0   j--) Dictionary map = new Dictionary<int ClassWith1int>(SIZE) ,, snapshot time,1062.5068
+[CollectionTest], Creation of 100000 Dictionary<int  ClassWith1int>(1000)   for (int j = SIZE   j != 0   j--) Dictionary map = new Dictionary<int ClassWith1int>(SIZE) ,, average time,1054, min time,1046, max time,1062, relative deviation time,0.75
+[CollectionTest], 100000 Tests of Put 1000 Elements Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE   j != 0   j--) map.Add(j  classWith1int)  ,, snapshot time,5984.4133
+[CollectionTest], 100000 Tests of Put 1000 Elements Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE   j != 0   j--) map.Add(j  classWith1int)  ,, snapshot time,6000.0384
+[CollectionTest], 100000 Tests of Put 1000 Elements Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE   j != 0   j--) map.Add(j  classWith1int)  ,, snapshot time,5984.4133
+[CollectionTest], 100000 Tests of Put 1000 Elements Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE   j != 0   j--) map.Add(j  classWith1int)  ,, snapshot time,5984.4133
+[CollectionTest], 100000 Tests of Put 1000 Elements Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE   j != 0   j--) map.Add(j  classWith1int)  ,, snapshot time,5984.4133
+[CollectionTest], 100000 Tests of Put 1000 Elements Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE   j != 0   j--) map.Add(j  classWith1int)  ,, snapshot time,6000.0384
+[CollectionTest], 100000 Tests of Put 1000 Elements Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE   j != 0   j--) map.Add(j  classWith1int)  ,, snapshot time,6000.0384
+[CollectionTest], 100000 Tests of Put 1000 Elements Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE   j != 0   j--) map.Add(j  classWith1int)  ,, snapshot time,5984.4133
+[CollectionTest], 100000 Tests of Put 1000 Elements Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE   j != 0   j--) map.Add(j  classWith1int)  ,, snapshot time,6015.6635
+[CollectionTest], 100000 Tests of Put 1000 Elements Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE   j != 0   j--) map.Add(j  classWith1int)  ,, snapshot time,6015.6635
+[CollectionTest], 100000 Tests of Put 1000 Elements Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE   j != 0   j--) map.Add(j   classWith1int)  ,, average time,5995, min time,5984, max time,6015, relative deviation time,0.2
+[CollectionTest], Creation of 100000 And Put 1000 Elements  Dictionary<int  ClassWith1int>(1000) Dictionary map = new Dictionary<int ClassWith1int>(SIZE)  for (int j = SIZE   j != 0   j--)  map.Add(j  classWith1int)  ,, snapshot time,6390.6659
+[CollectionTest], Creation of 100000 And Put 1000 Elements  Dictionary<int  ClassWith1int>(1000) Dictionary map = new Dictionary<int ClassWith1int>(SIZE)  for (int j = SIZE   j != 0   j--)  map.Add(j  classWith1int)  ,, snapshot time,6750.0432
+[CollectionTest], Creation of 100000 And Put 1000 Elements  Dictionary<int  ClassWith1int>(1000) Dictionary map = new Dictionary<int ClassWith1int>(SIZE)  for (int j = SIZE   j != 0   j--)  map.Add(j  classWith1int)  ,, snapshot time,6656.2926
+[CollectionTest], Creation of 100000 And Put 1000 Elements  Dictionary<int  ClassWith1int>(1000) Dictionary map = new Dictionary<int ClassWith1int>(SIZE)  for (int j = SIZE   j != 0   j--)  map.Add(j  classWith1int)  ,, snapshot time,6750.0432
+[CollectionTest], Creation of 100000 And Put 1000 Elements  Dictionary<int  ClassWith1int>(1000) Dictionary map = new Dictionary<int ClassWith1int>(SIZE)  for (int j = SIZE   j != 0   j--)  map.Add(j  classWith1int)  ,, snapshot time,6734.3963
+[CollectionTest], Creation of 100000 And Put 1000 Elements  Dictionary<int  ClassWith1int>(1000) Dictionary map = new Dictionary<int ClassWith1int>(SIZE)  for (int j = SIZE   j != 0   j--)  map.Add(j  classWith1int)  ,, snapshot time,6656.25
+[CollectionTest], Creation of 100000 And Put 1000 Elements  Dictionary<int  ClassWith1int>(1000) Dictionary map = new Dictionary<int ClassWith1int>(SIZE)  for (int j = SIZE   j != 0   j--)  map.Add(j  classWith1int)  ,, snapshot time,6750
+[CollectionTest], Creation of 100000 And Put 1000 Elements  Dictionary<int  ClassWith1int>(1000) Dictionary map = new Dictionary<int ClassWith1int>(SIZE)  for (int j = SIZE   j != 0   j--)  map.Add(j  classWith1int)  ,, snapshot time,6718.75
+[CollectionTest], Creation of 100000 And Put 1000 Elements  Dictionary<int  ClassWith1int>(1000) Dictionary map = new Dictionary<int ClassWith1int>(SIZE)  for (int j = SIZE   j != 0   j--)  map.Add(j  classWith1int)  ,, snapshot time,6656.25
+[CollectionTest], Creation of 100000 And Put 1000 Elements  Dictionary<int  ClassWith1int>(1000) Dictionary map = new Dictionary<int ClassWith1int>(SIZE)  for (int j = SIZE   j != 0   j--)  map.Add(j  classWith1int)  ,, snapshot time,6687.5
+[CollectionTest], Creation of 100000 And Put 1000 Elements  Dictionary<int  ClassWith1int>(1000) Dictionary map = new Dictionary<int ClassWith1int>(SIZE)  for (int j = SIZE   j != 0   j--)  map.Add(j   classWith1int)  BLANK)  ,, average time,6674, min time,6390, max time,6750, relative deviation time,1.53
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE  j != 0   j--) try {ClassWith1intb s = (ClassWith1intb) map[j]  } catch (KeyNotFoundException e),, snapshot time,5781.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE  j != 0   j--) try {ClassWith1intb s = (ClassWith1intb) map[j]  } catch (KeyNotFoundException e),, snapshot time,5765.625
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE  j != 0   j--) try {ClassWith1intb s = (ClassWith1intb) map[j]  } catch (KeyNotFoundException e),, snapshot time,5781.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE  j != 0   j--) try {ClassWith1intb s = (ClassWith1intb) map[j]  } catch (KeyNotFoundException e),, snapshot time,5781.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE  j != 0   j--) try {ClassWith1intb s = (ClassWith1intb) map[j]  } catch (KeyNotFoundException e),, snapshot time,5765.625
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE  j != 0   j--) try {ClassWith1intb s = (ClassWith1intb) map[j]  } catch (KeyNotFoundException e),, snapshot time,5781.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE  j != 0   j--) try {ClassWith1intb s = (ClassWith1intb) map[j]  } catch (KeyNotFoundException e),, snapshot time,5781.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE  j != 0   j--) try {ClassWith1intb s = (ClassWith1intb) map[j]  } catch (KeyNotFoundException e),, snapshot time,5781.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE  j != 0   j--) try {ClassWith1intb s = (ClassWith1intb) map[j]  } catch (KeyNotFoundException e),, snapshot time,5781.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE  j != 0   j--) try {ClassWith1intb s = (ClassWith1intb) map[j]  } catch (KeyNotFoundException e),, snapshot time,5765.625
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1int>(1000)  for (int j = SIZE  j != 0   j--) try {ClassWith1intb s = (ClassWith1intb) map[j]  } catch (KeyNotFoundException e),, average time,5776, min time,5765, max time,5781, relative deviation time,0.12
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1intb>(1000)  for (int j = SIZE  j != 0   j--) if (map.ContainsKey(j)) ClassWith1intb s = (ClassWith1intb) map[j] ,, snapshot time,10531.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1intb>(1000)  for (int j = SIZE  j != 0   j--) if (map.ContainsKey(j)) ClassWith1intb s = (ClassWith1intb) map[j] ,, snapshot time,10531.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1intb>(1000)  for (int j = SIZE  j != 0   j--) if (map.ContainsKey(j)) ClassWith1intb s = (ClassWith1intb) map[j] ,, snapshot time,10531.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1intb>(1000)  for (int j = SIZE  j != 0   j--) if (map.ContainsKey(j)) ClassWith1intb s = (ClassWith1intb) map[j] ,, snapshot time,10531.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1intb>(1000)  for (int j = SIZE  j != 0   j--) if (map.ContainsKey(j)) ClassWith1intb s = (ClassWith1intb) map[j] ,, snapshot time,10531.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1intb>(1000)  for (int j = SIZE  j != 0   j--) if (map.ContainsKey(j)) ClassWith1intb s = (ClassWith1intb) map[j] ,, snapshot time,10531.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1intb>(1000)  for (int j = SIZE  j != 0   j--) if (map.ContainsKey(j)) ClassWith1intb s = (ClassWith1intb) map[j] ,, snapshot time,10531.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1intb>(1000)  for (int j = SIZE  j != 0   j--) if (map.ContainsKey(j)) ClassWith1intb s = (ClassWith1intb) map[j] ,, snapshot time,10531.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1intb>(1000)  for (int j = SIZE  j != 0   j--) if (map.ContainsKey(j)) ClassWith1intb s = (ClassWith1intb) map[j] ,, snapshot time,10531.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1intb>(1000)  for (int j = SIZE  j != 0   j--) if (map.ContainsKey(j)) ClassWith1intb s = (ClassWith1intb) map[j] ,, snapshot time,10531.25
+[CollectionTest], Iteration of 100000 Dictionary<int  ClassWith1intb>(1000)  for (int j = SIZE  j != 0   j--) if (map.ContainsKey(j)) ClassWith1intb s = (ClassWith1intb) map[j] ,, average time,10531, min time,10531, max time,10531, relative deviation time,0

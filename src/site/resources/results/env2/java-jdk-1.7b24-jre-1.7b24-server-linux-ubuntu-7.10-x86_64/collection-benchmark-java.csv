@@ -1,0 +1,308 @@
+[CollectionTest], Creation of 1000000 ClassWith1Int[1000] final ClassWith1Int[] list = new ClassWith1Int[SIZE] ,, snapshot time,3532
+[CollectionTest], Creation of 1000000 ClassWith1Int[1000] final ClassWith1Int[] list = new ClassWith1Int[SIZE] ,, snapshot time,3481
+[CollectionTest], Creation of 1000000 ClassWith1Int[1000] final ClassWith1Int[] list = new ClassWith1Int[SIZE] ,, snapshot time,3532
+[CollectionTest], Creation of 1000000 ClassWith1Int[1000] final ClassWith1Int[] list = new ClassWith1Int[SIZE] ,, snapshot time,3480
+[CollectionTest], Creation of 1000000 ClassWith1Int[1000] final ClassWith1Int[] list = new ClassWith1Int[SIZE] ,, snapshot time,3497
+[CollectionTest], Creation of 1000000 ClassWith1Int[1000] final ClassWith1Int[] list = new ClassWith1Int[SIZE] ,, snapshot time,3516
+[CollectionTest], Creation of 1000000 ClassWith1Int[1000] final ClassWith1Int[] list = new ClassWith1Int[SIZE] ,, snapshot time,3509
+[CollectionTest], Creation of 1000000 ClassWith1Int[1000] final ClassWith1Int[] list = new ClassWith1Int[SIZE] ,, snapshot time,3512
+[CollectionTest], Creation of 1000000 ClassWith1Int[1000] final ClassWith1Int[] list = new ClassWith1Int[SIZE] ,, snapshot time,3508
+[CollectionTest], Creation of 1000000 ClassWith1Int[1000] final ClassWith1Int[] list = new ClassWith1Int[SIZE] ,, snapshot time,3509
+[CollectionTest], Creation of 1000000 ClassWith1Int[1000] final ClassWith1Int[] list = new ClassWith1Int[SIZE] ,, average time,3507, min time,3480, max time,3532, relative deviation time,0.48
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1IntArray[1000]  for (int j = SIZE   j-- != 0  ) list[j] = classWith1Int  ,, snapshot time,1082
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1IntArray[1000]  for (int j = SIZE   j-- != 0  ) list[j] = classWith1Int  ,, snapshot time,1135
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1IntArray[1000]  for (int j = SIZE   j-- != 0  ) list[j] = classWith1Int  ,, snapshot time,1078
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1IntArray[1000]  for (int j = SIZE   j-- != 0  ) list[j] = classWith1Int  ,, snapshot time,1090
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1IntArray[1000]  for (int j = SIZE   j-- != 0  ) list[j] = classWith1Int  ,, snapshot time,1127
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1IntArray[1000]  for (int j = SIZE   j-- != 0  ) list[j] = classWith1Int  ,, snapshot time,1094
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1IntArray[1000]  for (int j = SIZE   j-- != 0  ) list[j] = classWith1Int  ,, snapshot time,1126
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1IntArray[1000]  for (int j = SIZE   j-- != 0  ) list[j] = classWith1Int  ,, snapshot time,1086
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1IntArray[1000]  for (int j = SIZE   j-- != 0  ) list[j] = classWith1Int  ,, snapshot time,1074
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1IntArray[1000]  for (int j = SIZE   j-- != 0  ) list[j] = classWith1Int  ,, snapshot time,1139
+[CollectionTest], 1000000 Tests of Add 1000 Elements to ClassWith1IntArray[1000]  for (int j = SIZE   j-- != 0  ) list[j] = classWith1Int  ,, average time,1103, min time,1074, max time,1139, relative deviation time,2.19
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1Int[1000]  for (int j = SIZE   j-- != 0  ) final ClassWith1Int[] list = new ClassWith1Int[SIZE]  list[j] = classWithInt  ,, snapshot time,4277
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1Int[1000]  for (int j = SIZE   j-- != 0  ) final ClassWith1Int[] list = new ClassWith1Int[SIZE]  list[j] = classWithInt  ,, snapshot time,4329
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1Int[1000]  for (int j = SIZE   j-- != 0  ) final ClassWith1Int[] list = new ClassWith1Int[SIZE]  list[j] = classWithInt  ,, snapshot time,4264
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1Int[1000]  for (int j = SIZE   j-- != 0  ) final ClassWith1Int[] list = new ClassWith1Int[SIZE]  list[j] = classWithInt  ,, snapshot time,4333
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1Int[1000]  for (int j = SIZE   j-- != 0  ) final ClassWith1Int[] list = new ClassWith1Int[SIZE]  list[j] = classWithInt  ,, snapshot time,4285
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1Int[1000]  for (int j = SIZE   j-- != 0  ) final ClassWith1Int[] list = new ClassWith1Int[SIZE]  list[j] = classWithInt  ,, snapshot time,4273
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1Int[1000]  for (int j = SIZE   j-- != 0  ) final ClassWith1Int[] list = new ClassWith1Int[SIZE]  list[j] = classWithInt  ,, snapshot time,4333
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1Int[1000]  for (int j = SIZE   j-- != 0  ) final ClassWith1Int[] list = new ClassWith1Int[SIZE]  list[j] = classWithInt  ,, snapshot time,4280
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1Int[1000]  for (int j = SIZE   j-- != 0  ) final ClassWith1Int[] list = new ClassWith1Int[SIZE]  list[j] = classWithInt  ,, snapshot time,4285
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1Int[1000]  for (int j = SIZE   j-- != 0  ) final ClassWith1Int[] list = new ClassWith1Int[SIZE]  list[j] = classWithInt  ,, snapshot time,4341
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ClassWith1Int[1000]  for (int j = SIZE   j-- != 0  ) final ClassWith1Int[] list = new ClassWith1Int[SIZE]  list[j] = classWithInt  ,, average time,4300, min time,4264, max time,4341, relative deviation time,0.66
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With For Generic   for (final ClassWith1Int s : list)  count += s.getInt1()  , count=1000000000, snapshot time,1030
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With For Generic   for (final ClassWith1Int s : list)  count += s.getInt1()  , count=1000000000, snapshot time,1026
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With For Generic   for (final ClassWith1Int s : list)  count += s.getInt1()  , count=1000000000, snapshot time,1038
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With For Generic   for (final ClassWith1Int s : list)  count += s.getInt1()  , count=1000000000, snapshot time,1078
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With For Generic   for (final ClassWith1Int s : list)  count += s.getInt1()  , count=1000000000, snapshot time,1038
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With For Generic   for (final ClassWith1Int s : list)  count += s.getInt1()  , count=1000000000, snapshot time,1022
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With For Generic   for (final ClassWith1Int s : list)  count += s.getInt1()  , count=1000000000, snapshot time,1042
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With For Generic   for (final ClassWith1Int s : list)  count += s.getInt1()  , count=1000000000, snapshot time,1022
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With For Generic   for (final ClassWith1Int s : list)  count += s.getInt1()  , count=1000000000, snapshot time,1038
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With For Generic   for (final ClassWith1Int s : list)  count += s.getInt1()  , count=1000000000, snapshot time,1074
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With For Generic   for (final ClassWith1Int s : list)  count += s.getInt1()  ,, average time,1040, min time,1022, max time,1078, relative deviation time,1.81
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++) count += list[k].getInt1()  ,count=1000000000, snapshot time,1359
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++) count += list[k].getInt1()  ,count=1000000000, snapshot time,1091
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++) count += list[k].getInt1()  ,count=1000000000, snapshot time,1025
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++) count += list[k].getInt1()  ,count=1000000000, snapshot time,1038
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++) count += list[k].getInt1()  ,count=1000000000, snapshot time,1030
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++) count += list[k].getInt1()  ,count=1000000000, snapshot time,1086
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++) count += list[k].getInt1()  ,count=1000000000, snapshot time,1030
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++) count += list[k].getInt1()  ,count=1000000000, snapshot time,1034
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++) count += list[k].getInt1()  ,count=1000000000, snapshot time,1412
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++) count += list[k].getInt1()  ,count=1000000000, snapshot time,1034
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Forward Loop   for (int k = 0   k < list.length   k++) count += list[k].getInt1()  ,, average time,1113, min time,1025, max time,1412, relative deviation time,12.4
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Try Catch try{for (int k = 0     k++) count += list[k].getInt1()   } catch (ArrayIndexOutOfBoundsException x){},count=1000000000, snapshot time,1082
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Try Catch try{for (int k = 0     k++) count += list[k].getInt1()   } catch (ArrayIndexOutOfBoundsException x){},count=1000000000, snapshot time,1034
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Try Catch try{for (int k = 0     k++) count += list[k].getInt1()   } catch (ArrayIndexOutOfBoundsException x){},count=1000000000, snapshot time,1082
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Try Catch try{for (int k = 0     k++) count += list[k].getInt1()   } catch (ArrayIndexOutOfBoundsException x){},count=1000000000, snapshot time,1091
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Try Catch try{for (int k = 0     k++) count += list[k].getInt1()   } catch (ArrayIndexOutOfBoundsException x){},count=1000000000, snapshot time,1082
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Try Catch try{for (int k = 0     k++) count += list[k].getInt1()   } catch (ArrayIndexOutOfBoundsException x){},count=1000000000, snapshot time,1086
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Try Catch try{for (int k = 0     k++) count += list[k].getInt1()   } catch (ArrayIndexOutOfBoundsException x){},count=1000000000, snapshot time,1090
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Try Catch try{for (int k = 0     k++) count += list[k].getInt1()   } catch (ArrayIndexOutOfBoundsException x){},count=1000000000, snapshot time,1030
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Try Catch try{for (int k = 0     k++) count += list[k].getInt1()   } catch (ArrayIndexOutOfBoundsException x){},count=1000000000, snapshot time,1090
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Try Catch try{for (int k = 0     k++) count += list[k].getInt1()   } catch (ArrayIndexOutOfBoundsException x){},count=1000000000, snapshot time,1083
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Try Catch try{for (int k = 0     k++) count += list[k].getInt1()   } catch (ArrayIndexOutOfBoundsException x){},, average time,1075, min time,1030, max time,1091, relative deviation time,2.02
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = list[k - 1].getInt1()  ,count=1000000000, snapshot time,1090
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = list[k - 1].getInt1()  ,count=1000000000, snapshot time,1130
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = list[k - 1].getInt1()  ,count=1000000000, snapshot time,1103
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = list[k - 1].getInt1()  ,count=1000000000, snapshot time,1078
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = list[k - 1].getInt1()  ,count=1000000000, snapshot time,1098
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = list[k - 1].getInt1()  ,count=1000000000, snapshot time,1082
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = list[k - 1].getInt1()  ,count=1000000000, snapshot time,1094
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = list[k - 1].getInt1()  ,count=1000000000, snapshot time,1078
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = list[k - 1].getInt1()  ,count=1000000000, snapshot time,1090
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count = list[k - 1].getInt1()  ,count=1000000000, snapshot time,1087
+[CollectionTest], Iteration of 1000000 ClassWith1intArray[1000] With Reverse Loop Different Zero  for (int k = list.length   k != 0   k--) count += list[k - 1].getInt1(),, average time,1093, min time,1078, max time,1130, relative deviation time,1.33
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1086
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1090
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1086
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1038
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1086
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1095
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1029
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1095
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1074
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1047
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1() ,, average time,1072, min time,1029, max time,1095, relative deviation time,2.2
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1073
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1047
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1074
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1098
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1022
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1102
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1078
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1046
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1078
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1()  ,count=1000000000, snapshot time,1102
+[CollectionTest], Iteration of 1000000 ClassWith1IntArray[1000] With Reverse Loop Different Zero Decrement In Test  for (int k = list.length   k-- != 0  ) count += list[k].getInt1() ,, average time,1072, min time,1022, max time,1102, relative deviation time,2.35
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,1304
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,1299
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,1299
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,1473
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,1307
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,1312
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,1367
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,1312
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,1360
+[CollectionTest], Copy data from an array to an array 1000,, snapshot time,1360
+[CollectionTest], Copy data from an array to an array 1000,, average time,1339, min time,1299, max time,1473, relative deviation time,3.84
+[CollectionTest], Copy Optimized data from an array to an array 1000,, snapshot time,426
+[CollectionTest], Copy Optimized data from an array to an array 1000,, snapshot time,446
+[CollectionTest], Copy Optimized data from an array to an array 1000,, snapshot time,435
+[CollectionTest], Copy Optimized data from an array to an array 1000,, snapshot time,483
+[CollectionTest], Copy Optimized data from an array to an array 1000,, snapshot time,446
+[CollectionTest], Copy Optimized data from an array to an array 1000,, snapshot time,431
+[CollectionTest], Copy Optimized data from an array to an array 1000,, snapshot time,438
+[CollectionTest], Copy Optimized data from an array to an array 1000,, snapshot time,443
+[CollectionTest], Copy Optimized data from an array to an array 1000,, snapshot time,426
+[CollectionTest], Copy Optimized data from an array to an array 1000,, snapshot time,495
+[CollectionTest], Copy Optimized data from an array to an array 1000,, average time,446, min time,426, max time,495, relative deviation time,5.0
+[CollectionTest], Creation of 1000000 ArrayList<ClassWith1Int>(1000) final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   ,, snapshot time,3488
+[CollectionTest], Creation of 1000000 ArrayList<ClassWith1Int>(1000) final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   ,, snapshot time,3537
+[CollectionTest], Creation of 1000000 ArrayList<ClassWith1Int>(1000) final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   ,, snapshot time,3545
+[CollectionTest], Creation of 1000000 ArrayList<ClassWith1Int>(1000) final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   ,, snapshot time,3556
+[CollectionTest], Creation of 1000000 ArrayList<ClassWith1Int>(1000) final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   ,, snapshot time,3493
+[CollectionTest], Creation of 1000000 ArrayList<ClassWith1Int>(1000) final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   ,, snapshot time,3560
+[CollectionTest], Creation of 1000000 ArrayList<ClassWith1Int>(1000) final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   ,, snapshot time,3505
+[CollectionTest], Creation of 1000000 ArrayList<ClassWith1Int>(1000) final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   ,, snapshot time,3552
+[CollectionTest], Creation of 1000000 ArrayList<ClassWith1Int>(1000) final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   ,, snapshot time,3501
+[CollectionTest], Creation of 1000000 ArrayList<ClassWith1Int>(1000) final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   ,, snapshot time,3552
+[CollectionTest], Creation of 1000000 ArrayList<ClassWith1Int>(1000) final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   ,, average time,3528, min time,3488, max time,3560, relative deviation time,0.77
+[CollectionTest], 1000000 Tests Add 1000 Elements to ArrayList<ClassWith1Int>(1000)     for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,5350
+[CollectionTest], 1000000 Tests Add 1000 Elements to ArrayList<ClassWith1Int>(1000)     for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,5315
+[CollectionTest], 1000000 Tests Add 1000 Elements to ArrayList<ClassWith1Int>(1000)     for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,5350
+[CollectionTest], 1000000 Tests Add 1000 Elements to ArrayList<ClassWith1Int>(1000)     for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,5318
+[CollectionTest], 1000000 Tests Add 1000 Elements to ArrayList<ClassWith1Int>(1000)     for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,5303
+[CollectionTest], 1000000 Tests Add 1000 Elements to ArrayList<ClassWith1Int>(1000)     for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,5378
+[CollectionTest], 1000000 Tests Add 1000 Elements to ArrayList<ClassWith1Int>(1000)     for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,5423
+[CollectionTest], 1000000 Tests Add 1000 Elements to ArrayList<ClassWith1Int>(1000)     for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,5370
+[CollectionTest], 1000000 Tests Add 1000 Elements to ArrayList<ClassWith1Int>(1000)     for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,5319
+[CollectionTest], 1000000 Tests Add 1000 Elements to ArrayList<ClassWith1Int>(1000)     for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,5322
+[CollectionTest], 1000000 Tests Add 1000 Elements to ArrayList<ClassWith1Int>(1000)     for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, average time,5344, min time,5303, max time,5423, relative deviation time,0.66
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList<ClassWith1Int>(1000)  final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,6517
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList<ClassWith1Int>(1000)  final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,6534
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList<ClassWith1Int>(1000)  final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,6546
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList<ClassWith1Int>(1000)  final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,6529
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList<ClassWith1Int>(1000)  final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,6559
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList<ClassWith1Int>(1000)  final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,6545
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList<ClassWith1Int>(1000)  final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,6494
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList<ClassWith1Int>(1000)  final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,6553
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList<ClassWith1Int>(1000)  final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,6510
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList<ClassWith1Int>(1000)  final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, snapshot time,6549
+[CollectionTest], Creation of 1000000 and Add 1000 Elements to ArrayList<ClassWith1Int>(1000)  final List<ClassWith1Int> list = new ArrayList<ClassWith1Int>(SIZE)   for (int j = SIZE   j != 0   j--) list.add(classWith1Int)  ,, average time,6533, min time,6494, max time,6559, relative deviation time,0.3
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Iterator  for (final Iterator<ClassWith1Int> iterator = list.iterator()   iterator.hasNext()  ) count += iterator.next().getInt1()  , count=1000000000, snapshot time,2708
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Iterator  for (final Iterator<ClassWith1Int> iterator = list.iterator()   iterator.hasNext()  ) count += iterator.next().getInt1()  , count=1000000000, snapshot time,2587
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Iterator  for (final Iterator<ClassWith1Int> iterator = list.iterator()   iterator.hasNext()  ) count += iterator.next().getInt1()  , count=1000000000, snapshot time,2643
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Iterator  for (final Iterator<ClassWith1Int> iterator = list.iterator()   iterator.hasNext()  ) count += iterator.next().getInt1()  , count=1000000000, snapshot time,2655
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Iterator  for (final Iterator<ClassWith1Int> iterator = list.iterator()   iterator.hasNext()  ) count += iterator.next().getInt1()  , count=1000000000, snapshot time,2651
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Iterator  for (final Iterator<ClassWith1Int> iterator = list.iterator()   iterator.hasNext()  ) count += iterator.next().getInt1()  , count=1000000000, snapshot time,2752
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Iterator  for (final Iterator<ClassWith1Int> iterator = list.iterator()   iterator.hasNext()  ) count += iterator.next().getInt1()  , count=1000000000, snapshot time,2586
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Iterator  for (final Iterator<ClassWith1Int> iterator = list.iterator()   iterator.hasNext()  ) count += iterator.next().getInt1()  , count=1000000000, snapshot time,2656
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Iterator  for (final Iterator<ClassWith1Int> iterator = list.iterator()   iterator.hasNext()  ) count += iterator.next().getInt1()  , count=1000000000, snapshot time,2651
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Iterator  for (final Iterator<ClassWith1Int> iterator = list.iterator()   iterator.hasNext()  ) count += iterator.next().getInt1()  , count=1000000000, snapshot time,2643
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Iterator  for (final Iterator<ClassWith1Int> iterator = list.iterator()   iterator.hasNext()  ) count += iterator.next().getInt1()  ,, average time,2653, min time,2586, max time,2752, relative deviation time,1.76
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With For Generic for (final ClassWith1Int s : list) count +=  s.getInt1()  , count=1000000000, snapshot time,2643
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With For Generic for (final ClassWith1Int s : list) count +=  s.getInt1()  , count=1000000000, snapshot time,2655
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With For Generic for (final ClassWith1Int s : list) count +=  s.getInt1()  , count=1000000000, snapshot time,2655
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With For Generic for (final ClassWith1Int s : list) count +=  s.getInt1()  , count=1000000000, snapshot time,2651
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With For Generic for (final ClassWith1Int s : list) count +=  s.getInt1()  , count=1000000000, snapshot time,2651
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With For Generic for (final ClassWith1Int s : list) count +=  s.getInt1()  , count=1000000000, snapshot time,2655
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With For Generic for (final ClassWith1Int s : list) count +=  s.getInt1()  , count=1000000000, snapshot time,2647
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With For Generic for (final ClassWith1Int s : list) count +=  s.getInt1()  , count=1000000000, snapshot time,2655
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With For Generic for (final ClassWith1Int s : list) count +=  s.getInt1()  , count=1000000000, snapshot time,2712
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With For Generic for (final ClassWith1Int s : list) count +=  s.getInt1()  , count=1000000000, snapshot time,2651
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With For Generic for (final ClassWith1Int s : list) count +=  s.getInt1()  ,, average time,2657, min time,2643, max time,2712, relative deviation time,0.69
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Forward Loop  for (int k = 0   k < list.size()   k++) count += list.get(k).length()  , count=1000000000, snapshot time,2490
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Forward Loop  for (int k = 0   k < list.size()   k++) count += list.get(k).length()  , count=1000000000, snapshot time,2547
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Forward Loop  for (int k = 0   k < list.size()   k++) count += list.get(k).length()  , count=1000000000, snapshot time,2494
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Forward Loop  for (int k = 0   k < list.size()   k++) count += list.get(k).length()  , count=1000000000, snapshot time,2543
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Forward Loop  for (int k = 0   k < list.size()   k++) count += list.get(k).length()  , count=1000000000, snapshot time,2498
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Forward Loop  for (int k = 0   k < list.size()   k++) count += list.get(k).length()  , count=1000000000, snapshot time,2486
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Forward Loop  for (int k = 0   k < list.size()   k++) count += list.get(k).length()  , count=1000000000, snapshot time,2550
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Forward Loop  for (int k = 0   k < list.size()   k++) count += list.get(k).length()  , count=1000000000, snapshot time,2491
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Forward Loop  for (int k = 0   k < list.size()   k++) count += list.get(k).length()  , count=1000000000, snapshot time,2550
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Forward Loop  for (int k = 0   k < list.size()   k++) count += list.get(k).length()  , count=1000000000, snapshot time,2486
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Forward Loop  for (int k = 0   k < list.size()   k++) count += list.get(k).length()  ,, average time,2513, min time,2486, max time,2550, relative deviation time,1.11
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Try Catch  try{ for (int k = 0     k++) count += list.get(k).getInt1()  } catch (IndexOutOfBoundsException x){},count=1000000000, snapshot time,2603
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Try Catch  try{ for (int k = 0     k++) count += list.get(k).getInt1()  } catch (IndexOutOfBoundsException x){},count=1000000000, snapshot time,2551
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Try Catch  try{ for (int k = 0     k++) count += list.get(k).getInt1()  } catch (IndexOutOfBoundsException x){},count=1000000000, snapshot time,2603
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Try Catch  try{ for (int k = 0     k++) count += list.get(k).getInt1()  } catch (IndexOutOfBoundsException x){},count=1000000000, snapshot time,2550
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Try Catch  try{ for (int k = 0     k++) count += list.get(k).getInt1()  } catch (IndexOutOfBoundsException x){},count=1000000000, snapshot time,2603
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Try Catch  try{ for (int k = 0     k++) count += list.get(k).getInt1()  } catch (IndexOutOfBoundsException x){},count=1000000000, snapshot time,2547
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Try Catch  try{ for (int k = 0     k++) count += list.get(k).getInt1()  } catch (IndexOutOfBoundsException x){},count=1000000000, snapshot time,2611
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Try Catch  try{ for (int k = 0     k++) count += list.get(k).getInt1()  } catch (IndexOutOfBoundsException x){},count=1000000000, snapshot time,2550
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Try Catch  try{ for (int k = 0     k++) count += list.get(k).getInt1()  } catch (IndexOutOfBoundsException x){},count=1000000000, snapshot time,2603
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Try Catch  try{ for (int k = 0     k++) count += list.get(k).getInt1()  } catch (IndexOutOfBoundsException x){},count=1000000000, snapshot time,2563
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Try Catch  try{ for (int k = 0     k++) count += list.get(k).getInt1()  } catch (IndexOutOfBoundsException x){},, average time,2578, min time,2547, max time,2611, relative deviation time,1.03
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += list.get(k - 1).getInt1()  ,count=1000000000, snapshot time,1496
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += list.get(k - 1).getInt1()  ,count=1000000000, snapshot time,1448
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += list.get(k - 1).getInt1()  ,count=1000000000, snapshot time,1449
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += list.get(k - 1).getInt1()  ,count=1000000000, snapshot time,1492
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += list.get(k - 1).getInt1()  ,count=1000000000, snapshot time,1501
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += list.get(k - 1).getInt1()  ,count=1000000000, snapshot time,1444
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += list.get(k - 1).getInt1()  ,count=1000000000, snapshot time,1448
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += list.get(k - 1).getInt1()  ,count=1000000000, snapshot time,1505
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += list.get(k - 1).getInt1()  ,count=1000000000, snapshot time,1449
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += list.get(k - 1).getInt1()  ,count=1000000000, snapshot time,1504
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero   for (int k = list.size()   k != 0   k--) count += list.get(k - 1).getInt1()  ,, average time,1473, min time,1444, max time,1505, relative deviation time,1.78
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.size()   k-- != 0  )  count += list.get(k).getInt1()  , count=1000000000, snapshot time,2490
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.size()   k-- != 0  )  count += list.get(k).getInt1()  , count=1000000000, snapshot time,2507
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.size()   k-- != 0  )  count += list.get(k).getInt1()  , count=1000000000, snapshot time,2554
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.size()   k-- != 0  )  count += list.get(k).getInt1()  , count=1000000000, snapshot time,2506
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.size()   k-- != 0  )  count += list.get(k).getInt1()  , count=1000000000, snapshot time,2503
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.size()   k-- != 0  )  count += list.get(k).getInt1()  , count=1000000000, snapshot time,2502
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.size()   k-- != 0  )  count += list.get(k).getInt1()  , count=1000000000, snapshot time,2554
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.size()   k-- != 0  )  count += list.get(k).getInt1()  , count=1000000000, snapshot time,2503
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.size()   k-- != 0  )  count += list.get(k).getInt1()  , count=1000000000, snapshot time,2506
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.size()   k-- != 0  )  count += list.get(k).getInt1()  , count=1000000000, snapshot time,2559
+[CollectionTest], Iteration of 1000000 ArrayList<ClassWith1Int>(1000) With Reverse Loop Different Zero Decrement in Test  for (int k = list.size()   k-- != 0  )  count += list.get(k).getInt1()  ,, average time,2518, min time,2490, max time,2559, relative deviation time,0.98
+[CollectionTest], Creation of 100000 HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,338
+[CollectionTest], Creation of 100000 HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,386
+[CollectionTest], Creation of 100000 HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,338
+[CollectionTest], Creation of 100000 HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,386
+[CollectionTest], Creation of 100000 HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,338
+[CollectionTest], Creation of 100000 HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,382
+[CollectionTest], Creation of 100000 HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,338
+[CollectionTest], Creation of 100000 HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,386
+[CollectionTest], Creation of 100000 HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,339
+[CollectionTest], Creation of 100000 HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,386
+[CollectionTest], Creation of 100000 HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  ,, average time,361, min time,338, max time,386, relative deviation time,6.52
+[CollectionTest], 100000 Tests of Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2615
+[CollectionTest], 100000 Tests of Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2679
+[CollectionTest], 100000 Tests of Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2619
+[CollectionTest], 100000 Tests of Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2676
+[CollectionTest], 100000 Tests of Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2615
+[CollectionTest], 100000 Tests of Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2671
+[CollectionTest], 100000 Tests of Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2623
+[CollectionTest], 100000 Tests of Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2671
+[CollectionTest], 100000 Tests of Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2676
+[CollectionTest], 100000 Tests of Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2615
+[CollectionTest], 100000 Tests of Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, average time,2646, min time,2615, max time,2679, relative deviation time,1.08
+[CollectionTest], Creation of 100000 And Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2293
+[CollectionTest], Creation of 100000 And Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2233
+[CollectionTest], Creation of 100000 And Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2229
+[CollectionTest], Creation of 100000 And Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2241
+[CollectionTest], Creation of 100000 And Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2281
+[CollectionTest], Creation of 100000 And Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2229
+[CollectionTest], Creation of 100000 And Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2228
+[CollectionTest], Creation of 100000 And Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2233
+[CollectionTest], Creation of 100000 And Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2294
+[CollectionTest], Creation of 100000 And Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2228
+[CollectionTest], Creation of 100000 And Put 1000 Elements  HashMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new HashMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, average time,2248, min time,2228, max time,2294, relative deviation time,1.19
+[CollectionTest], Iteration of 100000 HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,2241
+[CollectionTest], Iteration of 100000 HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,2294
+[CollectionTest], Iteration of 100000 HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,2232
+[CollectionTest], Iteration of 100000 HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,2289
+[CollectionTest], Iteration of 100000 HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,2241
+[CollectionTest], Iteration of 100000 HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,2293
+[CollectionTest], Iteration of 100000 HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,2241
+[CollectionTest], Iteration of 100000 HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,2241
+[CollectionTest], Iteration of 100000 HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,2301
+[CollectionTest], Iteration of 100000 HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,2241
+[CollectionTest], Iteration of 100000 HashMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j-- != 0  ) final ClassWith1Int s = map.get(j)  ,, average time,2261, min time,2232, max time,2301, relative deviation time,1.19
+[CollectionTest], Creation of 100000 TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,0
+[CollectionTest], Creation of 100000 TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,0
+[CollectionTest], Creation of 100000 TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,0
+[CollectionTest], Creation of 100000 TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,57
+[CollectionTest], Creation of 100000 TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,0
+[CollectionTest], Creation of 100000 TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,0
+[CollectionTest], Creation of 100000 TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,0
+[CollectionTest], Creation of 100000 TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,0
+[CollectionTest], Creation of 100000 TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,0
+[CollectionTest], Creation of 100000 TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  ,, snapshot time,0
+[CollectionTest], Creation of 100000 TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  ,, average time,5, min time,0, max time,57, relative deviation time,341.76
+[CollectionTest], 100000 Tests of Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2184
+[CollectionTest], 100000 Tests of Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2185
+[CollectionTest], 100000 Tests of Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2249
+[CollectionTest], 100000 Tests of Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2185
+[CollectionTest], 100000 Tests of Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2188
+[CollectionTest], 100000 Tests of Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2185
+[CollectionTest], 100000 Tests of Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2188
+[CollectionTest], 100000 Tests of Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2245
+[CollectionTest], 100000 Tests of Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2193
+[CollectionTest], 100000 Tests of Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,2193
+[CollectionTest], 100000 Tests of Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, average time,2199, min time,2184, max time,2249, relative deviation time,1.08
+[CollectionTest], Creation of 100000 And Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,1404
+[CollectionTest], Creation of 100000 And Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,1408
+[CollectionTest], Creation of 100000 And Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,1464
+[CollectionTest], Creation of 100000 And Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,1404
+[CollectionTest], Creation of 100000 And Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,1405
+[CollectionTest], Creation of 100000 And Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,1520
+[CollectionTest], Creation of 100000 And Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,1405
+[CollectionTest], Creation of 100000 And Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,1460
+[CollectionTest], Creation of 100000 And Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,1405
+[CollectionTest], Creation of 100000 And Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, snapshot time,1521
+[CollectionTest], Creation of 100000 And Put 1000 Elements  TreeMap<Integer  ClassWith1Int>(1000) final Map<Integer  ClassWith1Int> map = new TreeMap<Integer  ClassWith1Int>(SIZE)  for (int j = SIZE   j != 0  j--) map.put(j   classWith1Int)  ,, average time,1439, min time,1404, max time,1521, relative deviation time,3.2
+[CollectionTest], Iteration of 100000 TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,7992
+[CollectionTest], Iteration of 100000 TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,7994
+[CollectionTest], Iteration of 100000 TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,7942
+[CollectionTest], Iteration of 100000 TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,7942
+[CollectionTest], Iteration of 100000 TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,8006
+[CollectionTest], Iteration of 100000 TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,8015
+[CollectionTest], Iteration of 100000 TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,7906
+[CollectionTest], Iteration of 100000 TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,7966
+[CollectionTest], Iteration of 100000 TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,7966
+[CollectionTest], Iteration of 100000 TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, snapshot time,7966
+[CollectionTest], Iteration of 100000 TreeMap<Integer  ClassWith1Int>(1000)  for (int j = SIZE  j != 0  j--) final ClassWith1Int s = map.get(j)  ,, average time,7969, min time,7906, max time,8015, relative deviation time,0.39

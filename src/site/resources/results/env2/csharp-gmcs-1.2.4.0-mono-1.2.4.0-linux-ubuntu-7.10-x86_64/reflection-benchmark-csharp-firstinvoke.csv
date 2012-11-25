@@ -1,0 +1,132 @@
+[ReflectionTest], Creation of ReflectionClassWith1String 1000000, count=7000000, snapshot time,56,949
+[ReflectionTest], Creation of ReflectionClassWith1String 1000000, count=7000000, snapshot time,49,055
+[ReflectionTest], Creation of ReflectionClassWith1String 1000000, count=7000000, snapshot time,49,287
+[ReflectionTest], Creation of ReflectionClassWith1String 1000000, count=7000000, snapshot time,49,006
+[ReflectionTest], Creation of ReflectionClassWith1String 1000000, count=7000000, snapshot time,49,028
+[ReflectionTest], Creation of ReflectionClassWith1String 1000000, count=7000000, snapshot time,49,003
+[ReflectionTest], Creation of ReflectionClassWith1String 1000000, count=7000000, snapshot time,55,455
+[ReflectionTest], Creation of ReflectionClassWith1String 1000000, count=7000000, snapshot time,53,152
+[ReflectionTest], Creation of ReflectionClassWith1String 1000000, count=7000000, snapshot time,48,967
+[ReflectionTest], Creation of ReflectionClassWith1String 1000000, count=7000000, snapshot time,48,953
+[ReflectionTest], Creation of String 1000000,, average time,50, min time,48, max time,56, relative deviation time,5,65
+[ReflectionTest], Creation of ReflectionClassWith1String With Reflection 1000000, count=7000000, snapshot time,2288,292
+[ReflectionTest], Creation of ReflectionClassWith1String With Reflection 1000000, count=7000000, snapshot time,2172,372
+[ReflectionTest], Creation of ReflectionClassWith1String With Reflection 1000000, count=7000000, snapshot time,2256,953
+[ReflectionTest], Creation of ReflectionClassWith1String With Reflection 1000000, count=7000000, snapshot time,2170,297
+[ReflectionTest], Creation of ReflectionClassWith1String With Reflection 1000000, count=7000000, snapshot time,2256,869
+[ReflectionTest], Creation of ReflectionClassWith1String With Reflection 1000000, count=7000000, snapshot time,2174,289
+[ReflectionTest], Creation of ReflectionClassWith1String With Reflection 1000000, count=7000000, snapshot time,2269,556
+[ReflectionTest], Creation of ReflectionClassWith1String With Reflection 1000000, count=7000000, snapshot time,2172,936
+[ReflectionTest], Creation of ReflectionClassWith1String With Reflection 1000000, count=7000000, snapshot time,2259,183
+[ReflectionTest], Creation of ReflectionClassWith1String With Reflection 1000000, count=7000000, snapshot time,2265,96
+[ReflectionTest], Creation of String Wihh Reflection 1000000,, average time,2228, min time,2170, max time,2288, relative deviation time,2,09
+[ReflectionTest], Getter of ReflectionClassWith1String() test=5000000, count=35000000, snapshot time,8,381
+[ReflectionTest], Getter of ReflectionClassWith1String() test=5000000, count=35000000, snapshot time,8,331
+[ReflectionTest], Getter of ReflectionClassWith1String() test=5000000, count=35000000, snapshot time,8,365
+[ReflectionTest], Getter of ReflectionClassWith1String() test=5000000, count=35000000, snapshot time,8,331
+[ReflectionTest], Getter of ReflectionClassWith1String() test=5000000, count=35000000, snapshot time,8,365
+[ReflectionTest], Getter of ReflectionClassWith1String() test=5000000, count=35000000, snapshot time,8,331
+[ReflectionTest], Getter of ReflectionClassWith1String() test=5000000, count=35000000, snapshot time,8,363
+[ReflectionTest], Getter of ReflectionClassWith1String() test=5000000, count=35000000, snapshot time,8,331
+[ReflectionTest], Getter of ReflectionClassWith1String() test=5000000, count=35000000, snapshot time,8,374
+[ReflectionTest], Getter of ReflectionClassWith1String() test=5000000, count=35000000, snapshot time,8,331
+[ReflectionTest], Getter of ReflectionClassWith1String() test=5000000,, average time,8, min time,8, max time,8, relative deviation time,0
+[ReflectionTest], Getter of ReflectionClassWith1String() with Reflection test=5000000, count=35000000, snapshot time,13519,591
+[ReflectionTest], Getter of ReflectionClassWith1String() with Reflection test=5000000, count=35000000, snapshot time,13472,666
+[ReflectionTest], Getter of ReflectionClassWith1String() with Reflection test=5000000, count=35000000, snapshot time,13593,111
+[ReflectionTest], Getter of ReflectionClassWith1String() with Reflection test=5000000, count=35000000, snapshot time,13487,053
+[ReflectionTest], Getter of ReflectionClassWith1String() with Reflection test=5000000, count=35000000, snapshot time,13565,141
+[ReflectionTest], Getter of ReflectionClassWith1String() with Reflection test=5000000, count=35000000, snapshot time,13470,336
+[ReflectionTest], Getter of ReflectionClassWith1String() with Reflection test=5000000, count=35000000, snapshot time,13561,116
+[ReflectionTest], Getter of ReflectionClassWith1String() with Reflection test=5000000, count=35000000, snapshot time,13483,221
+[ReflectionTest], Getter of ReflectionClassWith1String() with Reflection test=5000000, count=35000000, snapshot time,13579,731
+[ReflectionTest], Getter of ReflectionClassWith1String() with Reflection test=5000000, count=35000000, snapshot time,13503,302
+[ReflectionTest], Getter of ReflectionClassWith1String() with Reflection test=5000000,, average time,13523, min time,13470, max time,13593, relative deviation time,0,33
+[ReflectionTest], Setter of ReflectionClassWith1String() test=5000000, count=0, snapshot time,4,167
+[ReflectionTest], Setter of ReflectionClassWith1String() test=5000000, count=0, snapshot time,4,167
+[ReflectionTest], Setter of ReflectionClassWith1String() test=5000000, count=0, snapshot time,4,487
+[ReflectionTest], Setter of ReflectionClassWith1String() test=5000000, count=0, snapshot time,4,392
+[ReflectionTest], Setter of ReflectionClassWith1String() test=5000000, count=0, snapshot time,4,166
+[ReflectionTest], Setter of ReflectionClassWith1String() test=5000000, count=0, snapshot time,4,398
+[ReflectionTest], Setter of ReflectionClassWith1String() test=5000000, count=0, snapshot time,4,165
+[ReflectionTest], Setter of ReflectionClassWith1String() test=5000000, count=0, snapshot time,4,35
+[ReflectionTest], Setter of ReflectionClassWith1String() test=5000000, count=0, snapshot time,4,422
+[ReflectionTest], Setter of ReflectionClassWith1String() test=5000000, count=0, snapshot time,4,166
+[ReflectionTest], Setter of ReflectionClassWith1String() test=5000000,, average time,4, min time,4, max time,4, relative deviation time,0
+[ReflectionTest], Setter of ReflectionClassWith1String() with Reflection test=5000000, snapshot time,,13118,753
+[ReflectionTest], Setter of ReflectionClassWith1String() with Reflection test=5000000, snapshot time,,13155,698
+[ReflectionTest], Setter of ReflectionClassWith1String() with Reflection test=5000000, snapshot time,,13161,812
+[ReflectionTest], Setter of ReflectionClassWith1String() with Reflection test=5000000, snapshot time,,13128,947
+[ReflectionTest], Setter of ReflectionClassWith1String() with Reflection test=5000000, snapshot time,,13056,286
+[ReflectionTest], Setter of ReflectionClassWith1String() with Reflection test=5000000, snapshot time,,13126,171
+[ReflectionTest], Setter of ReflectionClassWith1String() with Reflection test=5000000, snapshot time,,13139,781
+[ReflectionTest], Setter of ReflectionClassWith1String() with Reflection test=5000000, snapshot time,,13150,058
+[ReflectionTest], Setter of ReflectionClassWith1String() with Reflection test=5000000, snapshot time,,13139,567
+[ReflectionTest], Setter of ReflectionClassWith1String() with Reflection test=5000000, snapshot time,,13126,574
+[ReflectionTest], Setter of ReflectionClassWith1String() with Reflection test=5000000,, average time,13129, min time,13056, max time,13161, relative deviation time,0,21
+[ReflectionTest], Invoke Of A Static Method 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,3,002
+[ReflectionTest], Invoke Of A Static Method 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2,917
+[ReflectionTest], Invoke Of A Static Method 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2,915
+[ReflectionTest], Invoke Of A Static Method 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2,916
+[ReflectionTest], Invoke Of A Static Method 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2,916
+[ReflectionTest], Invoke Of A Static Method 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2,915
+[ReflectionTest], Invoke Of A Static Method 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2,916
+[ReflectionTest], Invoke Of A Static Method 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2,916
+[ReflectionTest], Invoke Of A Static Method 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2,916
+[ReflectionTest], Invoke Of A Static Method 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2,915
+[ReflectionTest], Invoke Of A Static Method 1000000 ReflectionInvokeImpl.echoStatic("").length(),, average time,2, min time,2, max time,3, relative deviation time,0
+[ReflectionTest], Invoke Of A Static Method With Reflection 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2678,647
+[ReflectionTest], Invoke Of A Static Method With Reflection 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2659,858
+[ReflectionTest], Invoke Of A Static Method With Reflection 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2672,471
+[ReflectionTest], Invoke Of A Static Method With Reflection 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2685,246
+[ReflectionTest], Invoke Of A Static Method With Reflection 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2750,379
+[ReflectionTest], Invoke Of A Static Method With Reflection 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2670,381
+[ReflectionTest], Invoke Of A Static Method With Reflection 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2678,303
+[ReflectionTest], Invoke Of A Static Method With Reflection 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2677,914
+[ReflectionTest], Invoke Of A Static Method With Reflection 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2680,443
+[ReflectionTest], Invoke Of A Static Method With Reflection 1000000 ReflectionInvokeImpl.echoStatic("").length(), count=1000000, snapshot time,2758,116
+[ReflectionTest], Invoke Of A Static Method With Reflection 1000000 ReflectionInvokeImpl.echoStatic("").length(),, average time,2690, min time,2659, max time,2758, relative deviation time,1,2
+[ReflectionTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 20000000 invoke.echoWithGetVariable().length()  , count=100000000, snapshot time,33,317
+[ReflectionTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 20000000 invoke.echoWithGetVariable().length()  , count=100000000, snapshot time,33,316
+[ReflectionTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 20000000 invoke.echoWithGetVariable().length()  , count=100000000, snapshot time,33,324
+[ReflectionTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 20000000 invoke.echoWithGetVariable().length()  , count=100000000, snapshot time,33,34
+[ReflectionTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 20000000 invoke.echoWithGetVariable().length()  , count=100000000, snapshot time,33,317
+[ReflectionTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 20000000 invoke.echoWithGetVariable().length()  , count=100000000, snapshot time,33,352
+[ReflectionTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 20000000 invoke.echoWithGetVariable().length()  , count=100000000, snapshot time,33,912
+[ReflectionTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 20000000 invoke.echoWithGetVariable().length()  , count=100000000, snapshot time,33,317
+[ReflectionTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 20000000 invoke.echoWithGetVariable().length()  , count=100000000, snapshot time,33,319
+[ReflectionTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 20000000 invoke.echoWithGetVariable().length()  , count=100000000, snapshot time,34,197
+[ReflectionTest], Invoke Of An Instance Method With Get Instance Variable Without Interface 20000000 invoke.echoWithGetVariable().length()  ,, average time,33, min time,33, max time,34, relative deviation time,0
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=100000000, snapshot time,61173,678
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=100000000, snapshot time,61172,321
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=100000000, snapshot time,61383,19
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=100000000, snapshot time,61163,384
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=100000000, snapshot time,61156,92
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=100000000, snapshot time,61205,637
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=100000000, snapshot time,61188,724
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=100000000, snapshot time,61166,05
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=100000000, snapshot time,61146,8
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=100000000, snapshot time,61175,744
+[ReflectionTest], Invoke Of An Instance Method With Get Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable().length()  ,, average time,61192, min time,61146, max time,61383, relative deviation time,0,1
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,49,574
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,49,559
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,49,579
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,49,567
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,51,365
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,47,746
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,49,694
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,50,301
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,47,85
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,49,534
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface 20000000 invoke.echoWithSetVariable("1").length()  ,, average time,48, min time,47, max time,51, relative deviation time,2,94
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,61808,33
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,62160,223
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,61803,074
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,61940,804
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,61855,687
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,61872,771
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,61985,459
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,62039,567
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,62116,749
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  , count=20000000, snapshot time,61850,386
+[ReflectionTest], Invoke Of An Instance Method With Set Instance Variable Without Interface With Reflection 20000000 invoke.echoWithSetVariable("1").length()  ,, average time,61942, min time,61803, max time,62160, relative deviation time,0,19

@@ -1,0 +1,22 @@
+[EnumTest], Invoke of 2000000 final Number[] numbers = Number.values(), count=20000000, snapshot time,282
+[EnumTest], Invoke of 2000000 final Number[] numbers = Number.values(), count=20000000, snapshot time,301
+[EnumTest], Invoke of 2000000 final Number[] numbers = Number.values(), count=20000000, snapshot time,298
+[EnumTest], Invoke of 2000000 final Number[] numbers = Number.values(), count=20000000, snapshot time,299
+[EnumTest], Invoke of 2000000 final Number[] numbers = Number.values(), count=20000000, snapshot time,298
+[EnumTest], Invoke of 2000000 final Number[] numbers = Number.values(), count=20000000, snapshot time,298
+[EnumTest], Invoke of 2000000 final Number[] numbers = Number.values(), count=20000000, snapshot time,298
+[EnumTest], Invoke of 2000000 final Number[] numbers = Number.values(), count=20000000, snapshot time,297
+[EnumTest], Invoke of 2000000 final Number[] numbers = Number.values(), count=20000000, snapshot time,297
+[EnumTest], Invoke of 2000000 final Number[] numbers = Number.values(), count=20000000, snapshot time,299
+[EnumTest], Invoke of 2000000 final Number[] numbers = Number.values(),, average time,296, min time,282, max time,301, relative deviation time,1.68
+[EnumTest], Invoke of 10000000 final Number number = Number.valueOf("ONE") switch (number)..., count=10000000, snapshot time,143
+[EnumTest], Invoke of 10000000 final Number number = Number.valueOf("ONE") switch (number)..., count=10000000, snapshot time,125
+[EnumTest], Invoke of 10000000 final Number number = Number.valueOf("ONE") switch (number)..., count=10000000, snapshot time,125
+[EnumTest], Invoke of 10000000 final Number number = Number.valueOf("ONE") switch (number)..., count=10000000, snapshot time,125
+[EnumTest], Invoke of 10000000 final Number number = Number.valueOf("ONE") switch (number)..., count=10000000, snapshot time,125
+[EnumTest], Invoke of 10000000 final Number number = Number.valueOf("ONE") switch (number)..., count=10000000, snapshot time,125
+[EnumTest], Invoke of 10000000 final Number number = Number.valueOf("ONE") switch (number)..., count=10000000, snapshot time,125
+[EnumTest], Invoke of 10000000 final Number number = Number.valueOf("ONE") switch (number)..., count=10000000, snapshot time,125
+[EnumTest], Invoke of 10000000 final Number number = Number.valueOf("ONE") switch (number)..., count=10000000, snapshot time,125
+[EnumTest], Invoke of 10000000 final Number number = Number.valueOf("ONE") switch (number)..., count=10000000, snapshot time,125
+[EnumTest], Invoke of 10000000 final Number[] numbers = Number.values(),, average time,126, min time,125, max time,143, relative deviation time,4.27

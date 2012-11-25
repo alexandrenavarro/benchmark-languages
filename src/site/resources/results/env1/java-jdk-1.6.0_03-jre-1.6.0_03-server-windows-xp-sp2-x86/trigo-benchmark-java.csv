@@ -1,0 +1,99 @@
+[TrigoTest], Calculation of Sine 1 while (i < 1.0E7) {sine = Math.sin(i)  i++ },  sine=0.9906646477361263, snapshot time,12811
+[TrigoTest], Calculation of Sine 1 while (i < 1.0E7) {sine = Math.sin(i)  i++ },  sine=0.9906646477361263, snapshot time,12795
+[TrigoTest], Calculation of Sine 1 while (i < 1.0E7) {sine = Math.sin(i)  i++ },  sine=0.9906646477361263, snapshot time,12780
+[TrigoTest], Calculation of Sine 1 while (i < 1.0E7) {sine = Math.sin(i)  i++ },  sine=0.9906646477361263, snapshot time,12812
+[TrigoTest], Calculation of Sine 1 while (i < 1.0E7) {sine = Math.sin(i)  i++ },  sine=0.9906646477361263, snapshot time,12749
+[TrigoTest], Calculation of Sine 1 while (i < 1.0E7) {sine = Math.sin(i)  i++ },  sine=0.9906646477361263, snapshot time,12748
+[TrigoTest], Calculation of Sine 1 while (i < 1.0E7) {sine = Math.sin(i)  i++ },  sine=0.9906646477361263, snapshot time,12765
+[TrigoTest], Calculation of Sine 1 while (i < 1.0E7) {sine = Math.sin(i)  i++ },  sine=0.9906646477361263, snapshot time,12748
+[TrigoTest], Calculation of Sine 1 while (i < 1.0E7) {sine = Math.sin(i)  i++ },  sine=0.9906646477361263, snapshot time,12749
+[TrigoTest], Calculation of Sine 1 while (i < 1.0E7) {sine = Math.sin(i)  i++ },  sine=0.9906646477361263, snapshot time,12827
+[TrigoTest], Calculation of Sine 1 while (i < 1.0E7) {sine = Math.sin(i)  i++ },, average time,12778, min time,12748, max time,12827, relative deviation time,0.22
+[TrigoTest], Calculation of Fast Sine 1 while (i < 1.0E7) {sine = sin(i)  i++ }, sine=0.9906646476829858, snapshot time,1453
+[TrigoTest], Calculation of Fast Sine 1 while (i < 1.0E7) {sine = sin(i)  i++ }, sine=0.9906646476829858, snapshot time,1453
+[TrigoTest], Calculation of Fast Sine 1 while (i < 1.0E7) {sine = sin(i)  i++ }, sine=0.9906646476829858, snapshot time,1469
+[TrigoTest], Calculation of Fast Sine 1 while (i < 1.0E7) {sine = sin(i)  i++ }, sine=0.9906646476829858, snapshot time,1453
+[TrigoTest], Calculation of Fast Sine 1 while (i < 1.0E7) {sine = sin(i)  i++ }, sine=0.9906646476829858, snapshot time,1453
+[TrigoTest], Calculation of Fast Sine 1 while (i < 1.0E7) {sine = sin(i)  i++ }, sine=0.9906646476829858, snapshot time,1468
+[TrigoTest], Calculation of Fast Sine 1 while (i < 1.0E7) {sine = sin(i)  i++ }, sine=0.9906646476829858, snapshot time,1453
+[TrigoTest], Calculation of Fast Sine 1 while (i < 1.0E7) {sine = sin(i)  i++ }, sine=0.9906646476829858, snapshot time,1469
+[TrigoTest], Calculation of Fast Sine 1 while (i < 1.0E7) {sine = sin(i)  i++ }, sine=0.9906646476829858, snapshot time,1453
+[TrigoTest], Calculation of Fast Sine 1 while (i < 1.0E7) {sine = sin(i)  i++ }, sine=0.9906646476829858, snapshot time,1453
+[TrigoTest], Calculation of Fast Sine 1 while (i < 1.0E7) {sine = sin(i)  i++ },, average time,1457, min time,1453, max time,1469, relative deviation time,0.49
+[TrigoTest], Calculation of Cosine 1 while (i < 1.0E7) {cosine = Math.cos(i)  i++ },  cosine=-0.13632151600483616, snapshot time,12749
+[TrigoTest], Calculation of Cosine 1 while (i < 1.0E7) {cosine = Math.cos(i)  i++ },  cosine=-0.13632151600483616, snapshot time,12748
+[TrigoTest], Calculation of Cosine 1 while (i < 1.0E7) {cosine = Math.cos(i)  i++ },  cosine=-0.13632151600483616, snapshot time,12765
+[TrigoTest], Calculation of Cosine 1 while (i < 1.0E7) {cosine = Math.cos(i)  i++ },  cosine=-0.13632151600483616, snapshot time,12749
+[TrigoTest], Calculation of Cosine 1 while (i < 1.0E7) {cosine = Math.cos(i)  i++ },  cosine=-0.13632151600483616, snapshot time,12780
+[TrigoTest], Calculation of Cosine 1 while (i < 1.0E7) {cosine = Math.cos(i)  i++ },  cosine=-0.13632151600483616, snapshot time,12780
+[TrigoTest], Calculation of Cosine 1 while (i < 1.0E7) {cosine = Math.cos(i)  i++ },  cosine=-0.13632151600483616, snapshot time,12795
+[TrigoTest], Calculation of Cosine 1 while (i < 1.0E7) {cosine = Math.cos(i)  i++ },  cosine=-0.13632151600483616, snapshot time,12780
+[TrigoTest], Calculation of Cosine 1 while (i < 1.0E7) {cosine = Math.cos(i)  i++ },  cosine=-0.13632151600483616, snapshot time,12827
+[TrigoTest], Calculation of Cosine 1 while (i < 1.0E7) {cosine = Math.cos(i)  i++ },  cosine=-0.13632151600483616, snapshot time,12796
+[TrigoTest], Calculation of Cosine 1 while (i < 1.0E7) {cosine = Math.cos(i)  i++ },, average time,12776, min time,12748, max time,12827, relative deviation time,0.18
+[TrigoTest], Calculation of Fast Cosine 1 while (i < 1.0E7) {cosine = cos(i)  i++ }, cosine=-0.13632151725343913, snapshot time,1468
+[TrigoTest], Calculation of Fast Cosine 1 while (i < 1.0E7) {cosine = cos(i)  i++ }, cosine=-0.13632151725343913, snapshot time,1485
+[TrigoTest], Calculation of Fast Cosine 1 while (i < 1.0E7) {cosine = cos(i)  i++ }, cosine=-0.13632151725343913, snapshot time,1468
+[TrigoTest], Calculation of Fast Cosine 1 while (i < 1.0E7) {cosine = cos(i)  i++ }, cosine=-0.13632151725343913, snapshot time,1469
+[TrigoTest], Calculation of Fast Cosine 1 while (i < 1.0E7) {cosine = cos(i)  i++ }, cosine=-0.13632151725343913, snapshot time,1484
+[TrigoTest], Calculation of Fast Cosine 1 while (i < 1.0E7) {cosine = cos(i)  i++ }, cosine=-0.13632151725343913, snapshot time,1469
+[TrigoTest], Calculation of Fast Cosine 1 while (i < 1.0E7) {cosine = cos(i)  i++ }, cosine=-0.13632151725343913, snapshot time,1484
+[TrigoTest], Calculation of Fast Cosine 1 while (i < 1.0E7) {cosine = cos(i)  i++ }, cosine=-0.13632151725343913, snapshot time,1469
+[TrigoTest], Calculation of Fast Cosine 1 while (i < 1.0E7) {cosine = cos(i)  i++ }, cosine=-0.13632151725343913, snapshot time,1484
+[TrigoTest], Calculation of Fast Cosine 1 while (i < 1.0E7) {cosine = cos(i)  i++ }, cosine=-0.13632151725343913, snapshot time,1468
+[TrigoTest], Calculation of Fast Cosine 1 while (i < 1.0E7) {cosine = cos(i)  i++ },, average time,1474, min time,1468, max time,1485, relative deviation time,0.52
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = Math.tan(i)  i++ },  tangente=-7.267118770165242, snapshot time,23623
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = Math.tan(i)  i++ },  tangente=-7.267118770165242, snapshot time,23623
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = Math.tan(i)  i++ },  tangente=-7.267118770165242, snapshot time,23638
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = Math.tan(i)  i++ },  tangente=-7.267118770165242, snapshot time,23623
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = Math.tan(i)  i++ },  tangente=-7.267118770165242, snapshot time,23623
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = Math.tan(i)  i++ },  tangente=-7.267118770165242, snapshot time,23622
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = Math.tan(i)  i++ },  tangente=-7.267118770165242, snapshot time,23764
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = Math.tan(i)  i++ },  tangente=-7.267118770165242, snapshot time,23701
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = Math.tan(i)  i++ },  tangente=-7.267118770165242, snapshot time,23669
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = Math.tan(i)  i++ },  tangente=-7.267118770165242, snapshot time,23685
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = Math.tan(i)  i++ },, average time,23657, min time,23622, max time,23764, relative deviation time,0.19
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = tan(i)  i++ },  tangente=-7.26711870321406, snapshot time,3235
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = tan(i)  i++ },  tangente=-7.26711870321406, snapshot time,3234
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = tan(i)  i++ },  tangente=-7.26711870321406, snapshot time,3249
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = tan(i)  i++ },  tangente=-7.26711870321406, snapshot time,3234
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = tan(i)  i++ },  tangente=-7.26711870321406, snapshot time,3234
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = tan(i)  i++ },  tangente=-7.26711870321406, snapshot time,3250
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = tan(i)  i++ },  tangente=-7.26711870321406, snapshot time,3234
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = tan(i)  i++ },  tangente=-7.26711870321406, snapshot time,3234
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = tan(i)  i++ },  tangente=-7.26711870321406, snapshot time,3234
+[TrigoTest], Calculation of Tangente 1 while (i < 1.0E7) {tangente = tan(i)  i++ },  tangente=-7.26711870321406, snapshot time,3250
+[TrigoTest], Calculation of Fast Tangente 1 while (i < 1.0E7) {tangente = tan(i)  i++ },, average time,3238, min time,3234, max time,3250, relative deviation time,0.22
+[TrigoTest], Calculation of Log 1 while (i < 1.0E7) {log = Math.log(i)  i++ },  log=16.118095550958316, snapshot time,406
+[TrigoTest], Calculation of Log 1 while (i < 1.0E7) {log = Math.log(i)  i++ },  log=16.118095550958316, snapshot time,422
+[TrigoTest], Calculation of Log 1 while (i < 1.0E7) {log = Math.log(i)  i++ },  log=16.118095550958316, snapshot time,422
+[TrigoTest], Calculation of Log 1 while (i < 1.0E7) {log = Math.log(i)  i++ },  log=16.118095550958316, snapshot time,406
+[TrigoTest], Calculation of Log 1 while (i < 1.0E7) {log = Math.log(i)  i++ },  log=16.118095550958316, snapshot time,422
+[TrigoTest], Calculation of Log 1 while (i < 1.0E7) {log = Math.log(i)  i++ },  log=16.118095550958316, snapshot time,422
+[TrigoTest], Calculation of Log 1 while (i < 1.0E7) {log = Math.log(i)  i++ },  log=16.118095550958316, snapshot time,422
+[TrigoTest], Calculation of Log 1 while (i < 1.0E7) {log = Math.log(i)  i++ },  log=16.118095550958316, snapshot time,406
+[TrigoTest], Calculation of Log 1 while (i < 1.0E7) {log = Math.log(i)  i++ },  log=16.118095550958316, snapshot time,422
+[TrigoTest], Calculation of Log 1 while (i < 1.0E7) {log = Math.log(i)  i++ },  log=16.118095550958316, snapshot time,437
+[TrigoTest], Calculation of Log 1 while (i < 1.0E7) {log = Math.log(i)  i++ },, average time,418, min time,406, max time,437, deviation time,2.24
+[TrigoTest], Calculation of Exp 1 while (i < 1.0E7) {exp = Math.exp(i)  i++ },  exp=9.889030319346946E42, snapshot time,1500
+[TrigoTest], Calculation of Exp 1 while (i < 1.0E7) {exp = Math.exp(i)  i++ },  exp=9.889030319346946E42, snapshot time,1515
+[TrigoTest], Calculation of Exp 1 while (i < 1.0E7) {exp = Math.exp(i)  i++ },  exp=9.889030319346946E42, snapshot time,1485
+[TrigoTest], Calculation of Exp 1 while (i < 1.0E7) {exp = Math.exp(i)  i++ },  exp=9.889030319346946E42, snapshot time,1515
+[TrigoTest], Calculation of Exp 1 while (i < 1.0E7) {exp = Math.exp(i)  i++ },  exp=9.889030319346946E42, snapshot time,1484
+[TrigoTest], Calculation of Exp 1 while (i < 1.0E7) {exp = Math.exp(i)  i++ },  exp=9.889030319346946E42, snapshot time,1500
+[TrigoTest], Calculation of Exp 1 while (i < 1.0E7) {exp = Math.exp(i)  i++ },  exp=9.889030319346946E42, snapshot time,1500
+[TrigoTest], Calculation of Exp 1 while (i < 1.0E7) {exp = Math.exp(i)  i++ },  exp=9.889030319346946E42, snapshot time,1500
+[TrigoTest], Calculation of Exp 1 while (i < 1.0E7) {exp = Math.exp(i)  i++ },  exp=9.889030319346946E42, snapshot time,1500
+[TrigoTest], Calculation of Exp 1 while (i < 1.0E7) {exp = Math.exp(i)  i++ },  exp=9.889030319346946E42, snapshot time,1515
+[TrigoTest], Calculation of Exp 1 while (i < 1.0E7) {exp = Math.exp(i)  i++ },, average time,1501, min time,1484, max time,1515, deviation time,0.7
+[TrigoTest], Calculation of Sqrt 1 while (i < 1.0E7) {sqrt = Math.sqrt(i)  i++ },  sqrt=3162.2775020544923, snapshot time,125
+[TrigoTest], Calculation of Sqrt 1 while (i < 1.0E7) {sqrt = Math.sqrt(i)  i++ },  sqrt=3162.2775020544923, snapshot time,141
+[TrigoTest], Calculation of Sqrt 1 while (i < 1.0E7) {sqrt = Math.sqrt(i)  i++ },  sqrt=3162.2775020544923, snapshot time,125
+[TrigoTest], Calculation of Sqrt 1 while (i < 1.0E7) {sqrt = Math.sqrt(i)  i++ },  sqrt=3162.2775020544923, snapshot time,140
+[TrigoTest], Calculation of Sqrt 1 while (i < 1.0E7) {sqrt = Math.sqrt(i)  i++ },  sqrt=3162.2775020544923, snapshot time,141
+[TrigoTest], Calculation of Sqrt 1 while (i < 1.0E7) {sqrt = Math.sqrt(i)  i++ },  sqrt=3162.2775020544923, snapshot time,125
+[TrigoTest], Calculation of Sqrt 1 while (i < 1.0E7) {sqrt = Math.sqrt(i)  i++ },  sqrt=3162.2775020544923, snapshot time,141
+[TrigoTest], Calculation of Sqrt 1 while (i < 1.0E7) {sqrt = Math.sqrt(i)  i++ },  sqrt=3162.2775020544923, snapshot time,125
+[TrigoTest], Calculation of Sqrt 1 while (i < 1.0E7) {sqrt = Math.sqrt(i)  i++ },  sqrt=3162.2775020544923, snapshot time,140
+[TrigoTest], Calculation of Sqrt 1 while (i < 1.0E7) {sqrt = Math.sqrt(i)  i++ },  sqrt=3162.2775020544923, snapshot time,125
+[TrigoTest], Calculation of Sqrt 1 while (i < 1.0E7) {sqrt = Math.sqrt(i)  i++ },, average time,132, min time,125, max time,141, relative deviation,5.91

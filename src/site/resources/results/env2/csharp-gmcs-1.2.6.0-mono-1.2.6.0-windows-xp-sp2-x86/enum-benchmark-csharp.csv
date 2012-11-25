@@ -1,0 +1,22 @@
+[EnumTest], Invoke of 2000000 Number[] numbers = (Number[]) Enum.GetValues(typeof(Number)),, snapshot time,8031,25
+[EnumTest], Invoke of 2000000 Number[] numbers = (Number[]) Enum.GetValues(typeof(Number)),, snapshot time,8031,25
+[EnumTest], Invoke of 2000000 Number[] numbers = (Number[]) Enum.GetValues(typeof(Number)),, snapshot time,8015,625
+[EnumTest], Invoke of 2000000 Number[] numbers = (Number[]) Enum.GetValues(typeof(Number)),, snapshot time,8015,625
+[EnumTest], Invoke of 2000000 Number[] numbers = (Number[]) Enum.GetValues(typeof(Number)),, snapshot time,8015,625
+[EnumTest], Invoke of 2000000 Number[] numbers = (Number[]) Enum.GetValues(typeof(Number)),, snapshot time,8031,25
+[EnumTest], Invoke of 2000000 Number[] numbers = (Number[]) Enum.GetValues(typeof(Number)),, snapshot time,8031,25
+[EnumTest], Invoke of 2000000 Number[] numbers = (Number[]) Enum.GetValues(typeof(Number)),, snapshot time,8031,25
+[EnumTest], Invoke of 2000000 Number[] numbers = (Number[]) Enum.GetValues(typeof(Number)),, snapshot time,8046,875
+[EnumTest], Invoke of 2000000 Number[] numbers = (Number[]) Enum.GetValues(typeof(Number)),, snapshot time,8031,25
+[EnumTest], Invoke of 2000000 Number[] numbers = (Number[]) Enum.GetValues(typeof(Number)),, average time,8027, min time,8015, max time,8046, relative deviation time,0,11
+[EnumTest], Invoke of 10000000  Number number = (Number) Enum.Parse(typeof(Number)  "ONE") switch (number)..., count=10000000, snapshot time,8203,125
+[EnumTest], Invoke of 10000000  Number number = (Number) Enum.Parse(typeof(Number)  "ONE") switch (number)..., count=10000000, snapshot time,8171,875
+[EnumTest], Invoke of 10000000  Number number = (Number) Enum.Parse(typeof(Number)  "ONE") switch (number)..., count=10000000, snapshot time,8156,25
+[EnumTest], Invoke of 10000000  Number number = (Number) Enum.Parse(typeof(Number)  "ONE") switch (number)..., count=10000000, snapshot time,8187,5
+[EnumTest], Invoke of 10000000  Number number = (Number) Enum.Parse(typeof(Number)  "ONE") switch (number)..., count=10000000, snapshot time,8156,25
+[EnumTest], Invoke of 10000000  Number number = (Number) Enum.Parse(typeof(Number)  "ONE") switch (number)..., count=10000000, snapshot time,8171,875
+[EnumTest], Invoke of 10000000  Number number = (Number) Enum.Parse(typeof(Number)  "ONE") switch (number)..., count=10000000, snapshot time,8187,5
+[EnumTest], Invoke of 10000000  Number number = (Number) Enum.Parse(typeof(Number)  "ONE") switch (number)..., count=10000000, snapshot time,8187,5
+[EnumTest], Invoke of 10000000  Number number = (Number) Enum.Parse(typeof(Number)  "ONE") switch (number)..., count=10000000, snapshot time,8187,5
+[EnumTest], Invoke of 10000000  Number number = (Number) Enum.Parse(typeof(Number)  "ONE") switch (number)..., count=10000000, snapshot time,8187,5
+[EnumTest], Invoke of 10000000 Number number = (Number) Enum.Parse(typeof(Number)  "ONE") switch (number)...,, average time,8179, min time,8156, max time,8203, relative deviation time,0,17

@@ -1,0 +1,44 @@
+[RecursiveTest], Invoke of 1 int fibo = FiboInstance.fibStatic(41), fibo=267914296, snapshot time,1797
+[RecursiveTest], Invoke of 1 int fibo = FiboInstance.fibStatic(41), fibo=267914296, snapshot time,1837
+[RecursiveTest], Invoke of 1 int fibo = FiboInstance.fibStatic(41), fibo=267914296, snapshot time,1782
+[RecursiveTest], Invoke of 1 int fibo = FiboInstance.fibStatic(41), fibo=267914296, snapshot time,1801
+[RecursiveTest], Invoke of 1 int fibo = FiboInstance.fibStatic(41), fibo=267914296, snapshot time,1789
+[RecursiveTest], Invoke of 1 int fibo = FiboInstance.fibStatic(41), fibo=267914296, snapshot time,1841
+[RecursiveTest], Invoke of 1 int fibo = FiboInstance.fibStatic(41), fibo=267914296, snapshot time,1794
+[RecursiveTest], Invoke of 1 int fibo = FiboInstance.fibStatic(41), fibo=267914296, snapshot time,1853
+[RecursiveTest], Invoke of 1 int fibo = FiboInstance.fibStatic(41), fibo=267914296, snapshot time,1842
+[RecursiveTest], Invoke of 1 int fibo = FiboInstance.fibStatic(41), fibo=267914296, snapshot time,1793
+[RecursiveTest], Invoke of 1 int fibo = FiboInstance.fibStatic(41),, average time,1812, min time,1782, max time,1853, relative deviation time,1.4
+[RecursiveTest], Invoke of  1 int fibo = fiboInstance.fib(41), fibo=267914296, snapshot time,1797
+[RecursiveTest], Invoke of  1 int fibo = fiboInstance.fib(41), fibo=267914296, snapshot time,1785
+[RecursiveTest], Invoke of  1 int fibo = fiboInstance.fib(41), fibo=267914296, snapshot time,1785
+[RecursiveTest], Invoke of  1 int fibo = fiboInstance.fib(41), fibo=267914296, snapshot time,1783
+[RecursiveTest], Invoke of  1 int fibo = fiboInstance.fib(41), fibo=267914296, snapshot time,1792
+[RecursiveTest], Invoke of  1 int fibo = fiboInstance.fib(41), fibo=267914296, snapshot time,1792
+[RecursiveTest], Invoke of  1 int fibo = fiboInstance.fib(41), fibo=267914296, snapshot time,1793
+[RecursiveTest], Invoke of  1 int fibo = fiboInstance.fib(41), fibo=267914296, snapshot time,1842
+[RecursiveTest], Invoke of  1 int fibo = fiboInstance.fib(41), fibo=267914296, snapshot time,1738
+[RecursiveTest], Invoke of  1 int fibo = fiboInstance.fib(41), fibo=267914296, snapshot time,1790
+[RecursiveTest], Invoke of 1 int fibo = fiboInstance.fib(41),, average time,1789, min time,1738, max time,1842, relative deviation time,1.31
+[RecursiveTest], Invoke of 1 fiboResult = fibo.fib(41), fibo=267914296, snapshot time,1855
+[RecursiveTest], Invoke of 1 fiboResult = fibo.fib(41), fibo=267914296, snapshot time,1798
+[RecursiveTest], Invoke of 1 fiboResult = fibo.fib(41), fibo=267914296, snapshot time,1790
+[RecursiveTest], Invoke of 1 fiboResult = fibo.fib(41), fibo=267914296, snapshot time,1802
+[RecursiveTest], Invoke of 1 fiboResult = fibo.fib(41), fibo=267914296, snapshot time,1839
+[RecursiveTest], Invoke of 1 fiboResult = fibo.fib(41), fibo=267914296, snapshot time,1806
+[RecursiveTest], Invoke of 1 fiboResult = fibo.fib(41), fibo=267914296, snapshot time,1786
+[RecursiveTest], Invoke of 1 fiboResult = fibo.fib(41), fibo=267914296, snapshot time,1803
+[RecursiveTest], Invoke of 1 fiboResult = fibo.fib(41), fibo=267914296, snapshot time,1794
+[RecursiveTest], Invoke of 1 fiboResult = fibo.fib(41), fibo=267914296, snapshot time,1794
+[RecursiveTest], Invoke of 1 fiboResult = fibo.fib(41),, average time,1806, min time,1786, max time,1855, relative deviation time,1.17
+[RecursiveTest], Invoke of 1 fibo = fiboImpl.fib(41), fibo=267914296, snapshot time,1795
+[RecursiveTest], Invoke of 1 fibo = fiboImpl.fib(41), fibo=267914296, snapshot time,1790
+[RecursiveTest], Invoke of 1 fibo = fiboImpl.fib(41), fibo=267914296, snapshot time,1798
+[RecursiveTest], Invoke of 1 fibo = fiboImpl.fib(41), fibo=267914296, snapshot time,1847
+[RecursiveTest], Invoke of 1 fibo = fiboImpl.fib(41), fibo=267914296, snapshot time,1750
+[RecursiveTest], Invoke of 1 fibo = fiboImpl.fib(41), fibo=267914296, snapshot time,1846
+[RecursiveTest], Invoke of 1 fibo = fiboImpl.fib(41), fibo=267914296, snapshot time,1746
+[RecursiveTest], Invoke of 1 fibo = fiboImpl.fib(41), fibo=267914296, snapshot time,1787
+[RecursiveTest], Invoke of 1 fibo = fiboImpl.fib(41), fibo=267914296, snapshot time,1822
+[RecursiveTest], Invoke of 1 fibo = fiboImpl.fib(41), fibo=267914296, snapshot time,1782
+[RecursiveTest], Invoke of 1 fibo = fiboImpl.fib(41),, average time,1796, min time,1746, max time,1847, relative deviation time,1.82

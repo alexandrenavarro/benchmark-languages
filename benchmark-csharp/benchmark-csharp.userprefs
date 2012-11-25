@@ -1,0 +1,34 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.DebuggingService>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/main/csharp/App.cs" ctype="Workbench">
+    <Files>
+      <File FileName="src/main/csharp/ArithmeticTest.cs" Line="51" Column="1" />
+      <File FileName="src/main/csharp/AutoboxingTest.cs" Line="190" Column="50" />
+      <File FileName="src/main/csharp/NestedLoopsTest.cs" Line="69" Column="6" />
+      <File FileName="src/main/csharp/App.cs" Line="43" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="benchmark-csharp" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="main" expanded="True">
+                <Node name="csharp" expanded="True">
+                  <Node name="App.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True">
+          <Node name="benchmark-csharp" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

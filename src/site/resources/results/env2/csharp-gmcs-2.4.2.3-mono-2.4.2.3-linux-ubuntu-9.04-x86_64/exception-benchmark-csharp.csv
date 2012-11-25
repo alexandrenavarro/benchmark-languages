@@ -1,0 +1,22 @@
+[ExceptionTest], Throw and catch RuntimeException 100000 try {throw new Exception()  } catch (Exception e) {},, snapshot time,935.935
+[ExceptionTest], Throw and catch RuntimeException 100000 try {throw new Exception()  } catch (Exception e) {},, snapshot time,936.501
+[ExceptionTest], Throw and catch RuntimeException 100000 try {throw new Exception()  } catch (Exception e) {},, snapshot time,940.428
+[ExceptionTest], Throw and catch RuntimeException 100000 try {throw new Exception()  } catch (Exception e) {},, snapshot time,936.837
+[ExceptionTest], Throw and catch RuntimeException 100000 try {throw new Exception()  } catch (Exception e) {},, snapshot time,937.371
+[ExceptionTest], Throw and catch RuntimeException 100000 try {throw new Exception()  } catch (Exception e) {},, snapshot time,937.145
+[ExceptionTest], Throw and catch RuntimeException 100000 try {throw new Exception()  } catch (Exception e) {},, snapshot time,964.612
+[ExceptionTest], Throw and catch RuntimeException 100000 try {throw new Exception()  } catch (Exception e) {},, snapshot time,981.52
+[ExceptionTest], Throw and catch RuntimeException 100000 try {throw new Exception()  } catch (Exception e) {},, snapshot time,941.671
+[ExceptionTest], Throw and catch RuntimeException 100000 try {throw new Exception()  } catch (Exception e) {},, snapshot time,937.145
+[ExceptionTest], Throw and catch RuntimeException 100000 try {throw new RuntimeException()} catch (RuntimeException e) {  },, average time,944, min time,935, max time,981, relative deviation time,1.55
+[ExceptionTest], Throw and catch Exception with deep try (5) 100000 try { try { try { try { try {throw new Exception()  } catch (RuntimeException e) {},, snapshot time,685.821
+[ExceptionTest], Throw and catch Exception with deep try (5) 100000 try { try { try { try { try {throw new Exception()  } catch (RuntimeException e) {},, snapshot time,683.141
+[ExceptionTest], Throw and catch Exception with deep try (5) 100000 try { try { try { try { try {throw new Exception()  } catch (RuntimeException e) {},, snapshot time,686.618
+[ExceptionTest], Throw and catch Exception with deep try (5) 100000 try { try { try { try { try {throw new Exception()  } catch (RuntimeException e) {},, snapshot time,678.617
+[ExceptionTest], Throw and catch Exception with deep try (5) 100000 try { try { try { try { try {throw new Exception()  } catch (RuntimeException e) {},, snapshot time,686.229
+[ExceptionTest], Throw and catch Exception with deep try (5) 100000 try { try { try { try { try {throw new Exception()  } catch (RuntimeException e) {},, snapshot time,687.413
+[ExceptionTest], Throw and catch Exception with deep try (5) 100000 try { try { try { try { try {throw new Exception()  } catch (RuntimeException e) {},, snapshot time,679.935
+[ExceptionTest], Throw and catch Exception with deep try (5) 100000 try { try { try { try { try {throw new Exception()  } catch (RuntimeException e) {},, snapshot time,681.38
+[ExceptionTest], Throw and catch Exception with deep try (5) 100000 try { try { try { try { try {throw new Exception()  } catch (RuntimeException e) {},, snapshot time,678.489
+[ExceptionTest], Throw and catch Exception with deep try (5) 100000 try { try { try { try { try {throw new Exception()  } catch (RuntimeException e) {},, snapshot time,680.136
+[ExceptionTest], Throw and catch RuntimeException with deep try (5) 100000 try { try { try { try { try {throw new RuntimeException()  } catch (RuntimeException e) {},, average time,682, min time,678, max time,687, relative deviation time,0.48

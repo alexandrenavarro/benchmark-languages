@@ -1,0 +1,48 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>benchmark-languages</groupId>
+	<artifactId>benchmark-languages</artifactId>
+	<packaging>pom</packaging>
+	<version>1.0-SNAPSHOT</version>
+	<name>Benchmark Languages</name>
+	<url>https://github.com/alexandrenavarro/benchmark-languages</url>
+	<inceptionYear>2009</inceptionYear>
+	<licenses>
+		<license>
+			<name>GNU Lesser General Public License3</name>
+			<url>http://www.gnu.org/licenses/lgpl.html</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+	<organization>
+		<name>Github</name>
+		<url>https://github.com/</url>
+	</organization>
+	<scm>
+		<connection>scm:git:git@github.com/alexandrenavarro/${project.artifactId}.git</connection>
+		<developerConnection>scm:git:git@github.com/alexandrenavarro/${project.artifactId}.git</developerConnection>
+		<url>${project.url}</url>
+	</scm>
+	
+	<developers>
+		<developer>
+			<id>alexandre_navarro</id>
+			<name>Alexandre Navarro</name>
+			<email>alexandre.j.navarro at gmail.com</email>
+			<roles>
+				<role>Project Lead</role>
+				<role>Developer</role>
+			</roles>
+			<timezone>+1</timezone>
+			<url>http://alexandre.j.navarro.free.fr</url>
+		</developer>
+	</developers>
+	<modules>
+		<module>benchmark-java</module>
+		<module>benchmark-csharp</module>
+		<module>benchmark-cpp</module>
+		<module>benchmark-scala</module>
+	</modules>
+</project>

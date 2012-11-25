@@ -1,0 +1,88 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>benchmark-languages</groupId>
+	<artifactId>benchmark-cpp</artifactId>
+	<packaging>pom</packaging>
+	<version>1.0-SNAPSHOT</version>
+	<name>benchmark-cpp</name>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>native-maven-plugin</artifactId>
+				<extensions>true</extensions>
+				<configuration>
+					<sources>
+						<source>
+							<directory>../src/main/cpp</directory>
+							<includes>
+								<include>*.cpp</include>
+							</includes>
+							<excludes>
+								<exclude>FileTest.cpp</exclude>
+							</excludes>
+						</source>
+					</sources>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+	<profiles>
+		<!-- add module msvc (Microsoft Visual C++) windows-x86 -->
+		<profile>
+			<id>add-benchmark-cpp-msvc-windows-x86-module</id>
+			<activation>
+				<os>
+					<family>windows</family>
+					<arch>x86</arch>
+				</os>
+			</activation>
+			<modules>
+				<module>benchmark-cpp-msvc-windows-x86</module>
+			</modules>
+		</profile>
+		<!-- add module g++ (GNU Compiler Collection) linux-x86 -->
+		<profile>
+			<id>add-benchmark-cpp-gcc-linux-x86-module</id>
+			<activation>
+				<os>
+					<family>unix</family>
+					<arch>i386</arch>
+				</os>
+			</activation>
+			<modules>
+				<module>benchmark-cpp-g++-linux-x86</module>
+			</modules>
+		</profile>
+		<!-- add module g++ (GNU Compiler Collection) linux-x86_64 -->
+		<profile>
+			<id>add-benchmark-cpp-gcc-linux-x86-64-module</id>
+			<activation>
+				<os>
+					<family>unix</family>
+					<arch>amd64</arch>
+				</os>
+			</activation>
+			<modules>
+				<module>benchmark-cpp-g++-linux-x86_64</module>
+			</modules>
+		</profile>
+
+		<!-- use this during release:prepare -->
+		<profile>
+			<id>all</id>
+			<activation>
+				<property>
+					<name>platform</name>
+					<value>all</value>
+				</property>
+			</activation>
+			<modules>
+				<module>benchmark-cpp-msvc-windows-x86</module>
+				<module>benchmark-cpp-g++-linux-x86</module>
+				<module>benchmark-cpp-g++-linux-x86_64</module>
+			</modules>
+		</profile>
+	</profiles>
+</project>

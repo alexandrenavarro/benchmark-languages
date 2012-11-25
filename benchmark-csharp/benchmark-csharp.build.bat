@@ -1,0 +1,1 @@
+nant.exe -t:net-2.0

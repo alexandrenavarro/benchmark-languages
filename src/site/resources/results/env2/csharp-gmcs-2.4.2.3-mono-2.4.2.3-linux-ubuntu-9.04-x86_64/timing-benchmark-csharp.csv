@@ -1,0 +1,11 @@
+[TimingTest], Invoke of 50000000 DateTime currentTime = DateTime.Now,, snapshot time,6616.24
+[TimingTest], Invoke of 50000000 DateTime currentTime = DateTime.Now,, snapshot time,6611.448
+[TimingTest], Invoke of 50000000 DateTime currentTime = DateTime.Now,, snapshot time,6612.797
+[TimingTest], Invoke of 50000000 DateTime currentTime = DateTime.Now,, snapshot time,6609.854
+[TimingTest], Invoke of 50000000 DateTime currentTime = DateTime.Now,, snapshot time,6610.849
+[TimingTest], Invoke of 50000000 DateTime currentTime = DateTime.Now,, snapshot time,6610.938
+[TimingTest], Invoke of 50000000 DateTime currentTime = DateTime.Now,, snapshot time,6612.338
+[TimingTest], Invoke of 50000000 DateTime currentTime = DateTime.Now,, snapshot time,6612.412
+[TimingTest], Invoke of 50000000 DateTime currentTime = DateTime.Now,, snapshot time,6612.685
+[TimingTest], Invoke of 50000000 DateTime currentTime = DateTime.Now,, snapshot time,6612.758
+[TimingTest], Invoke of 50000000 DateTime currentTime = DateTime.Now,, average time,6611, min time,6609, max time,6616, relative deviation time,0.02

@@ -1,0 +1,11 @@
+[TimingTest], Invoke of 50000000 clock_t currentTime = clock(),, snapshot time,10140,,,,,,
+[TimingTest], Invoke of 50000000 clock_t currentTime = clock(),, snapshot time,10120,,,,,,
+[TimingTest], Invoke of 50000000 clock_t currentTime = clock(),, snapshot time,10160,,,,,,
+[TimingTest], Invoke of 50000000 clock_t currentTime = clock(),, snapshot time,10160,,,,,,
+[TimingTest], Invoke of 50000000 clock_t currentTime = clock(),, snapshot time,10170,,,,,,
+[TimingTest], Invoke of 50000000 clock_t currentTime = clock(),, snapshot time,10170,,,,,,
+[TimingTest], Invoke of 50000000 clock_t currentTime = clock(),, snapshot time,10160,,,,,,
+[TimingTest], Invoke of 50000000 clock_t currentTime = clock(),, snapshot time,10160,,,,,,
+[TimingTest], Invoke of 50000000 clock_t currentTime = clock(),, snapshot time,10170,,,,,,
+[TimingTest], Invoke of 50000000 clock_t currentTime = clock(),, snapshot time,10170,,,,,,
+[TimingTest], Invoke of 50000000 clock_t currentTime = clock(),, average time,10158, min time,10120, max time,10170, relative deviation time,0.15

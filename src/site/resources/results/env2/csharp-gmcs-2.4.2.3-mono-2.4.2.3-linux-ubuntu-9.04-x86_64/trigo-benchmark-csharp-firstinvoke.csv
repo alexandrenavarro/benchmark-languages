@@ -1,0 +1,66 @@
+[TrigoTest], Calculation of Sin 1 while (i < 10000000) {sine = Math.Sin(i)  i++ }, sine=0.990664647736125, snapshot time,453.106
+[TrigoTest], Calculation of Sin 1 while (i < 10000000) {sine = Math.Sin(i)  i++ }, sine=0.990664647736125, snapshot time,453.138
+[TrigoTest], Calculation of Sin 1 while (i < 10000000) {sine = Math.Sin(i)  i++ }, sine=0.990664647736125, snapshot time,453.023
+[TrigoTest], Calculation of Sin 1 while (i < 10000000) {sine = Math.Sin(i)  i++ }, sine=0.990664647736125, snapshot time,453.018
+[TrigoTest], Calculation of Sin 1 while (i < 10000000) {sine = Math.Sin(i)  i++ }, sine=0.990664647736125, snapshot time,453.015
+[TrigoTest], Calculation of Sin 1 while (i < 10000000) {sine = Math.Sin(i)  i++ }, sine=0.990664647736125, snapshot time,453.018
+[TrigoTest], Calculation of Sin 1 while (i < 10000000) {sine = Math.Sin(i)  i++ }, sine=0.990664647736125, snapshot time,453.013
+[TrigoTest], Calculation of Sin 1 while (i < 10000000) {sine = Math.Sin(i)  i++ }, sine=0.990664647736125, snapshot time,453.097
+[TrigoTest], Calculation of Sin 1 while (i < 10000000) {sine = Math.Sin(i)  i++ }, sine=0.990664647736125, snapshot time,453.036
+[TrigoTest], Calculation of Sin 1 while (i < 10000000) {sine = Math.Sin(i)  i++ }, sine=0.990664647736125, snapshot time,453.041
+[TrigoTest], Calculation of Sin 1 while (i < 10000000) {sine = Math.Sin(i)     i++ },, average time,453, min time,453, max time,453, relative deviation time,0
+[TrigoTest], Calculation of Cos 1 while (i < 10000000) {cosine = Math.Cos(i)  i++ }, cosine=-0.136321516004849, snapshot time,445.638
+[TrigoTest], Calculation of Cos 1 while (i < 10000000) {cosine = Math.Cos(i)  i++ }, cosine=-0.136321516004849, snapshot time,445.634
+[TrigoTest], Calculation of Cos 1 while (i < 10000000) {cosine = Math.Cos(i)  i++ }, cosine=-0.136321516004849, snapshot time,445.681
+[TrigoTest], Calculation of Cos 1 while (i < 10000000) {cosine = Math.Cos(i)  i++ }, cosine=-0.136321516004849, snapshot time,445.64
+[TrigoTest], Calculation of Cos 1 while (i < 10000000) {cosine = Math.Cos(i)  i++ }, cosine=-0.136321516004849, snapshot time,445.702
+[TrigoTest], Calculation of Cos 1 while (i < 10000000) {cosine = Math.Cos(i)  i++ }, cosine=-0.136321516004849, snapshot time,445.708
+[TrigoTest], Calculation of Cos 1 while (i < 10000000) {cosine = Math.Cos(i)  i++ }, cosine=-0.136321516004849, snapshot time,445.712
+[TrigoTest], Calculation of Cos 1 while (i < 10000000) {cosine = Math.Cos(i)  i++ }, cosine=-0.136321516004849, snapshot time,445.712
+[TrigoTest], Calculation of Cos 1 while (i < 10000000) {cosine = Math.Cos(i)  i++ }, cosine=-0.136321516004849, snapshot time,445.717
+[TrigoTest], Calculation of Cos 1 while (i < 10000000) {cosine = Math.Cos(i)  i++ }, cosine=-0.136321516004849, snapshot time,445.711
+[TrigoTest], Calculation of Cos 1 while (i < 10000000) {cosine = Math.Cos(i)     i++ },, average time,445, min time,445, max time,445, relative deviation time,0
+[TrigoTest], Calculation of Tan 1 while (i < 10000000) {tan = Math.Tan(i)  i++ }, tan=-7.26711877016524, snapshot time,1123.182
+[TrigoTest], Calculation of Tan 1 while (i < 10000000) {tan = Math.Tan(i)  i++ }, tan=-7.26711877016524, snapshot time,1122.727
+[TrigoTest], Calculation of Tan 1 while (i < 10000000) {tan = Math.Tan(i)  i++ }, tan=-7.26711877016524, snapshot time,1122.877
+[TrigoTest], Calculation of Tan 1 while (i < 10000000) {tan = Math.Tan(i)  i++ }, tan=-7.26711877016524, snapshot time,1122.967
+[TrigoTest], Calculation of Tan 1 while (i < 10000000) {tan = Math.Tan(i)  i++ }, tan=-7.26711877016524, snapshot time,1122.915
+[TrigoTest], Calculation of Tan 1 while (i < 10000000) {tan = Math.Tan(i)  i++ }, tan=-7.26711877016524, snapshot time,1122.9
+[TrigoTest], Calculation of Tan 1 while (i < 10000000) {tan = Math.Tan(i)  i++ }, tan=-7.26711877016524, snapshot time,1122.89
+[TrigoTest], Calculation of Tan 1 while (i < 10000000) {tan = Math.Tan(i)  i++ }, tan=-7.26711877016524, snapshot time,1122.368
+[TrigoTest], Calculation of Tan 1 while (i < 10000000) {tan = Math.Tan(i)  i++ }, tan=-7.26711877016524, snapshot time,1122.84
+[TrigoTest], Calculation of Tan 1 while (i < 10000000) {tan = Math.Tan(i)  i++ }, tan=-7.26711877016524, snapshot time,1122.956
+[TrigoTest], Calculation of Tan 1 while (i < 10000000) {tan = Math.Tan(i)     i++ },, average time,1122, min time,1122, max time,1123, relative deviation time,0
+[TrigoTest], Calculation of Log 1 while (i < 10000000) {log = Math.Log(i)  i++ }, log=16.1180955509583, snapshot time,676.338
+[TrigoTest], Calculation of Log 1 while (i < 10000000) {log = Math.Log(i)  i++ }, log=16.1180955509583, snapshot time,676.123
+[TrigoTest], Calculation of Log 1 while (i < 10000000) {log = Math.Log(i)  i++ }, log=16.1180955509583, snapshot time,676.421
+[TrigoTest], Calculation of Log 1 while (i < 10000000) {log = Math.Log(i)  i++ }, log=16.1180955509583, snapshot time,676.218
+[TrigoTest], Calculation of Log 1 while (i < 10000000) {log = Math.Log(i)  i++ }, log=16.1180955509583, snapshot time,676.206
+[TrigoTest], Calculation of Log 1 while (i < 10000000) {log = Math.Log(i)  i++ }, log=16.1180955509583, snapshot time,676.214
+[TrigoTest], Calculation of Log 1 while (i < 10000000) {log = Math.Log(i)  i++ }, log=16.1180955509583, snapshot time,676.218
+[TrigoTest], Calculation of Log 1 while (i < 10000000) {log = Math.Log(i)  i++ }, log=16.1180955509583, snapshot time,676.282
+[TrigoTest], Calculation of Log 1 while (i < 10000000) {log = Math.Log(i)  i++ }, log=16.1180955509583, snapshot time,676.092
+[TrigoTest], Calculation of Log 1 while (i < 10000000) {log = Math.Log(i)  i++ }, log=16.1180955509583, snapshot time,676.233
+[TrigoTest], Calculation of Log 1 while (i < 10000000) {log = Math.Log(i)     i++ },, average time,676, min time,676, max time,676, relative deviation time,0
+[TrigoTest], Calculation of Exp 1 while (i < 10000000) {exp = Math.Exp(i)  i++ }, exp=9.88903031934695E+42, snapshot time,656.429
+[TrigoTest], Calculation of Exp 1 while (i < 10000000) {exp = Math.Exp(i)  i++ }, exp=9.88903031934695E+42, snapshot time,655.805
+[TrigoTest], Calculation of Exp 1 while (i < 10000000) {exp = Math.Exp(i)  i++ }, exp=9.88903031934695E+42, snapshot time,655.885
+[TrigoTest], Calculation of Exp 1 while (i < 10000000) {exp = Math.Exp(i)  i++ }, exp=9.88903031934695E+42, snapshot time,655.494
+[TrigoTest], Calculation of Exp 1 while (i < 10000000) {exp = Math.Exp(i)  i++ }, exp=9.88903031934695E+42, snapshot time,657.748
+[TrigoTest], Calculation of Exp 1 while (i < 10000000) {exp = Math.Exp(i)  i++ }, exp=9.88903031934695E+42, snapshot time,657.913
+[TrigoTest], Calculation of Exp 1 while (i < 10000000) {exp = Math.Exp(i)  i++ }, exp=9.88903031934695E+42, snapshot time,655.469
+[TrigoTest], Calculation of Exp 1 while (i < 10000000) {exp = Math.Exp(i)  i++ }, exp=9.88903031934695E+42, snapshot time,656.502
+[TrigoTest], Calculation of Exp 1 while (i < 10000000) {exp = Math.Exp(i)  i++ }, exp=9.88903031934695E+42, snapshot time,656.03
+[TrigoTest], Calculation of Exp 1 while (i < 10000000) {exp = Math.Exp(i)  i++ }, exp=9.88903031934695E+42, snapshot time,657.062
+[TrigoTest], Calculation of Exp 1 while (i < 10000000) {exp = Math.Exp(i)     i++ },, average time,655, min time,655, max time,657, relative deviation time,0.15
+[TrigoTest], Calculation of Sqrt 1 while (i < 10000000) {sqrt = Math.Sqrt(i)  i++ }, sqrt=3162.27750205449, snapshot time,237.492
+[TrigoTest], Calculation of Sqrt 1 while (i < 10000000) {sqrt = Math.Sqrt(i)  i++ }, sqrt=3162.27750205449, snapshot time,237.424
+[TrigoTest], Calculation of Sqrt 1 while (i < 10000000) {sqrt = Math.Sqrt(i)  i++ }, sqrt=3162.27750205449, snapshot time,237.447
+[TrigoTest], Calculation of Sqrt 1 while (i < 10000000) {sqrt = Math.Sqrt(i)  i++ }, sqrt=3162.27750205449, snapshot time,237.422
+[TrigoTest], Calculation of Sqrt 1 while (i < 10000000) {sqrt = Math.Sqrt(i)  i++ }, sqrt=3162.27750205449, snapshot time,237.426
+[TrigoTest], Calculation of Sqrt 1 while (i < 10000000) {sqrt = Math.Sqrt(i)  i++ }, sqrt=3162.27750205449, snapshot time,237.424
+[TrigoTest], Calculation of Sqrt 1 while (i < 10000000) {sqrt = Math.Sqrt(i)  i++ }, sqrt=3162.27750205449, snapshot time,237.421
+[TrigoTest], Calculation of Sqrt 1 while (i < 10000000) {sqrt = Math.Sqrt(i)  i++ }, sqrt=3162.27750205449, snapshot time,237.424
+[TrigoTest], Calculation of Sqrt 1 while (i < 10000000) {sqrt = Math.Sqrt(i)  i++ }, sqrt=3162.27750205449, snapshot time,237.425
+[TrigoTest], Calculation of Sqrt 1 while (i < 10000000) {sqrt = Math.Sqrt(i)  i++ }, sqrt=3162.27750205449, snapshot time,237.46
+[TrigoTest], Calculation of Sqrt 1 while (i < 10000000) {sqrt = Math.Sqrt(i)     i++ },, average time,237, min time,237, max time,237, relative deviation time,0

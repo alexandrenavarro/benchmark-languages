@@ -1,0 +1,72 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>benchmark-languages</groupId>
+	<artifactId>benchmark-java</artifactId>
+	<packaging>jar</packaging>
+	<version>1.0-SNAPSHOT</version>
+	<name>benchmark-java</name>
+	<profiles>
+		<!-- release for java -->
+		<profile>
+			<id>release</id>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+			<properties>
+				<java.optimize>true</java.optimize>
+				<java.debug>false</java.debug>
+			</properties>
+		</profile>
+		<!-- debug for java -->
+		<profile>
+			<id>debug</id>
+			<activation>
+				<property>
+					<name>debug</name>
+				</property>
+			</activation>
+			<properties>
+				<java.optimize>false</java.optimize>
+				<java.debug>true</java.debug>
+			</properties>
+		</profile>
+	</profiles>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>2.3.2</version>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+					<optimize>${java.optimize}</optimize>
+					<debug>${java.debug}</debug>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>appassembler-maven-plugin</artifactId>
+				<version>1.1.1</version>
+				<executions>
+					<execution>
+						<phase>package</phase>
+						<configuration>
+							<extraJvmArguments>-server -Xms1024m -Xmx1024m -XX:+AggressiveOpts</extraJvmArguments>
+							<programs>
+								<program>
+									<mainClass>App</mainClass>
+									<name>benchmark-java</name>
+								</program>
+							</programs>
+						</configuration>
+						<goals>
+							<goal>assemble</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
+</project>

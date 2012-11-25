@@ -1,0 +1,44 @@
+[AutoBoxingTest], testUnboxingInteger 200000000 final Integer integer = new Integer(i)  ,, snapshot time,406.25
+[AutoBoxingTest], testUnboxingInteger 200000000 final Integer integer = new Integer(i)  ,, snapshot time,390.625
+[AutoBoxingTest], testUnboxingInteger 200000000 final Integer integer = new Integer(i)  ,, snapshot time,406.25
+[AutoBoxingTest], testUnboxingInteger 200000000 final Integer integer = new Integer(i)  ,, snapshot time,421.875
+[AutoBoxingTest], testUnboxingInteger 200000000 final Integer integer = new Integer(i)  ,, snapshot time,406.25
+[AutoBoxingTest], testUnboxingInteger 200000000 final Integer integer = new Integer(i)  ,, snapshot time,406.25
+[AutoBoxingTest], testUnboxingInteger 200000000 final Integer integer = new Integer(i)  ,, snapshot time,406.25
+[AutoBoxingTest], testUnboxingInteger 200000000 final Integer integer = new Integer(i)  ,, snapshot time,406.25
+[AutoBoxingTest], testUnboxingInteger 200000000 final Integer integer = new Integer(i)  ,, snapshot time,406.25
+[AutoBoxingTest], testUnboxingInteger 200000000 final Integer integer = new Integer(i)  ,, snapshot time,390.625
+[AutoBoxingTest], testUnboxingInteger 200000000 final Integer integer = new Integer(i)  ,, average time,404, min time,390, max time,421, relative deviation time,2.07
+[AutoBoxingTest], testBoxingInteger 200000000 final Integer integer = new Integer(i)   int k = integer.intValue()  ,, snapshot time,32156.25
+[AutoBoxingTest], testBoxingInteger 200000000 final Integer integer = new Integer(i)   int k = integer.intValue()  ,, snapshot time,32031.25
+[AutoBoxingTest], testBoxingInteger 200000000 final Integer integer = new Integer(i)   int k = integer.intValue()  ,, snapshot time,44015.625
+[AutoBoxingTest], testBoxingInteger 200000000 final Integer integer = new Integer(i)   int k = integer.intValue()  ,, snapshot time,47546.875
+[AutoBoxingTest], testBoxingInteger 200000000 final Integer integer = new Integer(i)   int k = integer.intValue()  ,, snapshot time,34921.875
+[AutoBoxingTest], testBoxingInteger 200000000 final Integer integer = new Integer(i)   int k = integer.intValue()  ,, snapshot time,32031.25
+[AutoBoxingTest], testBoxingInteger 200000000 final Integer integer = new Integer(i)   int k = integer.intValue()  ,, snapshot time,32328.125
+[AutoBoxingTest], testBoxingInteger 200000000 final Integer integer = new Integer(i)   int k = integer.intValue()  ,, snapshot time,32031.25
+[AutoBoxingTest], testBoxingInteger 200000000 final Integer integer = new Integer(i)   int k = integer.intValue()  ,, snapshot time,32062.5
+[AutoBoxingTest], testBoxingInteger 200000000 final Integer integer = new Integer(i)   int k = integer.intValue()  ,, snapshot time,32031.25
+[AutoBoxingTest], testBoxingInteger 200000000 final Integer integer = new Integer(i)  ,, average time,35115, min time,32031, max time,47546, relative deviation time,15.53
+[AutoBoxingTest], testBoxingUnboxingInteger 200000000 final Integer integer = Integer.valueOf(i)   int k = integer.intValue()  ,, snapshot time,32031.25
+[AutoBoxingTest], testBoxingUnboxingInteger 200000000 final Integer integer = Integer.valueOf(i)   int k = integer.intValue()  ,, snapshot time,31906.25
+[AutoBoxingTest], testBoxingUnboxingInteger 200000000 final Integer integer = Integer.valueOf(i)   int k = integer.intValue()  ,, snapshot time,31906.25
+[AutoBoxingTest], testBoxingUnboxingInteger 200000000 final Integer integer = Integer.valueOf(i)   int k = integer.intValue()  ,, snapshot time,31953.125
+[AutoBoxingTest], testBoxingUnboxingInteger 200000000 final Integer integer = Integer.valueOf(i)   int k = integer.intValue()  ,, snapshot time,31937.5
+[AutoBoxingTest], testBoxingUnboxingInteger 200000000 final Integer integer = Integer.valueOf(i)   int k = integer.intValue()  ,, snapshot time,31937.5
+[AutoBoxingTest], testBoxingUnboxingInteger 200000000 final Integer integer = Integer.valueOf(i)   int k = integer.intValue()  ,, snapshot time,31921.875
+[AutoBoxingTest], testBoxingUnboxingInteger 200000000 final Integer integer = Integer.valueOf(i)   int k = integer.intValue()  ,, snapshot time,31921.875
+[AutoBoxingTest], testBoxingUnboxingInteger 200000000 final Integer integer = Integer.valueOf(i)   int k = integer.intValue()  ,, snapshot time,31921.875
+[AutoBoxingTest], testBoxingUnboxingInteger 200000000 final Integer integer = Integer.valueOf(i)   int k = integer.intValue()  ,, snapshot time,31937.5
+[AutoBoxingTest], testBoxingUnboxingInteger 200000000 final Integer integer = Integer.valueOf(i)   int k = integer.intValue()  ,, average time,31937, min time,31906, max time,32031, relative deviation time,0.1
+[AutoBoxingTest], testBoxingUnboxingDouble 200000000 final Double d = Double.valueOf(i)   double k = d.longValue()  ,, snapshot time,50156.25
+[AutoBoxingTest], testBoxingUnboxingDouble 200000000 final Double d = Double.valueOf(i)   double k = d.longValue()  ,, snapshot time,49187.5
+[AutoBoxingTest], testBoxingUnboxingDouble 200000000 final Double d = Double.valueOf(i)   double k = d.longValue()  ,, snapshot time,37531.25
+[AutoBoxingTest], testBoxingUnboxingDouble 200000000 final Double d = Double.valueOf(i)   double k = d.longValue()  ,, snapshot time,34859.375
+[AutoBoxingTest], testBoxingUnboxingDouble 200000000 final Double d = Double.valueOf(i)   double k = d.longValue()  ,, snapshot time,34828.125
+[AutoBoxingTest], testBoxingUnboxingDouble 200000000 final Double d = Double.valueOf(i)   double k = d.longValue()  ,, snapshot time,34843.75
+[AutoBoxingTest], testBoxingUnboxingDouble 200000000 final Double d = Double.valueOf(i)   double k = d.longValue()  ,, snapshot time,34921.875
+[AutoBoxingTest], testBoxingUnboxingDouble 200000000 final Double d = Double.valueOf(i)   double k = d.longValue()  ,, snapshot time,34828.125
+[AutoBoxingTest], testBoxingUnboxingDouble 200000000 final Double d = Double.valueOf(i)   double k = d.longValue()  ,, snapshot time,34812.5
+[AutoBoxingTest], testBoxingUnboxingDouble 200000000 final Double d = Double.valueOf(i)   double k = d.longValue()  ,, snapshot time,35828.125
+[AutoBoxingTest], testBoxingUnboxingDouble 200000000 final Double d = Double.valueOf(i)   double k = d.longValue()  ,, average time,38179, min time,34812, max time,50156, relative deviation time,15.2

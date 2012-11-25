@@ -1,0 +1,73 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>benchmark-languages</groupId>
+		<artifactId>benchmark-languages</artifactId>
+		<version>1.0-SNAPSHOT</version>
+	</parent>
+	<groupId>benchmark-languages</groupId>
+	<artifactId>benchmark-java-gcj-linux-x86_64</artifactId>
+	<packaging>exe</packaging>
+	<version>1.0-SNAPSHOT</version>
+	<name>benchmark-java-gcj-linux-x86_64</name>
+	<profiles>
+		<!-- release for linux gcj  -->
+		<profile>
+			<id>release</id>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+			<properties>
+				<compiler.options>-w -O2</compiler.options>
+				<linker.options></linker.options>
+			</properties>
+		</profile>
+		<!-- debug for linux gcj -->
+		<profile>
+			<id>debug</id>
+			<activation>
+				<property>
+					<name>debug</name>
+				</property>
+			</activation>
+			<properties>
+				<compiler.options>-g</compiler.options>
+				<linker.options></linker.options>
+			</properties>
+		</profile>
+	</profiles>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>native-maven-plugin</artifactId>
+				<extensions>true</extensions>
+				<configuration>
+					<sources>
+						<source>
+							<directory>../src/main/java</directory>
+							<includes>
+								<include>*.java</include>
+							</includes>
+							<excludes>
+								<exclude>CVS/**</exclude>
+							</excludes>
+						</source>
+					</sources>
+					<!-- gcj -->
+					<compilerProvider>generic</compilerProvider>
+					<compilerExecutable>gcj</compilerExecutable>
+					<compilerStartOptions>
+						<option>${compiler.options}</option>
+					</compilerStartOptions>
+					<linkerProvider>generic</linkerProvider>
+					<linkerExecutable>gcj</linkerExecutable>
+					<linkerStartOptions>
+						<option>--main=App ${linker.options}</option>
+					</linkerStartOptions>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>

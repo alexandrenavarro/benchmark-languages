@@ -1,0 +1,11 @@
+[TimingTest], Invoke of 50000000 long currenttime = System.currentTimeMillis(),1254343074583, snapshot time,13106
+[TimingTest], Invoke of 50000000 long currenttime = System.currentTimeMillis(),1254343086916, snapshot time,12331
+[TimingTest], Invoke of 50000000 long currenttime = System.currentTimeMillis(),1254343099236, snapshot time,12319
+[TimingTest], Invoke of 50000000 long currenttime = System.currentTimeMillis(),1254343111555, snapshot time,12319
+[TimingTest], Invoke of 50000000 long currenttime = System.currentTimeMillis(),1254343123870, snapshot time,12315
+[TimingTest], Invoke of 50000000 long currenttime = System.currentTimeMillis(),1254343136190, snapshot time,12319
+[TimingTest], Invoke of 50000000 long currenttime = System.currentTimeMillis(),1254343148508, snapshot time,12318
+[TimingTest], Invoke of 50000000 long currenttime = System.currentTimeMillis(),1254343160825, snapshot time,12316
+[TimingTest], Invoke of 50000000 long currenttime = System.currentTimeMillis(),1254343173135, snapshot time,12310
+[TimingTest], Invoke of 50000000 long currenttime = System.currentTimeMillis(),1254343185479, snapshot time,12344
+[TimingTest], Invoke of 50000000 long currentTime = System.currentTimeMillis(),, average time,12399, min time,12310, max time,13106, relative deviation time,1.9

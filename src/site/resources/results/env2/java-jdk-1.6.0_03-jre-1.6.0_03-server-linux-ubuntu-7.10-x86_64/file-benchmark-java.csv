@@ -1,0 +1,44 @@
+[FileTest], Write 1 file(s) with 2000000 lines,, snapshot time,404
+[FileTest], Write 1 file(s) with 2000000 lines,, snapshot time,336
+[FileTest], Write 1 file(s) with 2000000 lines,, snapshot time,392
+[FileTest], Write 1 file(s) with 2000000 lines,, snapshot time,392
+[FileTest], Write 1 file(s) with 2000000 lines,, snapshot time,392
+[FileTest], Write 1 file(s) with 2000000 lines,, snapshot time,392
+[FileTest], Write 1 file(s) with 2000000 lines,, snapshot time,386
+[FileTest], Write 1 file(s) with 2000000 lines,, snapshot time,393
+[FileTest], Write 1 file(s) with 2000000 lines,, snapshot time,392
+[FileTest], Write 1 file(s) with 2000000 lines,, snapshot time,392
+[FileTest], Write 1 file(s) with 2000000 lines,, average time,387, min time,336, max time,404, relative deviation time,4.52
+[FileTest], Write with flush 1 file(s) with 2000000 lines,, snapshot time,5796
+[FileTest], Write with flush 1 file(s) with 2000000 lines,, snapshot time,5380
+[FileTest], Write with flush 1 file(s) with 2000000 lines,, snapshot time,6471
+[FileTest], Write with flush 1 file(s) with 2000000 lines,, snapshot time,5408
+[FileTest], Write with flush 1 file(s) with 2000000 lines,, snapshot time,5427
+[FileTest], Write with flush 1 file(s) with 2000000 lines,, snapshot time,5357
+[FileTest], Write with flush 1 file(s) with 2000000 lines,, snapshot time,5465
+[FileTest], Write with flush 1 file(s) with 2000000 lines,, snapshot time,7040
+[FileTest], Write with flush 1 file(s) with 2000000 lines,, snapshot time,5473
+[FileTest], Write with flush 1 file(s) with 2000000 lines,, snapshot time,5484
+[FileTest], Write with flush 1 file(s) with 2000000 lines,, average time,5730, min time,5357, max time,7040, relative deviation time,9.43
+[FileTest], Read 1 file(s) with 2000000 lines,, snapshot time,1455
+[FileTest], Read 1 file(s) with 2000000 lines,, snapshot time,1451
+[FileTest], Read 1 file(s) with 2000000 lines,, snapshot time,1455
+[FileTest], Read 1 file(s) with 2000000 lines,, snapshot time,1456
+[FileTest], Read 1 file(s) with 2000000 lines,, snapshot time,1455
+[FileTest], Read 1 file(s) with 2000000 lines,, snapshot time,1451
+[FileTest], Read 1 file(s) with 2000000 lines,, snapshot time,1459
+[FileTest], Read 1 file(s) with 2000000 lines,, snapshot time,1451
+[FileTest], Read 1 file(s) with 2000000 lines,, snapshot time,1455
+[FileTest], Read 1 file(s) with 2000000 lines,, snapshot time,1452
+[FileTest], Read 1 file(s) with 2000000 lines,, average time,1454, min time,1451, max time,1459, relative deviation time,0.16
+[FileTest], Optimized Read 1 file(s) with 2000000 lines,, snapshot time,225
+[FileTest], Optimized Read 1 file(s) with 2000000 lines,, snapshot time,169
+[FileTest], Optimized Read 1 file(s) with 2000000 lines,, snapshot time,225
+[FileTest], Optimized Read 1 file(s) with 2000000 lines,, snapshot time,221
+[FileTest], Optimized Read 1 file(s) with 2000000 lines,, snapshot time,225
+[FileTest], Optimized Read 1 file(s) with 2000000 lines,, snapshot time,225
+[FileTest], Optimized Read 1 file(s) with 2000000 lines,, snapshot time,169
+[FileTest], Optimized Read 1 file(s) with 2000000 lines,, snapshot time,221
+[FileTest], Optimized Read 1 file(s) with 2000000 lines,, snapshot time,225
+[FileTest], Optimized Read 1 file(s) with 2000000 lines,, snapshot time,225
+[FileTest], Optimized Read 1 file(s) with 2000000 lines,, average time,213, min time,169, max time,225, relative deviation time,10.34

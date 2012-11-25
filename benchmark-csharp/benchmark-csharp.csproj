@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{55FBC7DC-F6CD-49EB-AD80-4DA5A975BD3E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>benchmark_csharp</RootNamespace>
+    <AssemblyName>benchmark-csharp</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>false</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>
+    </DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <Compile Include="src\main\csharp\App.cs" />
+    <Compile Include="src\main\csharp\ArithmeticTest.cs" />
+    <Compile Include="src\main\csharp\AutoboxingTest.cs" />
+    <Compile Include="src\main\csharp\CollectionTest.cs" />
+    <Compile Include="src\main\csharp\EnumTest.cs" />
+    <Compile Include="src\main\csharp\CreationTest.cs" />
+    <Compile Include="src\main\csharp\ExceptionTest.cs" />
+    <Compile Include="src\main\csharp\FileTest.cs" />
+    <Compile Include="src\main\csharp\GetterSetterTest.cs" />
+    <Compile Include="src\main\csharp\HeapSortTest.cs" />
+    <Compile Include="src\main\csharp\InvokeTest.cs" />
+    <Compile Include="src\main\csharp\MatrixMultiplyTest.cs" />
+    <Compile Include="src\main\csharp\NestedLoopsTest.cs" />
+    <Compile Include="src\main\csharp\RecursiveTest.cs" />
+    <Compile Include="src\main\csharp\ReflectionTest.cs" />
+    <Compile Include="src\main\csharp\StringConcatTest.cs" />
+    <Compile Include="src\main\csharp\ThreadingTest.cs" />
+    <Compile Include="src\main\csharp\TimingTest.cs" />
+    <Compile Include="src\main\csharp\TrigoTest.cs" />
+  </ItemGroup>
+</Project>

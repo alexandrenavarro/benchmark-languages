@@ -1,0 +1,125 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>benchmark-languages</groupId>
+	<artifactId>benchmark-csharp</artifactId>
+	<packaging>pom</packaging>
+	<version>1.0-SNAPSHOT</version>
+	<name>benchmark-csharp</name>
+	<profiles>
+		<!-- add module csc (Microsoft C# Compiler) win32 -->
+		<profile>
+			<id>add-benchmark-csharpcsc-windows-x86-module</id>
+			<activation>
+				<os>
+					<family>windows</family>
+					<arch>x86</arch>
+				</os>
+			</activation>
+			<modules>
+				<module>benchmark-csharp-csc-windows-x86</module>
+			</modules>
+			<properties>
+				<compilerCSharp>csc</compilerCSharp>
+			</properties>
+		</profile>
+		<!-- add module gmcs (Mono C# Compiler) win32 -->
+		<profile>
+			<id>add-benchmark-csharp-gmcs-windows-x86-module</id>
+			<activation>
+				<!-- change with your version -->
+				<file>
+					<exists>C:\Program Files\Mono-2.4.2.3\bin\gmcs.bat</exists>
+				</file>
+				<!-- activation with 2 tests   -->
+				<!--os>
+					<family>windows</family>
+					<arch>x86</arch>
+				</os-->
+			</activation>
+			<modules>
+				<module>benchmark-csharp-gmcs-windows-x86</module>
+			</modules>
+			<properties>
+				<compilerCSharp>gmcs</compilerCSharp>
+			</properties>
+		</profile>
+		<!-- add module gmcs (Mono C# Compiler) linux-x86 -->
+		<profile>
+			<id>add-benchmark-csharp-gmcs-linux-x86-module</id>
+			<activation>
+				<os>
+					<family>unix</family>
+					<arch>i386</arch>
+				</os>
+			</activation>
+			<modules>
+				<module>benchmark-csharp-gmcs-linux-x86</module>
+			</modules>
+			<properties>
+				<compilerCSharp>gmcs</compilerCSharp>
+			</properties>
+		</profile>
+		<!-- add module gmcs (Mono C# Compiler) linux-x86_64 -->
+		<profile>
+			<id>add-benchmark-csharp-gmcs-linux-x86-64-module</id>
+			<activation>
+				<os>
+					<family>unix</family>
+					<arch>amd64</arch>
+				</os>
+			</activation>
+			<modules>
+				<module>benchmark-csharp-gmcs-linux-x86_64</module>
+			</modules>
+			<properties>
+				<compilerCSharp>gmcs</compilerCSharp>
+			</properties>
+		</profile>
+
+		<!-- use this during release:prepare -->
+		<profile>
+			<id>all</id>
+			<activation>
+				<property>
+					<name>platform</name>
+					<value>all</value>
+				</property>
+			</activation>
+			<modules>
+				<module>benchmark-csharp-csc-windows-x86</module>
+				<module>benchmark-csharp-gmcs-windows-x86</module>
+				<module>benchmark-csharp-gmcs-linux-x86</module>
+				<module>benchmark-csharp-gmcs-linux-x86_64</module>
+			</modules>
+		</profile>
+	</profiles>
+	<build>
+		<sourceDirectory>../src/main/csharp</sourceDirectory>
+		<plugins>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<extensions>true</extensions>
+				<configuration>
+					<compilerId>csharp</compilerId>
+					<fork>true</fork>
+					<debug>false</debug>
+					<optimize>true</optimize>
+					<executable>${compilerCSharp}</executable>
+					<compilerArgument>-o</compilerArgument>
+					<compilerArguments>
+						<target>exe</target>
+						<mainClass>App</mainClass>
+					</compilerArguments>
+				</configuration>
+				<dependencies>
+					<dependency>
+						<groupId>org.codehaus.plexus</groupId>
+						<artifactId>plexus-compiler-csharp</artifactId>
+						<version>2.0</version>
+					</dependency>
+				</dependencies>
+			</plugin>
+		</plugins>
+	</build>
+</project>

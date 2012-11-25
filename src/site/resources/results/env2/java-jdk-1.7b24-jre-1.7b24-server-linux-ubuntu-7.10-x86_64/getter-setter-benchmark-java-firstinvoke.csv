@@ -1,0 +1,71 @@
+[GetterSetterTest], Getter of ClassWith1int() test=500000000, count=0 classWith1int.getInt1()=0 , snapshot time,0
+[GetterSetterTest], Getter of ClassWith1int() test=500000000, count=0 classWith1int.getInt1()=0 , snapshot time,52
+[GetterSetterTest], Getter of ClassWith1int() test=500000000, count=0 classWith1int.getInt1()=0 , snapshot time,0
+[GetterSetterTest], Getter of ClassWith1int() test=500000000, count=0 classWith1int.getInt1()=0 , snapshot time,0
+[GetterSetterTest], Getter of ClassWith1int() test=500000000, count=0 classWith1int.getInt1()=0 , snapshot time,0
+[GetterSetterTest], Getter of ClassWith1int() test=500000000, count=0 classWith1int.getInt1()=0 , snapshot time,0
+[GetterSetterTest], Getter of ClassWith1int() test=500000000, count=0 classWith1int.getInt1()=0 , snapshot time,0
+[GetterSetterTest], Getter of ClassWith1int() test=500000000, count=0 classWith1int.getInt1()=0 , snapshot time,0
+[GetterSetterTest], Getter of ClassWith1int() test=500000000, count=0 classWith1int.getInt1()=0 , snapshot time,0
+[GetterSetterTest], Getter of ClassWith1int() test=500000000, count=0 classWith1int.getInt1()=0 , snapshot time,0
+[GetterSetterTest], Getter of ClassWith1int() test=500000000,, average time,5, min time,0, max time,52, relative deviation time,311.76
+[GetterSetterTest], Setter of ClassWith1int() test=500000000, classWith1int.getInt1()=0, snapshot time,1177
+[GetterSetterTest], Setter of ClassWith1int() test=500000000, classWith1int.getInt1()=0, snapshot time,1194
+[GetterSetterTest], Setter of ClassWith1int() test=500000000, classWith1int.getInt1()=0, snapshot time,1191
+[GetterSetterTest], Setter of ClassWith1int() test=500000000, classWith1int.getInt1()=0, snapshot time,1122
+[GetterSetterTest], Setter of ClassWith1int() test=500000000, classWith1int.getInt1()=0, snapshot time,1147
+[GetterSetterTest], Setter of ClassWith1int() test=500000000, classWith1int.getInt1()=0, snapshot time,1178
+[GetterSetterTest], Setter of ClassWith1int() test=500000000, classWith1int.getInt1()=0, snapshot time,1142
+[GetterSetterTest], Setter of ClassWith1int() test=500000000, classWith1int.getInt1()=0, snapshot time,1126
+[GetterSetterTest], Setter of ClassWith1int() test=500000000, classWith1int.getInt1()=0, snapshot time,1142
+[GetterSetterTest], Setter of ClassWith1int() test=500000000, classWith1int.getInt1()=0, snapshot time,1186
+[GetterSetterTest], Setter of ClassWith1int() test=500000000,, average time,1160, min time,1122, max time,1194, relative deviation time,2.25
+[GetterSetterTest], Setter Getter of ClassWith1int() test=500000000, count=1961656320 classWith1int.getInt1()=0, snapshot time,1146
+[GetterSetterTest], Setter Getter of ClassWith1int() test=500000000, count=1961656320 classWith1int.getInt1()=0, snapshot time,1182
+[GetterSetterTest], Setter Getter of ClassWith1int() test=500000000, count=1961656320 classWith1int.getInt1()=0, snapshot time,1191
+[GetterSetterTest], Setter Getter of ClassWith1int() test=500000000, count=1961656320 classWith1int.getInt1()=0, snapshot time,1194
+[GetterSetterTest], Setter Getter of ClassWith1int() test=500000000, count=1961656320 classWith1int.getInt1()=0, snapshot time,1239
+[GetterSetterTest], Setter Getter of ClassWith1int() test=500000000, count=1961656320 classWith1int.getInt1()=0, snapshot time,1150
+[GetterSetterTest], Setter Getter of ClassWith1int() test=500000000, count=1961656320 classWith1int.getInt1()=0, snapshot time,1238
+[GetterSetterTest], Setter Getter of ClassWith1int() test=500000000, count=1961656320 classWith1int.getInt1()=0, snapshot time,1203
+[GetterSetterTest], Setter Getter of ClassWith1int() test=500000000, count=1961656320 classWith1int.getInt1()=0, snapshot time,1190
+[GetterSetterTest], Setter Getter of ClassWith1int() test=500000000, count=1961656320 classWith1int.getInt1()=0, snapshot time,1194
+[GetterSetterTest], Setter Getter of ClassWith1int() test=500000000,, average time,1192, min time,1146, max time,1239, relative deviation time,2.43
+[GetterSetterTest], Getter of ClassWith10int() test=500000000, count=0 classWith10int.getInt1()=1, snapshot time,53
+[GetterSetterTest], Getter of ClassWith10int() test=500000000, count=0 classWith10int.getInt1()=1, snapshot time,0
+[GetterSetterTest], Getter of ClassWith10int() test=500000000, count=0 classWith10int.getInt1()=1, snapshot time,0
+[GetterSetterTest], Getter of ClassWith10int() test=500000000, count=0 classWith10int.getInt1()=1, snapshot time,52
+[GetterSetterTest], Getter of ClassWith10int() test=500000000, count=0 classWith10int.getInt1()=1, snapshot time,0
+[GetterSetterTest], Getter of ClassWith10int() test=500000000, count=0 classWith10int.getInt1()=1, snapshot time,0
+[GetterSetterTest], Getter of ClassWith10int() test=500000000, count=0 classWith10int.getInt1()=1, snapshot time,52
+[GetterSetterTest], Getter of ClassWith10int() test=500000000, count=0 classWith10int.getInt1()=1, snapshot time,0
+[GetterSetterTest], Getter of ClassWith10int() test=500000000, count=0 classWith10int.getInt1()=1, snapshot time,0
+[GetterSetterTest], Getter of ClassWith10int() test=500000000, count=0 classWith10int.getInt1()=1, snapshot time,57
+[GetterSetterTest], Getter of ClassWith10int() test=500000000,, average time,21, min time,0, max time,57, relative deviation time,124.9
+[GetterSetterTest], Setter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2219
+[GetterSetterTest], Setter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2297
+[GetterSetterTest], Setter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2296
+[GetterSetterTest], Setter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2352
+[GetterSetterTest], Setter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2464
+[GetterSetterTest], Setter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2296
+[GetterSetterTest], Setter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2240
+[GetterSetterTest], Setter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2297
+[GetterSetterTest], Setter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2240
+[GetterSetterTest], Setter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2240
+[GetterSetterTest], Setter of ClassWith10int() test=500000000,, average time,2294, min time,2219, max time,2464, relative deviation time,2.97
+[GetterSetterTest], Setter Getter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,3013
+[GetterSetterTest], Setter Getter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2235
+[GetterSetterTest], Setter Getter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2272
+[GetterSetterTest], Setter Getter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2275
+[GetterSetterTest], Setter Getter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2246
+[GetterSetterTest], Setter Getter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2284
+[GetterSetterTest], Setter Getter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2212
+[GetterSetterTest], Setter Getter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2227
+[GetterSetterTest], Setter Getter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2372
+[GetterSetterTest], Setter Getter of ClassWith10int() test=500000000 , classWith10int.getInt1()=0, snapshot time,2290
+[GetterSetterTest], Setter Getter of ClassWith10int() test=500000000,, average time,2342, min time,2212, max time,3013, relative deviation time,9.71
+[GetterSetterTest], Getter of ClassWith1String() test=200000000, count=1400000000 classWith1String.getString1()=string1, snapshot time,14662
+[GetterSetterTest], Getter of ClassWith1String() test=200000000, count=1400000000 classWith1String.getString1()=string1, snapshot time,14200
+[GetterSetterTest], Getter of ClassWith1String() test=200000000, count=1400000000 classWith1String.getString1()=string1, snapshot time,14218
+[GetterSetterTest], Getter of ClassWith1String() test=200000000, count=1400000000 classWith1String.getString1()=string1, snapshot time,13873
+[GetterSetterTest], Getter of ClassWith1String() test=200000000, count=1400000000 classWith1String.getString1()=string1, snapshot time,15145
